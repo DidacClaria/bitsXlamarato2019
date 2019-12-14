@@ -1,0 +1,32 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern> CANCER * </pattern>
+        <template>
+            Si tienes cancer, busca info aca https://es.wikipedia.org/wiki/C%C3%A1ncer
+        </template>
+    </category>
+
+    <category>
+        <pattern> * CANCER * </pattern>
+        <template>
+            Muerete cerdo
+        </template>
+    </category>
+
+    <category>
+        <pattern> * CANCER </pattern>
+        <template>
+            Muerete cerdo
+        </template>
+    </category>
+
+    <category>
+        <pattern> CANCER </pattern>
+        <template>
+            Muerete cerdo
+        </template>
+    </category>
+
+</aiml>

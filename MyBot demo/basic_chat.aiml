@@ -1,0 +1,32 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern> HOLA * </pattern>
+        <template>
+            Hola, soy HealthBot, que necesitas?
+        </template>
+    </category>
+
+    <category>
+        <pattern> * HOLA * </pattern>
+        <template>
+            Hola, soy HealthBot, que necesitas?
+        </template>
+    </category>
+
+    <category>
+        <pattern> * HOLA </pattern>
+        <template>
+            Hola, soy HealthBot, que necesitas?
+        </template>
+    </category>
+
+    <category>
+        <pattern> HOLA </pattern>
+        <template>
+            Hola, soy HealthBot, que necesitas?
+        </template>
+    </category>
+
+</aiml>
