@@ -1,7 +1,7 @@
 import requests as requests
 import aiml as aiml
 
-url = "https://api.telegram.org/bot880784822:AAGp0PNbuUo3vKJusBOJHI8mIOE2iDNpyak"
+url = "https://api.telegram.org/bot1044048944:AAGJZOVrUUThYIcEfkd0IwBdPnYSIsQ7jHs"
 
 
 # create func that get chat id
@@ -46,6 +46,9 @@ def main():
             messagebot = bot.respond(message)
             if messagebot == "":
                 send_message(get_chat_id(update), "no entendí, parsero")
+            elif "0" <= messagebot[0] <= "9":
+                fullmessage = "https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=ES&Expert=" + messagebot
+                send_message(get_chat_id(update), "Aqui tienes informacion: \n" + fullmessage)
             else:
                 send_message(get_chat_id(update), messagebot)
             update_id += 1
