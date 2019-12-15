@@ -1,0 +1,56 @@
+Hola
+out: %Possibilities
+
+
+
+Que es el sindrome de moebis?
+out: Lo siento, no te entendí
+
+
+
+Que es el sindrome de moebius?
+out: Aqui tienes informacion: 
+	https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=ES&Expert=570
+
+
+
+Que sintomas tiene el sindrome de moebius?
+out:SINTOMAS 
+	Abnormality of the voice 
+	Cranial nerve paralysis 
+	Facial palsy 
+	Feeding difficulties in infancy 
+	Mask-like facies 
+	Open mouth 
+	Ophthalmoplegia 
+	Ptosis 
+	Strabismus 
+	Aplasia of the pectoralis major muscle 
+
+	 Mas informacion en el siguiente enlace: 
+	 https://www.orpha.net/consor/cgi-bin/Disease_HPOTerms.php?lng=ES&data_id=542&Typ=Pat&diseaseType=Pat&from=rightMenu
+
+
+
+Cuales son los sintomas del sindrome de moebius?
+out:SINTOMAS 
+	Abnormality of the voice 
+	Cranial nerve paralysis 
+	Facial palsy 
+	Feeding difficulties in infancy 
+	Mask-like facies 
+	Open mouth 
+	Ophthalmoplegia 
+	Ptosis 
+	Strabismus 
+	Aplasia of the pectoralis major muscle 
+
+	 Mas informacion en el siguiente enlace: 
+	 https://www.orpha.net/consor/cgi-bin/Disease_HPOTerms.php?lng=ES&data_id=542&Typ=Pat&diseaseType=Pat&from=rightMenu
+
+
+
+Y los sintomas de AEI?
+out: Lo siento, no dispongo informacion sobre los sintomas de esta enfermedad
+
+
