@@ -117,7 +117,7 @@ def main():
                     send_message(get_chat_id(update), "Lo siento, no dispongo informacion sobre los sintomas de esta enfermedad")
                 else:
                     sintomes = getsintomes(idsintoma)
-                    textsintomes = sintomes + "Mas informacion en el siguiente enlace: \n https://www.orpha.net/consor/cgi-bin/Disease_HPOTerms.php?lng=ES&data_id=" + idsintoma + "&Typ=Pat&diseaseType=Pat&from=rightMenu"
+                    textsintomes = sintomes + "\n Mas informacion en el siguiente enlace: \n https://www.orpha.net/consor/cgi-bin/Disease_HPOTerms.php?lng=ES&data_id=" + idsintoma + "&Typ=Pat&diseaseType=Pat&from=rightMenu"
 
                     send_message(get_chat_id(update), textsintomes)
             else:

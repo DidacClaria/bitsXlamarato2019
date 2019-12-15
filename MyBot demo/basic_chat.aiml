@@ -4,28 +4,48 @@
     <category>
         <pattern> HOLA * </pattern>
         <template>
-            Hola, soy HealthBot, que necesitas?
+            <random>
+                <li>Hola, soy HealthBot, que necesitas?</li>
+                <li>Bienvenido, preguntame!</li>
+                <li>Buenas, que puedo hacer por ti?</li>
+                <li>Hola, en que te puedo ayudar?</li>
+            </random>
         </template>
     </category>
 
     <category>
         <pattern> * HOLA * </pattern>
         <template>
-            Hola, soy HealthBot, que necesitas?
+            <random>
+                <li>Hola, soy HealthBot, que necesitas?</li>
+                <li>Bienvenido, preguntame!</li>
+                <li>Buenas, que puedo hacer por ti?</li>
+                <li>Hola, en que te puedo ayudar?</li>
+            </random>
         </template>
     </category>
 
     <category>
         <pattern> * HOLA </pattern>
         <template>
-            Hola, soy HealthBot, que necesitas?
+            <random>
+                <li>Hola, soy HealthBot, que necesitas?</li>
+                <li>Bienvenido, preguntame!</li>
+                <li>Buenas, que puedo hacer por ti?</li>
+                <li>Hola, en que te puedo ayudar?</li>
+            </random>
         </template>
     </category>
 
     <category>
         <pattern> HOLA </pattern>
         <template>
-            Hola, soy HealthBot, que necesitas?
+            <random>
+                <li>Hola, soy HealthBot, que necesitas?</li>
+                <li>Bienvenido, preguntame!</li>
+                <li>Buenas, que puedo hacer por ti!</li>
+                <li>Hola, en que te puedo ayudar?</li>
+            </random>
         </template>
     </category>
 
