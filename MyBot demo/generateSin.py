@@ -3,13 +3,13 @@ import requests as requests
 
 def main():
 
-    output = open("malalties.aiml", "w+")
     output2 = open("sintomas.aiml", "w+")
-    output.write("<aiml version=\"1.0.1\" encoding=\"UTF-8\">\n")
     output2.write("<aiml version=\"1.0.1\" encoding=\"UTF-8\">\n")
     for i in range(ord('A'), ord('Z') + 1):
 
         f = open(chr(i)+".txt", "r")
+
+        print(i)
 
         f1 = f.readlines()
 
@@ -42,98 +42,95 @@ def main():
                         elif aux == 2 and char == "\n":
                             aux = 0
 
+                    id = ""
+                    it = 0
+                    enfermedadhtml = requests.get("https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=ES&Expert=" + newurl)
+                    #print(enfermedadhtml.text)
+                    for _ in enfermedadhtml.text:
+                        if enfermedadhtml.text[it] == "D":
+                            if enfermedadhtml.text[it:it+28] == "Disease_HPOTerms.php?lng=ES&":
+                                it2 = it+28
+                                while "0" > enfermedadhtml.text[it2] or "9" < enfermedadhtml.text[it2]:
+                                    it2 += 1
+                                while "0" <= enfermedadhtml.text[it2] <= "9":
+                                    id += enfermedadhtml.text[it2]
+                                    it2 += 1
+                        it += 1
+
                     #print(id)
 
                     name = name.upper()
 
-                    output.write("<category><pattern> * ")
-                    output.write(name)
-                    output.write(" * </pattern><template>")
-                    output.write(newurl)
-                    output.write(" </template></category>\n")
-
-                    output.write("<category><pattern> * ")
-                    output.write(name)
-                    output.write(" </pattern><template>")
-                    output.write(newurl)
-                    output.write(" </template></category>\n")
-
-                    output.write("<category><pattern> ")
-                    output.write(name)
-                    output.write(" * </pattern><template>")
-                    output.write(newurl)
-                    output.write(" </template></category>\n")
-
                     output2.write("<category><pattern> * ")
                     output2.write("SINTOMAS * " + name)
                     output2.write(" * </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> * ")
                     output2.write(" SINTOMAS " + name)
                     output2.write(" * </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> * ")
                     output2.write("SINTOMAS * " + name)
                     output2.write(" </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> * ")
                     output2.write("SINTOMAS " + name)
                     output2.write(" </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> ")
                     output2.write("SINTOMAS * " + name)
                     output2.write(" * </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> ")
                     output2.write("SINTOMAS " + name)
                     output2.write(" * </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> * ")
                     output2.write("SINTOMAS * " + name)
                     output2.write(" * </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> * ")
                     output2.write("SINTOMAS " + name)
                     output2.write(" * </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> * ")
                     output2.write("SINTOMAS * " + name)
                     output2.write(" </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> * ")
                     output2.write("SINTOMAS " + name)
                     output2.write(" </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> ")
                     output2.write("SINTOMAS * " + name)
                     output2.write(" * </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     output2.write("<category><pattern> ")
                     output2.write("SINTOMAS * " + name)
                     output2.write(" * </pattern><template>")
-                    output2.write("s-" + newurl)
+                    output2.write(id)
                     output2.write(" </template></category>\n")
 
                     oldname = name
@@ -154,94 +151,76 @@ def main():
                         i += 1
 
                     if oldname != name:
-                        output.write("<category><pattern> * ")
-                        output.write(name)
-                        output.write(" * </pattern><template>")
-                        output.write(newurl)
-                        output.write(" </template></category>\n")
-
-                        output.write("<category><pattern> * ")
-                        output.write(name)
-                        output.write(" </pattern><template>")
-                        output.write(newurl)
-                        output.write(" </template></category>\n")
-
-                        output.write("<category><pattern> ")
-                        output.write(name)
-                        output.write(" * </pattern><template>")
-                        output.write(newurl)
-                        output.write(" </template></category>\n")
-
                         output2.write("<category><pattern> * ")
                         output2.write("SINTOMAS * " + name)
                         output2.write(" * </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> * ")
                         output2.write(" SINTOMAS " + name)
                         output2.write(" * </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> * ")
                         output2.write("SINTOMAS * " + name)
                         output2.write(" </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> * ")
                         output2.write("SINTOMAS " + name)
                         output2.write(" </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> ")
                         output2.write("SINTOMAS * " + name)
                         output2.write(" * </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> ")
                         output2.write("SINTOMAS " + name)
                         output2.write(" * </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> * ")
                         output2.write("SINTOMAS * " + name)
                         output2.write(" * </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> * ")
                         output2.write("SINTOMAS " + name)
                         output2.write(" * </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> * ")
                         output2.write("SINTOMAS * " + name)
                         output2.write(" </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> * ")
                         output2.write("SINTOMAS " + name)
                         output2.write(" </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> ")
                         output2.write("SINTOMAS * " + name)
                         output2.write(" * </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                         output2.write("<category><pattern> ")
                         output2.write("SINTOMAS * " + name)
                         output2.write(" * </pattern><template>")
-                        output2.write("s-" + newurl)
+                        output2.write(id)
                         output2.write(" </template></category>\n")
 
                 elif x == 3:
@@ -250,9 +229,7 @@ def main():
                 else:
                     x = 0
         f.close()
-    output.write("</aiml>")
     output2.write("</aiml>")
-    output.close()
     output2.close()
 
 
