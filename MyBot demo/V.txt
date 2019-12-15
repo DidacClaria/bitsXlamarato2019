@@ -1,0 +1,124 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3412'>VACTERL con hidrocefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180154'>Vagina septada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402075'>Válvula aórtica bicúspide familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542568'>Válvula aórtica cuadricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99064'>Válvula mitral acabalgada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95474'>Válvula mitral con doble orificio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95465'>Válvula mitral hendida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99056'>Válvula tricúspide en paracaídas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435372'>Válvula uretral anterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93110'>Válvula uretral posterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100070'>Variante agramatical de APP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100070'>Variante agramátical de la afasia progresiva primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275864'>Variante conductual de la demencia frontotemporal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370109'>Variante de ataxia-telangiectasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99844'>Variante de DAL-1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93926'>Variante de fusión interhemisférica media</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99844'>Variante de la deficiencia de adhesión leucocitaria 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228145'>Variante de la esclerosis múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79253'>Variante de la fenilcetonuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79253'>Variante de la PKU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300878'>Variante de la reticuloendoteliosis leucémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319340'>Variante del complejo de Carney</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231413'>Variante del GBS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1147'>Variante del síndrome de Freeman-Sheldon</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231413'>Variante del síndrome de Guillain-Barré</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3095'>Variante del síndrome de Rett</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231426'>Variante faringo-cérvico-braquial del síndrome de Guillain-Barré</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231419'>Variante funcional del GBS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231419'>Variante funcional del síndrome de Guillain-Barré</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93926'>Variante interhemisférica media de la holoprosencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86870'>Variante linfoblastoide de linfoma de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=250831'>Variante logopénica de la APP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231445'>Variante paraparética del GBS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231445'>Variante paraparética del síndrome de Guillain-Barré</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300878'>Variante prolinfocítica de la HCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300878'>Variante prolinfocítica de la leucemia de células pilosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231416'>Variante regional del GBS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231416'>Variante regional del síndrome de Guillain-Barré</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213574'>Variantes raras del adenocarcinoma de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52759'>Vasculitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140989'>Vasculitis aislada del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36412'>Vasculitis anti-C1q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156152'>Vasculitis asociada a anticuerpos anticitoplasma de neutrófilo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156140'>Vasculitis con afectación predominante de grandes vasos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91138'>Vasculitis crioglobulinémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=889'>Vasculitis cutánea de pequeño vaso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=889'>Vasculitis cutánea por hipersensibilidad</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156143'>Vasculitis de vasos medios predominantemente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156146'>Vasculitis de vasos pequeños predominantemente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542643'>Vasculitis hialinizante segmentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=761'>Vasculitis IgA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251325'>Vasculitis inducida por medicamentos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251328'>Vasculitis no clasificada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280369'>Vasculitis pediátrica rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404553'>Vasculitis por DADA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404553'>Vasculitis por deficiencia de ADA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156149'>Vasculitis por depósito de complejos inmunes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=761'>Vasculitis por inmunoglobulina A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48435'>Vasculitis postinfecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140989'>Vasculitis primaria del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=40923'>Vasculitis retiniana idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=445197'>Vasculitis secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36412'>Vasculitis urticarial hipocomplementémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36412'>Vasculitis urticarial hipocomplementémica de Mac Duffie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36412'>Vasculitis urticarial hipocomplementémica de McDuffie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=425120'>Vasculopatía asociada a STING con inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221126'>Vasculopatía cerebral glomeruloide proliferativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280779'>Vasculopatía colágena cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221126'>Vasculopatía encefaloclástica proliferativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542643'>Vasculopatía livedoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=496924'>Vasculopatía no inflamatoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221126'>Vasculopatía proliferativa e hidrocefalia/hidrancefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247691'>Vasculopatía retiniana con leucoencefalopatía cerebral y manifestaciones sistémicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522576'>Vasculopatía retiniana genética rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519317'>Vasculopatía retiniana rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247691'>Vasculopatía retiniana y leucoencefalopatía cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=838'>Vasculopatía retino-cocleo-cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370109'>v-AT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228379'>VATS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280779'>VCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99119'>VCI derecha conectada a la aurícula izquierda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=600'>VCPDM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99110'>VCS derecha que conecta con la aurícula izquierda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99111'>VCS izquierda persistente conectada a la aurícula izquierda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99109'>VCS izquierda persistente conectada a la aurícula izquierda a través del seno coronario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289157'>VDDI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289157'>VDDR-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93160'>VDDR II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2460'>VDEGS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93160'>VDRR II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84085'>Vejiga neurogénica no neurogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84085'>Vejiga neuropática oculta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140481'>Velocidad de conducción nerviosa enlentecida autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99119'>Vena cava inferior derecha conectada a la aurícula izquierda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99110'>Vena cava superior derecha conectada a la aurícula izquierda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99111'>Vena cava superior izquierda persistente conectada a la aurícula izquierda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99109'>Vena cava superior izquierda persistente que conecta con la aurícula izquierda a través del seno coronario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64743'>Venopatía portal obliterante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2037'>Ventana aortopulmonar congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443988'>Ventriculomegalia con enfermedad quística renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1461'>Ventrículos superoinferiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171684'>Vestibulopatía bilateral idopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402823'>VHD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=892'>VHL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137583'>VIN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97282'>VIPoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402823'>Virus de la hepatitis D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91495'>Vítreo primario hiperplásico persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98668'>Vitreorretinopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519304'>Vitreorretinopatía aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=898'>Vitreorretinopatía asociada a VCAN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=891'>Vitreorretinopatía exudativa familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329211'>Vitreorretinopatía inflamatoria neovascular autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519327'>Vitreorretinopatía sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26793'>VLCADD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=386'>VMC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443988'>VMCKD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83454'>VMGLOM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91495'>VPHP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353356'>VPTR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357131'>VTOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289365'>VUR familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=888'>VWS</a></li>

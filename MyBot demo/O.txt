@@ -1,0 +1,267 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54'>OA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398156'>OAFNS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1106'>OAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=374'>OAVS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77828'>Obesidad genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98267'>Obesidad genética no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98267'>Obesidad monogénica por una anomalía en la vía leptina-melanocortina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66628'>Obesidad por deficiencia congénita de leptina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397615'>Obesidad por deficiencia de CEP19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179494'>Obesidad por deficiencia del gen receptor de leptina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71529'>Obesidad por deficiencia del receptor de melanocortina-4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71528'>Obesidad por deficiencia de prohormona convertasa-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71526'>Obesidad por deficiencia de pro-opiomelanocortin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369873'>Obesidad por deficiencia de SIM1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179490'>Obesidad por resistencia congénita a la leptina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240371'>Obesidad sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439202'>OBPI sin recuperación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439202'>OBPL sin recuperación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96210'>OBSOLETO: Sordera genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=451612'>Obstrucción congénita familiar del conducto nasolagrimal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435365'>Obstrucción del tracto urinario inferior fetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314376'>Obstrucción intestinal en el recién nacido por deficiencia de guanilato-ciclasa 2C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352731'>OCA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79431'>OCA1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79434'>OCA1B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352734'>OCA1-MP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352737'>OCA1-TS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79432'>OCA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79433'>OCA3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79435'>OCA-4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370091'>OCA5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370097'>OCA6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352745'>OCA7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352734'>OCA tipo 1 MP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352737'>OCA tipo 1 TS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1647'>OCCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90064'>Oclusión arterial periférica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411527'>Oclusión de la vena central de la retina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247834'>OCMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=534'>OCR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=534'>OCRL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=56'>Ocronosis hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=557003'>Oculocerebrodental syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2718'>Oculotricodisplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166272'>ODCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166272'>Odontocondrodisplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83450'>Odontodisplasia regional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247685'>Odontohipofosfatasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77295'>Odontoleucodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1487'>ODP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140997'>OFD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488265'>OFD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2750'>OFD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2756'>OFD10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141000'>OFD11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141327'>OFD12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141330'>OFD13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=434179'>OFD14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=508501'>OFD18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2751'>OFD2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2752'>OFD3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2753'>OFD4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2919'>OFD5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2754'>OFD6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2755'>OFD8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141007'>OFD9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2750'>OFDI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2750'>OFDSI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79098'>Oftalmia simpática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466682'>Oftalmopatía eutiroidea de Graves</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1186'>Oftalmoplejía-ataxia-hipoacusia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64686'>Oftalmoplejía dolorosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520820'>Oftalmoplejía externa progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=663'>Oftalmoplejía externa progresiva asociada al ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=663'>Oftalmoplejía externa progresiva asociada al ADNmt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254892'>Oftalmoplejía externa progresiva autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254886'>Oftalmoplejía externa progresiva autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329336'>Oftalmoplejía externa progresiva crónica con miopatía mitocondrial de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=663'>Oftalmoplejía externa progresiva crónica de herencia materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2744'>Oftalmoplejía externa progresiva y escoliosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424080'>OGCT de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=666'>OI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314029'>OI con aumento de la masa ósea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216796'>OI tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216804'>OI tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216812'>OI tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216820'>OI tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216828'>OI tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85193'>OJI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519384'>Ojo quístico congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69088'>OL-EDA-ID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251656'>Oligoastrocitoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251663'>Oligoastrocitoma anaplásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251656'>Oligoastrocitoma mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294988'>Oligodactilia del pulgar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2730'>Oligodactilia postaxial tetramélica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=973'>Oligodactilia unilateral de los dedos 2-5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251627'>Oligodendroglioma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251630'>Oligodendroglioma anaplásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99798'>Oligodoncia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300576'>Oligodoncia-síndrome de predisposición al cáncer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2260'>Oligomeganefronia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79215'>Oligosacaridosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247834'>OMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2733'>Omodisplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93328'>Omodisplasia, forma autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93329'>Omodisplasia, forma autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210115'>OMPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1183'>OMS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2737'>Oncocercosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=660'>Onfalocele</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=116'>Onfalocele-macroglosia-gigantismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79144'>Onicodisplasia congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79144'>Onicodisplasia congénita de los dedos índices</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300512'>Onicomatricoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2786'>OOCHS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99806'>OOD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2721'>OODD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98890'>OPA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67036'>OPA3 autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98897'>OPDM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499107'>OPN idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364541'>OPSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2746'>Opsismodisplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1183'>Opsoclono-mioclono paraneoplásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500062'>ORAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466682'>Orbitopatía eutiroidea de Graves</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99060'>Orificio mitral desprotegido congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95457'>Orificio tricúspide descubierto congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=541454'>Origen anómalo de la arteria coronaria derecha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=541507'>Origen anómalo de la arteria coronaria en la arteria pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=541443'>Origen anómalo de la arteria coronaria izquierda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99050'>Origen anómalo de la arteria pulmonar derecha o izquierda de la aorta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99090'>Origen anormalmente alto de la arteria coronaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=541478'>Origen aórtico anómalo de la arteria coronaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353253'>Orodinia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2762'>Osificación ectópica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357154'>OSMF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=57196'>Osteítis condensante de la clavícula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=57196'>Osteitis condensante medial de la clavícula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93279'>Osteoartritis de inicio temprano con displasia espondiloepifisaria leve por la mutación en COL2A1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498445'>Osteoartropatía genética inflamatoria o tipo reumatoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248095'>Osteoartropatía hipertrófica idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248095'>Osteoartropatía hipertrófica primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1525'>Osteoartropatía idiopática de Currarino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=58040'>Osteoblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=564003'>Osteochondrosis of the metatarsal bone</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563991'>Osteochondrosis of the tarsal bone</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363976'>Osteoclastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2380'>Osteocondritis aséptica de la epífisis capital femoral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2054'>Osteocondritis de hueso tarsiano/metatarsiano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97335'>Osteocondritis de la tuberosidad de la tibia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97332'>Osteocondritis del hueso semilunar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97335'>Osteocondritis del tubérculo tibial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2764'>Osteocondritis disecante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251262'>Osteocondritis disecante familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251262'>Osteocondritis disecante y talla baja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1517'>Osteocondrodisplasia hipertricótica tipo Cantu</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457378'>Osteocondrodisplasia letal compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457378'>Osteocondrodisplasia letal compleja tipo Symoens-Barnes-Gistelinck</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=321'>Osteocondromas múltiples</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2767'>Osteocondromatosis carpotarsiana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399319'>Osteocondrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2380'>Osteocondrosis aséptica de la epífisis capital femoral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2768'>Osteocondrosis deformante de tibia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2054'>Osteocondrosis de hueso tarsiano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97336'>Osteocondrosis de la cabeza del húmero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97337'>Osteocondrosis de la rótula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97335'>Osteocondrosis de la tuberosidad de la tibia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97336'>Osteocondrosis del capítulo del húmero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97332'>Osteocondrosis del hueso semilunar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97335'>Osteocondrosis del tubérculo tibial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399391'>Osteocondrosis de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97337'>Osteocondrosis de rótula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3135'>Osteocondrosis espinal, forma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2763'>Osteocraneoestenosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2484'>Osteodisplasia de Melnick-Needles</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2769'>Osteodisplasia familiar, tipo Anderson</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2770'>Osteodisplasia poliquística lipomembranosa con leudoencefalopatía esclerosante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364526'>Osteodisplasia primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93444'>Osteodisplasia primaria con aumento de la densidad ósea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93450'>Osteodisplasia primaria con desarrollo desorganizado de los componentes esqueléticos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93446'>Osteodisplasia primaria con disminución de la densidad ósea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93441'>Osteodisplasia primaria con luxaciones múltiples</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364536'>Osteodisplasia primaria con micromelia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93447'>Osteodisplasia primaria con mineralización ósea defectuosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364531'>Osteodisplasia primaria con osificación progresiva de piel, músculo esquelético, fascias, tendones y ligamentos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1001'>Osteodistrofia hereditaria de Albright tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2801'>Osteoectasia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1798'>Osteoesclerosis autómica dominante tipo Stanescu</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1798'>Osteoesclerosis de Stanescu</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=666'>Osteogénesis imperfecta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314029'>Osteogénesis imperfecta con aumento de la masa ósea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216812'>Osteogénesis imperfecta deformante progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216812'>Osteogénesis imperfecta grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216804'>Osteogénesis imperfecta letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216796'>Osteogénesis imperfecta leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216796'>Osteogénesis imperfecta no deformante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216796'>Osteogénesis imperfecta tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216804'>Osteogénesis imperfecta tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216812'>Osteogénesis imperfecta tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216820'>Osteogénesis imperfecta tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216828'>Osteogénesis imperfecta tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85195'>Osteólisis expansiva familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73'>Osteólisis masiva idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73'>Osteólisis masiva progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2774'>Osteólisis multicéntrica carpotarsal con o sin nefropatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2774'>Osteólisis multicéntrica idiopática con o sin nefropatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93449'>Osteólisis primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352540'>Osteomalacia inducida por tumor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352540'>Osteomalacia oncogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352540'>Osteomalacia oncogénica hipofosfatémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2777'>Osteomesopicnosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324964'>Osteomielitis crónica no bacteriana/Osteomielitis crónica multifocal recurrente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210115'>Osteomielitis multifocal estéril con periostitis y pustulosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=824'>Osteomielofibrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399158'>Osteonecrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86820'>Osteonecrosis de la cabeza femoral, forma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399293'>Osteonecrosis de la mandíbula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399380'>Osteonecrosis de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399180'>Osteonecrosis no traumática secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2615'>Osteoperiostitis hipertrófica secundaria con pernio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2781'>Osteopetrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178389'>Osteopetrosis autosómica recesiva tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2785'>Osteopetrosis con acidosis tubular renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85179'>Osteopetrosis con displasia neuroaxonal, forma infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53'>Osteopetrosis de Albers-Schönberg</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2783'>Osteopetrosis dominante tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=667'>Osteopetrosis infantil maligna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210110'>Osteopetrosis intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210110'>Osteopetrosis intermedia autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=667'>Osteopetrosis maligna autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178389'>Osteopetrosis pobre en osteoclastos autosómica recesiva con hipogammaglobulinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166119'>Osteopoiquilosis aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85193'>Osteoporosis juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85193'>Osteoporosis juvenil idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391330'>Osteoporosis ligada al cromosoma X con fracturas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498481'>Osteoporosis primaria asociada a LRP5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=666'>Osteopsatirosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521127'>Osteorradionecrosis de la mandíbula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=668'>Osteosarcoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2760'>Osteosarcoma-anomalías de las extremidades-macrocitosis eritroide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2790'>Osteosclerosis autosómica dominante tipo Worth</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2777'>Osteosclerosis axial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79093'>Osteosclerosis familiar con anomalías del sistema nervioso y de las meninges</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1308'>OTCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79381'>Otra enfermedad de la dermis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91088'>Otra enfermedad metabólica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181381'>Otra forma rara de diabetes mellitus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90077'>Otras enfermedades dermatológicas adquiridas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=225713'>Otras enfermedades metabólicas con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79219'>Otro defecto de los neurotransmisores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269531'>Otro síndrome con una malformación del sistema nervioso central como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102010'>Otros síndromes con lisencefalia como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331244'>Otros síndromes de inmunodeficiencia con defectos predominantes de anticuerpos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331193'>Otros síndromes de inmunodeficiencia por defectos en la inmunidad innata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477808'>Otros trastornos genéticos de la dermis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79359'>Otro trastorno de la epidermis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500062'>Otulipenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98868'>Ovalocitosis del sudeste asiático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98868'>Ovalocitosis hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98868'>Ovalocitosis melanesia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99853'>Ovarioleucodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=243'>Ovarios resistentes a la hormona folículo estimulante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63440'>Oxicefalia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33572'>Oxoprolinuria por deficiencia de oxoprolinasa</a></li>

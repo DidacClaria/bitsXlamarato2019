@@ -1,0 +1,1008 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140989'>PACNS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477749'>PADMAL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=733'>PAF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220460'>PAFA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480536'>PAFA asociada a MSH3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454840'>PAFA asociada a NTHL1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247806'>PAFA ligada a APC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401911'>PAFA ligada a AXIN2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247798'>PAFA ligada a MUTYH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220460'>PAF atenuada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480536'>PAF atenuada asociada a MSH3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454840'>PAF atenuada asociada a NTHL1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247806'>PAF atenuada ligada a APC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247798'>PAF atenuada ligada a MUTYH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261584'>PAF por monosomía 5q22.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90797'>PAIS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2014'>Paladar hendido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324601'>Paladar hendido y anquiloglosia ligados al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163921'>PALE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=673'>Paludismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=612'>PAM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=767'>PAN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171700'>Panbronquiliolitis difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84'>Pancitopenia de Fanconi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1959'>Pancitopenia inmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317473'>Pancitopenia por mutaciones en IKZF1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3322'>Pancitopenia progresiva-inmunodeficiencia-hipoplasia cerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=674'>Páncreas accesorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=675'>Páncreas anular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=556955'>Pancreatic agenesis-holoprosencephaly syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64740'>Pancreatitis aguda recurrente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280302'>Pancreatitis asociada a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=103919'>Pancreatitis autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280302'>Pancreatitis autoinmune tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280315'>Pancreatitis autoinmune tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=676'>Pancreatitis crónica hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=103918'>Pancreatitis crónica tropical calcificante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280315'>Pancreatitis ducto-céntrica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280302'>Pancreatitis linfoplasmocitaria esclerosante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=103918'>Pancreatitis tropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=677'>Pancreatoblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300552'>Pancreatocolangitis folicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439729'>PAN cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66624'>PANDAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439755'>PAN de órgano único</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231457'>Pandisautonomía aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2806'>Panencefalitis esclerosante subaguda (PEES)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83616'>Panencefalitis por rubéola</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95513'>Panhipofisitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95513'>Panhipofisitis-infundibulo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90695'>Panhipopituitarismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94087'>Paniculitis citofágica de Winkelmann</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251304'>Paniculitis de inicio en la lactancia con uveitis y granulomatosis sistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33577'>Paniculitis febril nodular recurrente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33577'>Paniculitis febril nodular recurrente no supurativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94087'>Paniculitis histiocítica citofágica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33577'>Paniculitis idiopática lobular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33577'>Paniculitis idiopática nodular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90285'>Paniculitis lúpica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238593'>Paniculitis mesentérica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33577'>Paniculitis nodular no supurativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86843'>Panmielosis aguda con mielofibrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439737'>PAN primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439746'>PAN secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439762'>PAN sistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280898'>Panuveítis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280921'>Panuveítis idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279925'>Panuveítis infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=747'>PAP autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264675'>PAP congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=747'>PAP idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251902'>Papiloma atípico del plexo coroideo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2807'>Papiloma del plexo coroideo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251902'>Papiloma del plexo coroideo atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60032'>Papilomatosis respiratoria recurrente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420259'>PAP secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440427'>PAP tipo isla de Reunión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64745'>Pápulas urticariales pruriginosas y placas de embarazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=679'>Papulosis atrófica maligna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228290'>Papulosis fibrosa blanca del cuello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98842'>Papulosis linfomatoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2796'>Paquidermoperiostosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329329'>Paquigiria frontotemporal autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=449427'>Paquimeningitis asociada a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=449427'>Paquimeningitis hipertrófica idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2309'>Paquioniquia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73260'>Paracoccidiomicosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94080'>Paraganglioma no funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94080'>Paraganglioma no secretante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276627'>Paraganglioma secretante esporádico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324299'>Paragangliomas múltiples asociados con eritrocitosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324299'>Paragangliomas múltiples asociados con policitemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324299'>Paraganglioma-somatostatinoma-policitemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97286'>Paraganglioma y sarcoma del estroma gástrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97286'>Paraganglioma y sarcoma estromal gástrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=326'>Parahemofilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98686'>Parálisis CNIV congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440233'>Parálisis congénita benigna del sexto par craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440221'>Parálisis congénita benigna del tercer par craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440233'>Parálisis congénita CNVI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137932'>Parálisis congénita de cuerdas vocales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137932'>Parálisis congénita de la laringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137932'>Parálisis congénita de las cuerdas bucales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98686'>Parálisis congénita del cuarto nervio craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98686'>Parálisis congénita del cuarto par craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440233'>Parálisis congénita del nervio abducens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440233'>Parálisis congénita del nervio abducente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440221'>Parálisis congénita del nervio motor ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98686'>Parálisis congénita del nervio troclear</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91498'>Parálisis congénita del nervio troclear, forma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98686'>Parálisis congénita del oblicuo superior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2744'>Parálisis de la mirada horizontal con escoliosis progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3020'>Parálisis del nervio facial por una infección por herpes zóster</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3020'>Parálisis del nervio facial por VZV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439202'>Parálisis del plexo branquial obstétrica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2808'>Parálisis de músculos de laringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293168'>Parálisis espástica hereditaria ascendente de inicio en la lactancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306527'>Parálisis facial congénita hereditaria aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306530'>Parálisis facial hereditaria congénita con sordera variable</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2704'>Parálisis facial parcial con anomalías del tracto urinario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2809'>Parálisis facial periférica familiar recurrente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2809'>Parálisis familiar recurrente de Bell</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>Parálisis hipercalémica periódica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98685'>Parálisis oculomotora</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206976'>Parálisis periódica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397750'>Parálisis periódica con neuropatía motora distal de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397755'>Parálisis periódica con síndrome similar al compartimental transitorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371433'>Parálisis periódica genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>Parálisis periódica hipercalémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>Parálisis periódica hipercalémica primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=681'>Parálisis periódica hipocalémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79102'>Parálisis periódica tirotóxica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98687'>Parálisis supranuclear oculomotora</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=683'>Parálisis supranuclear progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240103'>Parálisis supranuclear progresiva-síndrome corticobasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=684'>Paramiotonía congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=684'>Paramiotonía congénita de Von Eulenburg</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100998'>Paraparesia espástica-amiotrofia de manos y pies</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431320'>Paraparesia espástica-atrofia óptica-neuropatía y trastornos relacionados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320342'>Paraparesia espástica autosómica dominante pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320342'>Paraparesia espástica autosómica dominante pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100991'>Paraparesia espástica autosómica dominante tipo 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100993'>Paraparesia espástica autosómica dominante tipo 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100994'>Paraparesia espástica autosómica dominante tipo 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100998'>Paraparesia espástica autosómica dominante tipo 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100999'>Paraparesia espástica autosómica dominante tipo 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101009'>Paraparesia espástica autosómica dominante tipo 29</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100984'>Paraparesia espástica autosómica dominante tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101011'>Paraparesia espástica autosómica dominante tipo 31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171622'>Paraparesia espástica autosómica dominante tipo 32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320365'>Paraparesia espástica autosómica dominante tipo 36</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171612'>Paraparesia espástica autosómica dominante tipo 37</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171617'>Paraparesia espástica autosómica dominante tipo 38</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100985'>Paraparesia espástica autosómica dominante tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320355'>Paraparesia espástica autosómica dominante tipo 41</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171863'>Paraparesia espástica autosómica dominante tipo 42</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100988'>Paraparesia espástica autosómica dominante tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444099'>Paraparesia espástica autosómica dominante tipo 73</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100989'>Paraparesia espástica autosómica dominante tipo 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447753'>Paraparesia espástica autosómica dominante tipo 9A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447757'>Paraparesia espástica autosómica dominante tipo 9B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101005'>Paraparesia espástica autosómica recesiva-hernia de disco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320346'>Paraparesia espástica autosómica recesiva pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320346'>Paraparesia espástica autosómica recesiva pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2822'>Paraparesia espástica autosómica recesiva tipo 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100995'>Paraparesia espástica autosómica recesiva tipo 14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100996'>Paraparesia espástica autosómica recesiva tipo 15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209951'>Paraparesia espástica autosómica recesiva tipo 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101000'>Paraparesia espástica autosómica recesiva tipo 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101001'>Paraparesia espástica autosómica recesiva tipo 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101003'>Paraparesia espástica autosómica recesiva tipo 23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101004'>Paraparesia espástica autosómica recesiva tipo 24</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101005'>Paraparesia espástica autosómica recesiva tipo 25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101006'>Paraparesia espástica autosómica recesiva tipo 26</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101007'>Paraparesia espástica autosómica recesiva, tipo 27</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101008'>Paraparesia espástica autosómica recesiva tipo 28</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171629'>Paraparesia espástica autosómica recesiva tipo 35</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139480'>Paraparesia espástica autosómica recesiva tipo 39</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320370'>Paraparesia espástica autosómica recesiva tipo 43</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320401'>Paraparesia espástica autosómica recesiva tipo 44</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320396'>Paraparesia espástica autosómica recesiva tipo 45</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320391'>Paraparesia espástica autosómica recesiva tipo 46</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306511'>Paraparesia espástica autosómica recesiva tipo 48</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320385'>Paraparesia espástica autosómica recesiva tipo 49</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319199'>Paraparesia espástica autosómica recesiva tipo 53</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320380'>Paraparesia espástica autosómica recesiva tipo 54</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320375'>Paraparesia espástica autosómica recesiva tipo 55</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320411'>Paraparesia espástica autosómica recesiva tipo 56</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431329'>Paraparesia espástica autosómica recesiva tipo 57</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401795'>Paraparesia espástica autosómica recesiva tipo 59</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100986'>Paraparesia espástica autosómica recesiva tipo 5A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401800'>Paraparesia espástica autosómica recesiva tipo 60</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401780'>Paraparesia espástica autosómica recesiva tipo 61</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401785'>Paraparesia espástica autosómica recesiva tipo 62</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401805'>Paraparesia espástica autosómica recesiva tipo 63</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401810'>Paraparesia espástica autosómica recesiva tipo 64</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320396'>Paraparesia espástica autosómica recesiva tipo 65</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401815'>Paraparesia espástica autosómica recesiva tipo 66</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401820'>Paraparesia espástica autosómica recesiva tipo 67</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401830'>Paraparesia espástica autosómica recesiva tipo 69</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99013'>Paraparesia espástica autosómica recesiva tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401835'>Paraparesia espástica autosómica recesiva tipo 70</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401840'>Paraparesia espástica autosómica recesiva tipo 71</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468661'>Paraparesia espástica autosómica recesiva tipo 74</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459056'>Paraparesia espástica autosómica recesiva tipo 75</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488594'>Paraparesia espástica autosómica recesiva tipo 76</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466722'>Paraparesia espástica autosómica recesiva tipo 77</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=513436'>Paraparesia espástica autosómica recesiva tipo 78</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447760'>Paraparesia espástica autosómica recesiva tipo 9B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101010'>Paraparesia espástica autosómica tipo 30</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401849'>Paraparesia espástica autosómica tipo 72</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506353'>Paraparesia espástica compleja autosómica recesiva por disfunción de la vía de Kennedy</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306617'>Paraparesia espástica complicada tipo 1 ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100996'>Paraparesia espástica-degeneración retiniana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320360'>Paraparesia espástica de herencia materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101000'>Paraparesia espástica de inicio en la infancia-atrofia de los músculos distales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=685'>Paraparesia espástica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100985'>Paraparesia espástica familiar autosómica dominante tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>Paraparesia espástica familiar no complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>Paraparesia espástica familiar pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320335'>Paraparesia espástica familiar pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320335'>Paraparesia espástica familiar pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=685'>Paraparesia espástica hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100979'>Paraparesia espástica hereditaria autosómica dominante complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100980'>Paraparesia espástica hereditaria autosómica dominante pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100981'>Paraparesia espástica hereditaria autosómica recesiva complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100982'>Paraparesia espástica hereditaria autosómica recesiva pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102013'>Paraparesia espástica hereditaria compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98888'>Paraparesia espástica hereditaria forma compleja ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>Paraparesia espástica hereditaria no complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>Paraparesia espástica hereditaria pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320335'>Paraparesia espástica hereditaria pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320335'>Paraparesia espástica hereditaria pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100996'>Paraparesia espástica hereditaria tipo 15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320350'>Paraparesia espástica ligada al cromosoma X pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320350'>Paraparesia espástica ligada al cromosoma X pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100997'>Paraparesia espástica ligada al cromosoma X tipo 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99015'>Paraparesia espástica ligada al cromosoma X tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171607'>Paraparesia espástica ligada al cromosoma X tipo 34</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320360'>Paraparesia espástica mitocondrial asociada a MT-ATP6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431329'>Paraparesia espástica por deficiencia parcial de TFG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320332'>Paraparesia espástica pura ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99015'>Paraparesia espástica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99013'>Paraparesia espástica tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289326'>Paraparesia espástica tropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289326'>Paraparesia espástica tropical/mielopatía asociada al HTLV-1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289326'>Paraparesia espástica tropical/mielopatía asociada al virus linfotrópico de células T humanas tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289326'>Paraparesia espástica tropical/mielopatía asociada al virus linfotrópico de células T humanas tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101003'>Paraparesia espástica-vitíligo-canicie precoz-facies característica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2824'>Paraplejía-discapacidad intelectual-hiperqueratosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100998'>Paraplejía espástica-amiotrofia de manos y pies</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431320'>Paraplejía espástica-atrofia óptica-neuropatía y trastornos relacionados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320342'>Paraplejía espástica autosómica dominante pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320342'>Paraplejía espástica autosómica dominante pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100991'>Paraplejía espástica autosómica dominante tipo 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100993'>Paraplejía espástica autosómica dominante tipo 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100994'>Paraplejía espástica autosómica dominante tipo 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100998'>Paraplejía espástica autosómica dominante tipo 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100999'>Paraplejía espástica autosómica dominante tipo 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101009'>Paraplejía espástica autosómica dominante tipo 29</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100984'>Paraplejía espástica autosómica dominante tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101011'>Paraplejía espástica autosómica dominante tipo 31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171622'>Paraplejía espástica autosómica dominante tipo 32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320365'>Paraplejía espástica autosómica dominante tipo 36</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171612'>Paraplejía espástica autosómica dominante tipo 37</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171617'>Paraplejía espástica autosómica dominante tipo 38</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100985'>Paraplejía espástica autosómica dominante tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320355'>Paraplejía espástica autosómica dominante tipo 41</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171863'>Paraplejía espástica autosómica dominante tipo 42</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100988'>Paraplejía espástica autosómica dominante tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444099'>Paraplejía espástica autosómica dominante tipo 73</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100989'>Paraplejía espástica autosómica dominante tipo 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447753'>Paraplejía espástica autosómica dominante tipo 9A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447757'>Paraplejía espástica autosómica dominante tipo 9B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101005'>Paraplejía espástica autosómica recesiva-hernia de disco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320346'>Paraplejía espástica autosómica recesiva pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320346'>Paraplejía espástica autosómica recesiva pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2822'>Paraplejía espástica autosómica recesiva tipo 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100995'>Paraplejía espástica autosómica recesiva tipo 14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100996'>Paraplejía espástica autosómica recesiva tipo 15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209951'>Paraplejía espástica autosómica recesiva tipo 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101000'>Paraplejía espástica autosómica recesiva tipo 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101001'>Paraplejía espástica autosómica recesiva tipo 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101003'>Paraplejía espástica autosómica recesiva tipo 23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101004'>Paraplejía espástica autosómica recesiva tipo 24</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101005'>Paraplejía espástica autosómica recesiva tipo 25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101006'>Paraplejía espástica autosómica recesiva tipo 26</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101008'>Paraplejía espástica autosómica recesiva tipo 28</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171629'>Paraplejía espástica autosómica recesiva tipo 35</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139480'>Paraplejía espástica autosómica recesiva tipo 39</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320370'>Paraplejía espástica autosómica recesiva tipo 43</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320401'>Paraplejía espástica autosómica recesiva tipo 44</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320396'>Paraplejía espástica autosómica recesiva tipo 45</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320391'>Paraplejía espástica autosómica recesiva tipo 46</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306511'>Paraplejía espástica autosómica recesiva tipo 48</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320385'>Paraplejía espástica autosómica recesiva tipo 49</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319199'>Paraplejía espástica autosómica recesiva tipo 53</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320380'>Paraplejía espástica autosómica recesiva tipo 54</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320375'>Paraplejía espástica autosómica recesiva tipo 55</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320411'>Paraplejía espástica autosómica recesiva tipo 56</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431329'>Paraplejía espástica autosómica recesiva tipo 57</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397946'>Paraplejía espástica autosómica recesiva tipo 58</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401795'>Paraplejía espástica autosómica recesiva tipo 59</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100986'>Paraplejía espástica autosómica recesiva tipo 5A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401800'>Paraplejía espástica autosómica recesiva tipo 60</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401780'>Paraplejía espástica autosómica recesiva tipo 61</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401785'>Paraplejía espástica autosómica recesiva tipo 62</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401805'>Paraplejía espástica autosómica recesiva tipo 63</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401810'>Paraplejía espástica autosómica recesiva tipo 64</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320396'>Paraplejía espástica autosómica recesiva tipo 65</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401815'>Paraplejía espástica autosómica recesiva tipo 66</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401820'>Paraplejía espástica autosómica recesiva tipo 67</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401830'>Paraplejía espástica autosómica recesiva tipo 69</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99013'>Paraplejía espástica autosómica recesiva tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401835'>Paraplejía espástica autosómica recesiva tipo 70</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401840'>Paraplejía espástica autosómica recesiva tipo 71</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468661'>Paraplejía espástica autosómica recesiva tipo 74</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459056'>Paraplejía espástica autosómica recesiva tipo 75</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488594'>Paraplejía espástica autosómica recesiva tipo 76</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466722'>Paraplejía espástica autosómica recesiva tipo 77</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=513436'>Paraplejía espástica autosómica recesiva tipo 78</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447760'>Paraplejía espástica autosómica recesiva tipo 9B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101010'>Paraplejía espástica autosómica tipo 30</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397946'>Paraplejía espástica autosómica tipo 58</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401849'>Paraplejía espástica autosómica tipo 72</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506353'>Paraplejía espástica compleja autosómica recesiva por disfunción de la vía de Kennedy</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306617'>Paraplejía espástica complicada tipo 1 ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100996'>Paraplejía espástica-degeneración retiniana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320360'>Paraplejía espástica de herencia materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329475'>Paraplejía espástica-enfermedad ósea de Paget</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=685'>Paraplejía espástica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100985'>Paraplejía espástica familiar autosómica dominante tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>Paraplejía espástica familiar no complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>Paraplejía espástica familiar pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320335'>Paraplejía espástica familiar pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320335'>Paraplejía espástica familiar pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2818'>Paraplejía espástica-glaucoma-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=685'>Paraplejía espástica hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100979'>Paraplejía espástica hereditaria autosómica dominante complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100980'>Paraplejía espástica hereditaria autosómica dominante pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100981'>Paraplejía espástica hereditaria autosómica recesiva complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100982'>Paraplejía espástica hereditaria autosómica recesiva pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102013'>Paraplejía espástica hereditaria compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98888'>Paraplejía espástica hereditaria forma compleja ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>Paraplejía espástica hereditaria no complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>Paraplejía espástica hereditaria pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320335'>Paraplejía espástica hereditaria pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320335'>Paraplejía espástica hereditaria pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320350'>Paraplejía espástica ligada al cromosoma X pura o compleja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320350'>Paraplejía espástica ligada al cromosoma X pura o complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100997'>Paraplejía espástica ligada al cromosoma X tipo 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99015'>Paraplejía espástica ligada al cromosoma X tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171607'>Paraplejía espástica ligada al cromosoma X tipo 34</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2821'>Paraplejía espástica-neuropatía-poiquilodermia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431329'>Paraplejía espástica por deficiencia parcial de TFG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320332'>Paraplejía espástica pura ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99015'>Paraplejía espástica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3465'>Paresia suprabulbar congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199351'>PARK14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306674'>PARK9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=514980'>Parkinsonismo asociado a ATP13A2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97355'>Parkinsonismo atípico en el Caribe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97355'>Parkinsonismo caribeño</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178509'>Parkinsonismo con hipoventilación alveolar y depresión mental</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90020'>Parkinsonismo-demencia-complejo ALS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391411'>Parkinsonismo juvenil atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97349'>Parkinsonismo postencefálico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1344'>Paro sinusal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1344'>Pausa sinusal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2038'>PAVM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289666'>PBL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2309'>PC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54247'>PCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247198'>PCCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=871'>PCCD familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36388'>PCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178540'>PCFCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98523'>PCH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2254'>PCH1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411493'>PCH10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2524'>PCH2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97249'>PCH3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166063'>PCH4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166068'>PCH5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166073'>PCH6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284339'>PCH7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324569'>PCH8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369920'>PCH9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97249'>PCH con atrofia óptica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97249'>PCH sin discinesia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2924'>PCLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178536'>PCMZL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46135'>PCNSL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140989'>PCNSV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90020'>PDALS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293462'>PDCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168778'>PDD raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289157'>PDDRI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=765'>PDH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79243'>PDHAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=255138'>PDHBD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=765'>PDHC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2796'>PDP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85453'>PDR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97352'>Pelagra</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480524'>Peliosis hepática idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2841'>Pénfigo benigno crónico familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79480'>Pénfigo eritematoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79481'>Pénfigo foliáceo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208524'>Pénfigo herpetiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=703'>Penfigoide ampolloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454710'>Penfigoide anti-p200</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=703'>Penfigoide bulloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46486'>Penfigoide cicatricial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46486'>Penfigoide de la membrana mucosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63275'>Penfigoide gestacional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63275'>Penfigoide gestationis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46486'>Penfigoide mucosinequial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46486'>Penfigoide mucoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99922'>Penfigoide ocular cicatricial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63455'>Penfigoide paraneoplásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=555905'>Pénfigo IgA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79480'>Pénfigo seborreico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46485'>Pénfigo superficial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79479'>Pénfigo vegetativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=704'>Pénfigo vulgar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1335'>Pentalogía de Cantrell</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=11'>Pentasomía X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=11'>Penta-X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2843'>Pentosuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2843'>Pentosuria esencial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352447'>PEO-miopatía-emaciación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96201'>Pequeño cromosoma X en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=838'>Pequeños infartos de tejido coclear, retiniano y encefálico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254898'>Pérdida auditiva-encefaloneuropatía-obesidad-valvulopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90059'>Pérdida auditiva neurosensorial a causa de trauma acústico grave o sordera repentina, o por trauma acústico inducido por cirugía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97229'>Pérdida auditiva neurosensorial-parálisis pontobulbar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457223'>Pérdida auditiva neurosensorial sindrómica por COXPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443180'>Pérdida espontánea de líquido cefalorraquídeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34528'>Pérdida renal de magnesio aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=767'>Periarteritis nodosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439729'>Periarteritis nodosa cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439755'>Periarteritis nodosa de órgano único</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439737'>Periarteritis nodosa primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439746'>Periarteritis nodosa secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439762'>Periarteritis nodosa sistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2848'>Pericarditis-artropatía-camptodactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251307'>Pericarditis recurrente idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85102'>Perineurioma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100002'>Perineurioma de tejidos blandos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100001'>Perineurioma esclerótico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100002'>Perineurioma extraneural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100003'>Perineurioma intraneural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252128'>Perineurioma maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100000'>Perineurioma reticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499107'>Perineuritis óptica idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391655'>Períodos 'off' en la enfermedad de Parkinson que no responden al tratamiento oral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=342'>Peritonitis paroxística benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=342'>Peritonitis paroxística familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=40923'>Perivasculitis retiniana idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=438266'>PERM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75374'>PERRS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99120'>Persistencia de la válvula de Eustaquio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466729'>Persistencia del conducto arterioso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99076'>Persistencia del quinto arco aórtico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168615'>Persistencia hereditaria de alfa-fetoproteína</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1489'>Pertussis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=707'>Peste</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2456'>Pezones supernumerarios familiares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1980'>PFBC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=412206'>PFE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2019'>PFFD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480483'>PFIC4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480476'>PFIC5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91495'>PFVS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397937'>PGBM1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251510'>PGD 46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319646'>PGM1-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443811'>PGM3-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251962'>PGNT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=757'>PHA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88938'>PHA2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88939'>PHA2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88940'>PHA2C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300525'>PHA2D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300530'>PHA2E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=757'>PHAII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=756'>PHA tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=657'>PHHI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248095'>PHO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=30924'>PHSH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306498'>PHTS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3003'>Picnoacondrogénesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=763'>Picnodisostosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64280'>Picnolepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2884'>Piebaldismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178382'>Pie convexo congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2583'>Pie de madura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178382'>Pie en mecedora congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=817'>Piel decidual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263534'>Piel decidual acral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263543'>Piel decidual generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263548'>Piel decidual generalizada tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263553'>Piel decidual generalizada tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263558'>Piel decidual generalizada tipo C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=817'>Piel decidual idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263534'>Piel decidual localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178382'>Pie valgo convexo congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199315'>Pie zambo familiar con o sin anomalías de las extremidades inferiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238578'>Pie zambo familiar por microduplicación 17q23.1q23.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293144'>Pie zambo familiar por una microdeleción 5q31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238578'>Pie zambo hereditario por microduplicación 17q23.1-q23.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293144'>Pie zambo hereditario por una microdeleción 5q31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293150'>Pie zambo hereditario por una mutación puntual de PITX1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293150'>Pie zambo por una mutación puntual de PITX1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398147'>PIFP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488635'>PIGG-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3474'>PIGL-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83639'>PIGM-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79145'>Pigmentación reticular anómala en las flexuras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79145'>Pigmentación reticular anómala en los pliegues de flexión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280633'>PIGN-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369837'>PIGT-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169'>pili annulati</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=720'>Pili bifurcati</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79492'>Pili gemini</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79492'>Pili multigemini</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2889'>Pili torti</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499182'>Pilomatricoma maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91414'>Pilomatrixoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499182'>Pilomatrixoma maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251909'>Pineoblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251912'>Pineocitoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48104'>Pioderma gangrenoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538869'>Pioderma gangrenoso ampolloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538863'>Pioderma gangrenoso clásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538872'>Pioderma gangrenoso granulomatoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538869'>Pioderma gangrenoso penfigoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538866'>Pioderma gangrenoso pustuloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538863'>Pioderma gangrenoso ulcerativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538872'>Pioderma gangrenoso vegetativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=764'>Piomiositis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=764'>Piomiositis tropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63440'>Pirgocefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251623'>Pituicitoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2897'>Pityriasis rubra pilaris</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2869'>PJS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157850'>PKAN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216873'>PKAN, forma atípica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216866'>PKAN, forma clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98809'>PKD familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238455'>PKDYS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=716'>PKU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79254'>PKU clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79253'>PKU leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2209'>PKU materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521426'>PLAAND</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35098'>Plagiocefalia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300359'>PLAID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86855'>Plasmacitoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100022'>Plasmacitoma extramedular de tejidos blandos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100021'>Plasmacitoma primario del hueso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86855'>Plasmacitoma solitario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29073'>Plasmocitoma medular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=451602'>Plasmocitosis cutánea primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2899'>Platispondilia-amelogénesis imperfecta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137807'>PLCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137810'>PLCNA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2900'>Pleonosteosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521123'>Plexopatía inducida por radiación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2505'>Pliegues circulares benignos múltiples de la piel de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2505'>Pliegues circulares de la piel congénitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2505'>Pliegues circulares de la piel tipo Kunze</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=160148'>Pliegues polipoides prolapsados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=160148'>Pliegues polipoides prolapsantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2770'>PLOSL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2770'>PLO-SL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35689'>PLS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85166'>PLSD-T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247604'>PLS juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330015'>Plumbismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280219'>PMD clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280210'>PMD connatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280210'>PMD grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2856'>PMDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280224'>PMD transitoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98261'>PME</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352596'>PMED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93568'>PM juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280270'>PMLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280282'>PMLD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79318'>PMM2-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26790'>PMP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99885'>PNDM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506052'>PNEN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97253'>PNET</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251870'>PNET del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370348'>PNET periférico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64741'>Pneumoblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36388'>PNS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2907'>Poiquilodermia acroqueratósica hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2825'>Poiquilodermia-alopecia-retrognatia-fisura palatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2908'>Poiquilodermia ampollosa congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2908'>Poiquilodermia bullosa congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221046'>Poiquilodermia con neutropenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221046'>Poiquilodermia con neutropenia tipo Clericuzio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2908'>Poiquilodermia de Kindler</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221008'>Poiquilodermia de Rothmund-Thomson tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221016'>Poiquilodermia de Rothmund-Thomson tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221039'>Poiquilodermia esclerosante hereditaria tipo Weary</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=222628'>Poiquilodermia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279947'>POIS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313808'>POLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50920'>Poliadenomatosis mamaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=727'>Poliangeítis microscópica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29207'>Poliarteritis entérica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=727'>Poliarteritis microscópica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=767'>Poliarteritis nodosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439729'>Poliarteritis nodosa cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439755'>Poliarteritis nodosa de órgano único</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439737'>Poliarteritis nodosa primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439746'>Poliarteritis nodosa secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439762'>Poliarteritis nodosa sistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85435'>Poliartritis con factor reumatoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85435'>Poliartritis idiopática juvenil factor reumatoide positivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404580'>Poliartritis juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85408'>Poliartritis juvenil factor reumatoide negativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247854'>Poliartritis juvenil factor reumatoide negativo con anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247861'>Poliartritis juvenil factor reumatoide negativo sin anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85408'>Poliartritis sin factor reumatoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247854'>Poliartritis sin factor reumatoide con anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247861'>Poliartritis sin factor reumatoide sin anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85414'>Poliartritis sistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98427'>Policitemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238557'>Policitemia asociada al síndrome de Von Hippel-Lindau</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90042'>Policitemia congénita por mutación del receptor de la eritropoyetina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238557'>Policitemia de Chuvash</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=250165'>Policitemia genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90041'>Policitemia por estrés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90042'>Policitemia primaria familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=729'>Policitemia rubra vera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98428'>Policitemia secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238547'>Policitemia secundaria adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247511'>Policitemia secundaria autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247378'>Policitemia secundaria autosómica recesiva no asociada al gen VHL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247378'>Policitemia secundaria autosómica recesiva tipo no-Chuvash</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238536'>Policitemia secundaria congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=729'>Policitemia vera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=728'>Policondritis recidivante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295004'>Polidactilia central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498470'>Polidactilia compleja no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498494'>Polidactilia de imagen especular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93337'>Polidactilia del dedo índice</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93336'>Polidactilia del pulgar trifalángico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93339'>Polidactilia de pulgar bifalángico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295004'>Polidactilia en espejo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295004'>Polidactilia mesoaxial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2913'>Polidactilia no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2919'>Polidactilia postaxial con hendidura mediana en el labio superior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2920'>Polidactilia postaxial-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498467'>Polidactilia postaxial no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93334'>Polidactilia postaxial tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93335'>Polidactilia postaxial tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498464'>Polidactilia preaxial no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93339'>Polidactilia preaxial tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93336'>Polidactilia preaxial tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93337'>Polidactilia preaxial tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93338'>Polidactilia preaxial tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93458'>Polidactilia, sindactilia y/o hiperfalangismo no sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=726'>Polidistrofia esclerosante progresiva de Alpers</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180229'>Poliembrioma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101956'>Poliendocrinopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=282196'>Poliendocrinopatía autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3453'>Poliendocrinopatía autoinmune tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3143'>Poliendocrinopatía autoinmune tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=227982'>Poliendocrinopatía autoinmune tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=227990'>Poliendocrinopatía autoinmune tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183643'>Poliendocrinopatía genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180182'>Polimastia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93569'>Polimialgia reumática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35981'>Polimicrogiria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268940'>Polimicrogiria bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101070'>Polimicrogiria bilateral frontoparietal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98889'>Polimicrogiria bilateral perisilviana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=250972'>Polimicrogiria con hipoplasia del nervio óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208444'>Polimicrogiria frontal bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208447'>Polimicrogiria generalizada bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208441'>Polimicrogiria parietooccipital parasagital bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300573'>Polimicrogiria por mutación en TUBB2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268943'>Polimicrogiria unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268947'>Polimicrogiria unilateral focal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101071'>Polimicrogiria unilateral hemisférica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280640'>Polimicrogiria y paquigiria occipital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=732'>Polimiositis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93568'>Polimiositis juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85447'>Polineuropatía amiloide familiar tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85448'>Polineuropatía amiloide familiar tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85447'>Polineuropatía amiloide familiar tipo portugués-sueco-japonés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85447'>Polineuropatía amiloide por transtiretina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=639'>Polineuropatía asociada a gammapatía monoclonal IgM con anti-MAG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209004'>Polineuropatía axonal asociada con gammopatía monoclonal IgG/IgA/IgM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447964'>Polineuropatía axonal dolorosa hereditaria de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447964'>Polineuropatía axonal hereditaria dolorosa de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538096'>Polineuropatía axonal sensitivo-motora neonatal letal autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208974'>Polineuropatía desmielinizante crónica adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98916'>Polineuropatía desmielinizante idiopática aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207038'>Polineuropatía desmielinizante inflamatoria aguda y subaguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2932'>Polineuropatía desmielinizante inflamatoria crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206594'>Polineuropatía desmielinizante inflamatoria subaguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98916'>Polineuropatía inflamatoria aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217396'>Polineuropatía progresiva con necrosis estriatal bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2912'>Poliomielitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96321'>Poliploidía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=160148'>Pólipos inflamatorios mioglandulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447877'>Poliposis adenomatosa asociada a la lectura de prueba de la polimerasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=733'>Poliposis adenomatosa coli</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=733'>Poliposis adenomatosa colorrectal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261584'>Poliposis adenomatosa colorrectal por monosomía 5q22.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=733'>Poliposis adenomatosa familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220460'>Poliposis adenomatosa familiar atenuada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480536'>Poliposis adenomatosa familiar atenuada asociada a MSH3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454840'>Poliposis adenomatosa familiar atenuada asociada a NTHL1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247806'>Poliposis adenomatosa familiar atenuada ligada a APC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401911'>Poliposis adenomatosa familiar atenuada ligada a AXIN2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247798'>Poliposis adenomatosa familiar atenuada ligada a MUTYH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261584'>Poliposis adenomatosa familiar por del(5)(q22.2)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261584'>Poliposis adenomatosa familiar por microdeleción 5q22.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261584'>Poliposis adenomatosa familiar por monosomía 5q22.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220460'>Poliposis cólica familiar atenuada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480536'>Poliposis cólica familiar atenuada asociada a MSH3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247806'>Poliposis cólica familiar atenuada ligada a APC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401911'>Poliposis cólica familiar atenuada ligada a AXIN2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247798'>Poliposis cólica familiar atenuada ligada a MUTYH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261584'>Poliposis cólica familiar por monosomía 5q22.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=160148'>Poliposis con capuchón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314022'>Poliposis familiar de glándulas fúndicas con cáncer gástrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2930'>Poliposis gastrointestinal-cambios ectodérmicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2930'>Poliposis gastrointestinal-pigmentación cutánea-alopecia-cambios en las uñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2930'>Poliposis gastrointestinal-pigmentación de la piel-alopecia-cambios en las uñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363314'>Poliposis intestinal familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363314'>Poliposis intestinal genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2869'>Poliposis intestinal hamartomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79076'>Poliposis juvenil de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329971'>Poliposis juvenil generalizada/poliposis juvenil coli</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2930'>Poliposis-pigmentación de la piel-alopecia-cambios en las uñas de las manos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157798'>Poliposis serrada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=160148'>Pólipos mioglandulares inflamatorios</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=730'>Poliquistosis renal autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208981'>Polirradiculoneuropatía asociada con gammopatía monoclonal IgG/IgA/IgM sin anticuerpos conocidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208978'>Polirradiculoneuropatía crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98916'>Polirradiculoneuropatía desmielinizante inflamatoria aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207038'>Polirradiculoneuropatía desmielinizante inflamatoria aguda y subaguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2932'>Polirradiculoneuropatía desmielinizante inflamatoria crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206594'>Polirradiculoneuropatía desmielinizante inflamatoria subaguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141091'>Polirrinia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=342'>Poliserositis recurrente benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93338'>Polisindactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2935'>Polisindactilia cruzada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295195'>Polisindactilia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295197'>Polisindactilia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295199'>Polisindactilia tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295197'>Polisindactilia tipo Debeer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295199'>Polisindactilia tipo Malik</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295195'>Polisindactilia tipo Vordingborg</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263723'>Polisomía del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2456'>Politelia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=11'>Poli-X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565899'>POMGNT2-related limb-girdle muscular dystrophy R24</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95699'>PORD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2940'>Porencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314697'>Porencefalia adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99810'>Porencefalia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=738'>Porfiria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79276'>Porfiria aguda intermitente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100924'>Porfiria ALAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101330'>Porfiria cutánea tarda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443057'>Porfiria cutánea tarda esporádica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443062'>Porfiria cutánea tarda familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443057'>Porfiria cutánea tarda tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443062'>Porfiria cutánea tarda tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100924'>Porfiria de Doss</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79277'>Porfiria eritropoyética congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95157'>Porfiria hepática aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95161'>Porfiria hepática crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100924'>Porfiria por deficiencia de ALA-deshidratasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100924'>Porfiria por deficiencia de delta-aminolevulínico-deshidratasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79473'>Porfiria variegata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79358'>Poroqueratosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79152'>Poroqueratosis actínica superficial diseminada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=735'>Poroqueratosis de Mibelli</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183444'>Poroqueratosis genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=737'>Poroqueratosis palmar, plantar y diseminada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95706'>Posterior hypospadias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238606'>POT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443236'>POTS por deficiencia de NET</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217067'>Pouchitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447877'>PPAP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100070'>PPA variante no fluida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284343'>PPBFTDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300324'>PPBL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168829'>PPC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251902'>PPC atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93339'>PPD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93336'>PPD2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93337'>PPD3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93338'>PPD4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79278'>PPE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75567'>PPFG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>PP hipercalémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411696'>PPIRee</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411696'>PPI-REE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1010'>PPK-CA tipo Stevanovic</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1366'>PPK-CA tipo Wallis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307141'>PPK difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307148'>PPK difusa aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495'>PPK difusa progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307837'>PPK focal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307846'>PPK focal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79357'>PPK hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494'>PPK mutilante y sordera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79141'>PPK numular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79501'>PPKP1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79502'>PPKP2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=38'>PPKP3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307967'>PPK punctata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2338'>PPK punctata aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86923'>PPK tipo Gamborg-Nielsen</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140966'>PPK tipo Nagashima</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495'>PPK transgrediens y progrediens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=189439'>PPNAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370348'>PPNET</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97278'>PPoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163927'>PPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79502'>PPPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251295'>PPRCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398980'>PPSPC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324977'>PRAAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488280'>Predisposición a neoplasia mieloproliferativa de inicio en el adulto por duplicación 14q32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457088'>Predisposición a una enfermedad fúngica invasora por deficiencia de CARD9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275555'>Preeclampsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140949'>Priapismo de bajo flujo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=874'>Primary adult heart tumor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=562639'>Primary biliary cholangitis/primary sclerosing cholangitis and autoimmune hepatitis overlap syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565641'>Primary desmosis coli</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=564178'>Primary hypomagnesemia with refractory seizures and intellectual deficiency</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454742'>Prionopatía variable sensible a proteasas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2965'>PRLoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141099'>Proboscis lateralis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70475'>Proctitis por radiación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=740'>Progeria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=902'>Progeria adulta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2964'>Prognatismo autosómico dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2965'>Prolactinoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95458'>Prolapso de la válvula tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=741'>Prolapso valvular mitral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86872'>Proliferación de linfocitos granulares grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=530313'>PROS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=747'>Proteinosis alveolar pulmonar autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264675'>Proteinosis alveolar pulmonar congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440427'>Proteinosis alveolar pulmonar grave por deficiencia de MARS de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264675'>Proteinosis alveolar pulmonar hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440427'>Proteinosis alveolar pulmonar hereditaria con afectación hepática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=747'>Proteinosis alveolar pulmonar idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420259'>Proteinosis alveolar pulmonar secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440427'>Proteinosis alveolar pulmonar tipo isla de Reunión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=530'>Proteinosis lipoidea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1652'>Proteinuria de bajo peso molecular con hipercalciuria y nefrocalcinosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443197'>Protoporfiria dominante ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79278'>Protoporfiria eritropoyética autosómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443197'>Protoporfiria eritropoyética dominante ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443197'>Protoporfiria eritropoyética ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=47159'>pRTA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330061'>Prúrigo actínico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330061'>Prúrigo de verano de Hutchinson</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94059'>Prurito urémico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171'>PSC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=750'>Pseudoacondroplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2971'>Pseudoadrenoleucodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2971'>Pseudoadrenoleucodistrofia neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=526'>Pseudoaldosteronismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157808'>Pseudoartritis de las extremidades congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66630'>Pseudoartrosis congénita de clavícula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157808'>Pseudoartrosis congénita de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295018'>Pseudoartrosis congénita de la tibia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295026'>Pseudoartrosis congénita del cúbito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295020'>Pseudoartrosis congénita del fémur</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295022'>Pseudoartrosis congénita del peroné</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295024'>Pseudoartrosis congénita del radio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99000'>Pseudodistrofia macular viteliforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99000'>Pseudoenfermedad de Best</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=526'>Pseudohiperaldosteronismo tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88660'>Pseudohiperaldosteronismo tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90044'>Pseudohiperpotasemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444916'>Pseudohipoaldosteronismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171876'>Pseudohipoaldosteronismo autosómico recesivo tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171876'>Pseudohipoaldosteronismo generalizado tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171871'>Pseudohipoaldosteronismo renal tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=756'>Pseudohipoaldosteronismo tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=757'>Pseudohipoaldosteronismo tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88938'>Pseudohipoaldosteronismo tipo 2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88939'>Pseudohipoaldosteronismo tipo 2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88940'>Pseudohipoaldosteronismo tipo 2C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300525'>Pseudohipoaldosteronismo tipo 2D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300530'>Pseudohipoaldosteronismo tipo 2E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93164'>Pseudohipoaldosteronismo transitorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97593'>Pseudohipoparatiroidismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457059'>Pseudohipoparatiroidismo con osteodistrofia hereditaria de Albright</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457062'>Pseudohipoparatiroidismo sin osteodistrofia hereditaria de Albright</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79443'>Pseudohipoparatiroidismo tipo 1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94089'>Pseudohipoparatiroidismo tipo 1B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79444'>Pseudohipoparatiroidismo tipo 1C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94090'>Pseudohipoparatiroidismo tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=451607'>Pseudolinfoma cutáneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60026'>Pseudolinfoma pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26790'>Pseudomixoma peritoneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2971'>Pseudo-NALD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2978'>Pseudoobstrucción intestinal crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=104077'>Pseudoobstrucción intestinal miopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99811'>Pseudoobstrucción intestinal neuronal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=104078'>Pseudoobstrucción intestinal no clasificada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519339'>Pseudopapiledema</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=129'>Pseudopelada de Brocq</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93569'>Pseudopoliartritis rizomélica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=577'>Pseudopolidistrofia de Hurler</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79445'>Pseudopseudohipoparatiroidismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83316'>Pseudotifus de Califonia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238624'>Pseudotumor cerebri</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90003'>Pseudotumor inflamatorio del hígado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=555437'>Pseudotumor inflamatorio del hígado asociado a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48918'>Pseudotumor inflamatorio del músculo esquelético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=555434'>Pseudotumor inflamatorio fibrohistiocítico del hígado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=555437'>Pseudotumor inflamatorio hepático linfoplasmocítico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=555437'>Pseudotumor inflamatorio linfoplasmocítico del hígado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=758'>Pseudoxantoma elástico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228247'>Pseudoxantoma elástico adquirido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443173'>Psicosis posparto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443173'>Psicosis puerperal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247353'>Psoriasis pustulosa generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163927'>Psoriasis pustulosa localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240094'>PSP-acinesia pura con congelación de la marcha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240112'>PSP-AOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240103'>PSP-CBS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240085'>PSP-p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240094'>PSP-PAGF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240085'>PSP-parkinsonismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240112'>PSP-PNFA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240103'>PSP-síndrome corticobasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=817'>PSS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263534'>PSS acral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263543'>PSS generalizado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263534'>PSS localizado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263548'>PSS tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263553'>PSS tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269229'>PTCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97290'>PTC-RCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2989'>Pterigión de la conjuntiva familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3002'>PTI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86789'>PTLAH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91411'>Ptosis congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93585'>PTT adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93583'>PTT congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93583'>PTT familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52530'>PT-VWD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231580'>PUAH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=759'>Pubertad precoz central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169615'>Pubertad precoz central idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169618'>Pubertad precoz central secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=759'>Pubertad precoz dependiente de gonadotrofinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435561'>Pubertad precoz en la mujer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3000'>Pubertad precoz familiar independiente de gonadotropinas limitada al varón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3000'>Pubertad precoz familiar limitada al varón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=562'>Pubertad precoz femenina limitada independiente de gonadotropina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435554'>Pubertad precoz genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435564'>Pubertad precoz genética en la mujer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3000'>Pubertad precoz limitada al varón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178040'>Pubertad precoz periférica rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95708'>Pubertad precoz rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60039'>Pudendalgia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3133'>Pulgar trifalángico-luxación de rótula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99908'>Pulmón del criador de pájaros</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=725'>Puntas y ondas continuas durante el sueño</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=725'>Puntas y ondas continuas durante el sueño de ondas lentas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=761'>Púrpura anafilactoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=761'>Púrpura de Henoch-Schönlein</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49566'>Púrpura fulminante adquirido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324636'>Púrpura psicógena</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=761'>Púrpura reumática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=761'>Púrpura reumatoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3002'>Púrpura trombocitopénica autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3002'>Púrpura trombocitopénica inmunitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54057'>Púrpura trombocitopénica trombótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93585'>Púrpura trombocitopénica trombótica autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93583'>Púrpura trombocitopénica trombótica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93585'>Púrpura trombocitopénica trombótica por anticuerpos anti-ADAMTS-13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93585'>Púrpura trombótica trombocitopénica adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293173'>Pustuloderma tóxico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293173'>Pustulosis exantemática generalizada aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163927'>Pustulosis palmar y plantar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163927'>Pustulosis palmoplantar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48377'>Pustulosis subcórnea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93110'>PUV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=729'>PV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101206'>PVA/ADA tipo Fallot</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99048'>PVA/PDA tipo no Fallot</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398069'>PWS por una mutación puntual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251607'>PXA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228247'>PXE adquirido</a></li>

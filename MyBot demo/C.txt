@@ -1,0 +1,1153 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95461'>Cabalgamiento o superposición de la válvula tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1264'>Cabello impeinable-distrofia pigmentaria retiniana-anomalías dentales-braquidactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=170'>Cabello lanoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1401'>Cabellos rizados-anquilobléfaron-displasia ungueal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=136'>CADASIL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448010'>CAD-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369942'>CADDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208974'>CADP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436174'>CAGSSS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418'>CAH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90794'>CAH 21-OHD clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90795'>CAH por deficiencia de 11-beta-hidroxilasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90793'>CAH por deficiencia de 17-alfa-hidroxilasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90791'>CAH por deficiencia de 3-beta-hidroxiesteroide deshidrogenasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93545'>CAKUT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=51608'>Calcificación arterial generalizada de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=51608'>Calcificación arterial infantil idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1229'>Calcificación bilateral en bandas con polimicrogiria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1980'>Calcificación cerebral familiar primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178506'>Calcificación cerebral tipo Rajab</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1314'>Calcificaciones talámicas simétricas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1980'>Calcificación idiopática de los ganglios basales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280062'>Calcifilaxis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280065'>Calcifilaxis cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280068'>Calcifilaxis visceral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1980'>Calcinosis bilateral estriato-pálido-dentada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90290'>Calcinosis-fenómeno de Raynaud-afectación esofágica-esclerodactilia-telangiectasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53715'>Calcinosis tumoral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306661'>Calcinosis tumoral hipercalcémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306658'>Calcinosis tumoral normofosfatémica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300865'>C-ALCL primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79141'>Callosidades dolorosas hereditarias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565909'>Calpain-3-related limb-girdle muscular dystrophy D4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=267'>Calpainopatía primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168558'>Cambio de sexo XY-insuficiencia suprarrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93357'>Cambios espondilóticos y nasales con estriaciones de la displasia metafisaria (SPONASTRIME)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1318'>Campomelia tipo Cumming</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1319'>Camptobraquidactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1320'>Camptocormia idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1320'>Camptocormismo idiopático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3447'>Camptodactilia-crecimiento acelerado-dismorfia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295016'>Camptodactilia de los dedos de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141189'>CAMS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141194'>CAMS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53719'>CAMS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141199'>CAMS3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3319'>CAMT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1329'>Canal auriculoventricular completo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1330'>Canal auriculoventricular parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99067'>Canal AV completo asociado a hipoplasia ventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182083'>Canalopatía con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98743'>Canalopatía genética del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71864'>Canalopatía muscular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98750'>Canalopatía neurológica autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98745'>Canalopatía neurológica del sistema nervioso central por un defecto genético de los canales de calcio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538238'>Canalopatía neurológica del sistema nervioso central por un defecto genético de los canales de cloruro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98746'>Canalopatía neurológica del sistema nervioso central por un defecto genético de los canales de potasio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98744'>Canalopatía neurológica del sistema nervioso central por un defecto genético de los canales de sodio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98748'>Canalopatía neurológica del sistema nervioso central por un defecto genético del receptor de acetilcolina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98747'>Canalopatía neurológica del sistema nervioso central por un defecto genético del receptor de glicina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98749'>Canalopatía neurológica del sistema nervioso central por un defecto genético del receptor GABA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98737'>Canalopatía neurológica muscular genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98739'>Canalopatía neurológica muscular por un defecto genético del canal de cloruro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98740'>Canalopatía neurológica muscular por un defecto genético de los canales de calcio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98741'>Canalopatía neurológica muscular por un defecto genético de los canales de potasio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98738'>Canalopatía neurológica muscular por un defecto genético de los canales de sodio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98742'>Canalopatía neurológica muscular por un defecto genético del receptor de rianodina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=142'>Cáncer anaplásico de tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213837'>Cáncer cervical de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213761'>Cáncer cervical raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440437'>Cáncer colorrectal familiar tipo X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443909'>Cáncer colorrectal no polipósico familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443909'>Cáncer colorrectal no polipósico hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99915'>Cáncer de células de la granulosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99912'>Cáncer de células disgerminomatosas de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213837'>Cáncer de células germinales de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213751'>Cáncer de células germinales de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206489'>Cáncer de células germinales de vagina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206538'>Cáncer de células germinales no disgerminomatoso de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99917'>Cáncer de células tecales (productoras de esteroides), sin más especificaciones</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443909'>Cáncer de colon no polipósico familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443909'>Cáncer de colon no polipósico hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70567'>Cáncer de conducto biliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26106'>Cáncer de estómago difuso familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26106'>Cáncer de estómago difuso hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180242'>Cáncer de las trompas de Falopio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70567'>Cáncer de las vías biliares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398043'>Cáncer del pene</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=227535'>Cáncer de mama familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=227535'>Cáncer de mama hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180257'>Cáncer de mama raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213557'>Cáncer de mama tipo glándula salivar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213500'>Cáncer de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35807'>Cáncer de ovario de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213517'>Cáncer de ovario familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=143'>Cáncer de paratiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1331'>Cáncer de próstata, forma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70573'>Cáncer de pulmón de células pequeñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70573'>Cáncer de pulmón microcítico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180242'>Cáncer de trompas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284400'>Cáncer de vejiga de células pequeñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289385'>Cáncer diagnosticado durante el embarazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398934'>Cáncer epitelial de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70482'>Cáncer esofágico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26106'>Cáncer gástrico difuso familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26106'>Cáncer gástrico difuso hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423776'>Cáncer gástrico hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423776'>Cáncer hereditario de estómago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213782'>Cáncer mixto epitelial y mesenquimatoso de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213589'>Cáncer mixto epitelial y mesenquimatoso de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213610'>Cáncer mülleriano mixto del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213812'>Cáncer neuroectodérmico periférico cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213812'>Cáncer neuroectodérmico periférico de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213630'>Cáncer neuroectodérmico periférico del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398940'>Cáncer no epitelial de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99916'>Cáncer ovárico de células de Sertoli-Leydig</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398934'>Cáncer ovárico epitelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398940'>Cáncer ovárico no epitelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1333'>Cáncer pancreático familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213761'>Cáncer raro de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213569'>Cáncer raro de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213564'>Cáncer raro de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213564'>Cáncer uterino raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2700'>Cancrum oris</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1334'>Candidiasis crónica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504476'>CANVAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75327'>CAPED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264691'>Capilaritis pulmonar aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208650'>CAPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1672'>Caquexia diencefálica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1672'>Caquexia diencefálica de Russell</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199354'>CARASIL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213605'>Carcinofibroma de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213828'>Carcinoma adenoide basal cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213828'>Carcinoma adenoide basal de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213823'>Carcinoma adenoide quístico cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213823'>Carcinoma adenoide quístico de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1501'>Carcinoma adrenocortical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314422'>Carcinoma ameloblástico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300557'>Carcinoma ampular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319308'>Carcinoma asociado a la translocación MITF/TFE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289651'>Carcinoma asociado al EBV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289651'>Carcinoma asociado al virus de Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424975'>Carcinoma carcinoide de hígado y VBI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213767'>Carcinoma cervical de células escamosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213777'>Carcinoma cervical neuroendocrino pobremente diferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231625'>Carcinoma corticosuprarrenal con hipersecreción pura de aldosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231625'>Carcinoma corticosuprarrenal productor puro de aldosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231625'>Carcinoma corticosuprarrenal secretor puro de aldosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247203'>Carcinoma de Bellini</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424046'>Carcinoma de células acinares de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494451'>Carcinoma de células basales de la vulva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329984'>Carcinoma de células caliciformes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79140'>Carcinoma de células de Merkel (MCC)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213833'>Carcinoma de células en vidrio esmerilado de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423994'>Carcinoma de células escamosas de colon</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213716'>Carcinoma de células escamosas de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99977'>Carcinoma de células escamosas de esófago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424975'>Carcinoma de células escamosas de hígado y vías biliares intrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423968'>Carcinoma de células escamosas de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502363'>Carcinoma de células escamosas de la cavidad bucal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502369'>Carcinoma de células escamosas de la cavidad bucal y el labio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500464'>Carcinoma de células escamosas de la cavidad nasal y senos paranasales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502363'>Carcinoma de células escamosas de la cavidad oral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502369'>Carcinoma de células escamosas de la cavidad oral y el labio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500464'>Carcinoma de células escamosas de la cavidad y los senos nasales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494547'>Carcinoma de células escamosas de la hipofaringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494550'>Carcinoma de células escamosas de la laringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500478'>Carcinoma de células escamosas de la orofaringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500481'>Carcinoma de células escamosas de las glándulas salivares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494448'>Carcinoma de células escamosas de la vulva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424019'>Carcinoma de células escamosas del canal anal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418959'>Carcinoma de células escamosas del estómago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502366'>Carcinoma de células escamosas del labio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398058'>Carcinoma de células escamosas del pene</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424039'>Carcinoma de células escamosas de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424002'>Carcinoma de células escamosas de recto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424996'>Carcinoma de células escamosas de vesícula biliar y vías biliares extrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424996'>Carcinoma de células escamosas de vesícula y VBE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284400'>Carcinoma de células pequeñas de la vejiga urinaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370396'>Carcinoma de células pequeñas del ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284400'>Carcinoma de células pequeñas de vejiga</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217071'>Carcinoma de células renales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404514'>Carcinoma de células renales adquirido asociado con una enfermedad quística</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319308'>Carcinoma de células renales con translocación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319308'>Carcinoma de células renales con translocación de la familia MiT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319303'>Carcinoma de células renales cromófobo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213746'>Carcinoma de células transicionales de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213746'>Carcinoma de células transicionales del endometrio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70482'>Carcinoma de esófago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418945'>Carcinoma de esófago tipo glándulas salivales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424936'>Carcinoma de hígado y VBI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424936'>Carcinoma de hígado y vías biliares intrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300557'>Carcinoma de la ampolla de Vater</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443167'>Carcinoma de la línea media NUT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494418'>Carcinoma de la vulva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424013'>Carcinoma del canal anal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247203'>Carcinoma de los conductos de Bellini</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247203'>Carcinoma de los túbulos colectores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251899'>Carcinoma del plexo coroideo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=227535'>Carcinoma de mama familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=227535'>Carcinoma de mama hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213557'>Carcinoma de mama tipo glándula salivar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100088'>Carcinoma de tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180247'>Carcinoma de vagina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284400'>Carcinoma de vejiga de células pequeñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=56044'>Carcinoma de vesícula y VBE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=56044'>Carcinoma de vesícula y vías biliares extrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180226'>Carcinoma embrionario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48736'>Carcinoma embrionario del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48736'>Carcinoma embrionario del SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289362'>Carcinoma embrionario no localizado en el sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289362'>Carcinoma embrionario no localizado en el SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213716'>Carcinoma endometrial de células escamosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454723'>Carcinoma endometrioide de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499182'>Carcinoma epitelial calcificado de Malherbe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70482'>Carcinoma esofágico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99977'>Carcinoma esofágico de células escamosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99977'>Carcinoma esofágico epidermoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418951'>Carcinoma esofágico indiferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418945'>Carcinoma esofágico tipo glándulas salivales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313920'>Carcinoma gástrico asociado a EBV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313920'>Carcinoma gástrico asociado al virus de Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418959'>Carcinoma gástrico de células escamosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423786'>Carcinoma gástrico indiferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423771'>Carcinoma gástrico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88673'>Carcinoma hepatocelular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33402'>Carcinoma hepatocelular de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210159'>Carcinoma hepatocelular del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401920'>Carcinoma hepatocelular fibrolamelar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33402'>Carcinoma hepatocelular pediátrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529852'>Carcinoma hepatocelular y colangiocarcinoma combinado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300385'>Carcinoma hipofisario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213721'>Carcinoma indiferenciado de cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418951'>Carcinoma indiferenciado de esófago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423786'>Carcinoma indiferenciado de estómago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424970'>Carcinoma indiferenciado de hígado y VBI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424970'>Carcinoma indiferenciado de hígado y vías biliares intrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213721'>Carcinoma indiferenciado del endometrio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424080'>Carcinoma indiferenciado de páncreas con células gigantes tipo osteoclasto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424058'>Carcinoma intraductal papilar mucinoso de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1332'>Carcinoma medular de tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99361'>Carcinoma medular de tiroides familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319319'>Carcinoma medular renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213531'>Carcinoma metaplásico de mama</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319287'>Carcinoma multilocular de células renales de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=150'>Carcinoma nasofaríngeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79140'>Carcinoma neuroendocrino cutáneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213777'>Carcinoma neuroendocrino de alto grado del cuello uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213736'>Carcinoma neuroendocrino de bajo grado del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213777'>Carcinoma neuroendocrino de cuello uterino de alto grado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213731'>Carcinoma neuroendocrino del cuerpo uterino de alto grado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506098'>Carcinoma neuroendocrino de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100085'>Carcinoma neuroendocrino hepático primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506098'>Carcinoma neuroendocrino pancreático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284400'>Carcinoma neuroendocrino pobremente diferenciado de la vejiga</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213777'>Carcinoma neuroendocrino pobremente diferenciado del cuello uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213731'>Carcinoma neuroendocrino pobremente diferenciado del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213731'>Carcinoma neuroendocrino pobremente diferenciado del endometrio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99869'>Carcinoma neuroendocrino tímico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263331'>Carcinoma neuroendocrino tímico bien diferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263335'>Carcinoma neuroendocrino tímico moderadamente diferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263339'>Carcinoma neuroendocrino tímico pobremente diferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319494'>Carcinoma no medular familiar de tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319487'>Carcinoma no medular puro familiar de tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209989'>Carcinoma no papilar de células transicionales de la vejiga</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209989'>Carcinoma no papilar urotelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370396'>Carcinoma ovárico de células pequeñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424046'>Carcinoma pancreático de células acinares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424039'>Carcinoma pancreático de células escamosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424080'>Carcinoma pancreático indiferenciado con células gigantes tipo osteoclasto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424058'>Carcinoma pancreático mucinoso intraductal papilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217074'>Carcinoma pancreático raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424065'>Carcinoma pancreático sólido pseudopapilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213817'>Carcinoma papilar cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319298'>Carcinoma papilar de células renales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213817'>Carcinoma papilar de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213726'>Carcinoma papilar de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168829'>Carcinoma papilar de la superficie serosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213726'>Carcinoma papilar del endometrio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=47044'>Carcinoma papilar hereditario de células renales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319487'>Carcinoma papilar o folicular familiar de tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398980'>Carcinoma papilar/seroso peritoneal primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168829'>Carcinoma peritoneal primario seroso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499182'>Carcinoma pilomatricial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168829'>Carcinoma primario peritoneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168829'>Carcinoma primario peritoneal extraovárico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319287'>Carcinoma quistico multilocular de células renales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213767'>Carcinoma raro de células escamosas de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423771'>Carcinoma raro de estómago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423957'>Carcinoma raro de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217074'>Carcinoma raro de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424002'>Carcinoma rectal de células escamosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319276'>Carcinoma renal de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=422526'>Carcinoma renal hereditario de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319322'>Carcinoma renal mucinoso tubular y de células fusiformes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404511'>Carcinoma renal papilar de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319325'>Carcinoma renal túbulo-quístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289682'>Carcinoma similar al linfoepitelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424065'>Carcinoma sólido pseudopapilar de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99868'>Carcinoma tímico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=146'>Carcinoma tiroideo bien diferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=146'>Carcinoma tiroideo diferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97290'>Carcinoma tiroideo papilar familiar con neoplasia renal papilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=146'>Carcinoma tiroideo papilar o folicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499182'>Carcinoma tricomatricial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494418'>Carcinoma vulvar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494451'>Carcinoma vulvar de células basales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494448'>Carcinoma vulvar de células escamosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213787'>Carcinosarcoma cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213787'>Carcinosarcoma del cuello uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213610'>Carcinosarcoma del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213512'>Carcinosarcoma ovárico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213610'>Carcinosarcoma uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1561'>Cardioencefalomiopatía infantil fatal por deficiencia de citocromo c oxidasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=57777'>Cardiomiopatía cirrótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70474'>Cardiomiopatía con hipotonía por deficiencia de citocromo C oxidasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66634'>Cardiomiopatía dilatada con ataxia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217598'>Cardiomiopatía hipertrófica no familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217601'>Cardiomiopatía hipertrófica por entrenamiento atlético intensivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137675'>Cardiomiopatía histiocitoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217678'>Cardiomiopatía no clasificada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563'>Cardiomiopatía periparto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563'>Cardiomiopatía postparto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=167848'>Cardiomiopatía rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217632'>Cardiomiopatía restrictiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75249'>Cardiomiopatía restrictiva aislada familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217635'>Cardiomiopatía restrictiva familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217720'>Cardiomiopatía restrictiva no familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85451'>Cardiopatía amiloide por transtiretina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95483'>Cardiopatía univentricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401996'>Cariomegalia sistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324972'>Cartílago inflamado con úlceras bucales y genitales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31150'>Casete transportador de unión a adenosina trifosfato A1 defectuoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99429'>CASI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1366'>Catarata-alopecia-esclerodactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98989'>Catarata cerúlea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289499'>Catarata congénita con microcórnea y opacidad corneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330054'>Catarata congénita-hipotonía muscular progresiva-sordera-retraso del desarrollo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98990'>Catarata coraliforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98985'>Catarata de inicio temprano con opacidades de las suturas en forma de Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522548'>Catarata genética sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=441452'>Catarata lamelar de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91492'>Catarata no sindrómica de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98991'>Catarata nuclear de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98992'>Catarata parcial de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98988'>Catarata polar anterior de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98993'>Catarata polar posterior de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98984'>Catarata polvorienta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98984'>Catarata pulverulenta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98640'>Catarata rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98641'>Catarata sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98988'>Catarata subcapsular anterior de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=441447'>Catarata subcapsular posterior de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98984'>Catarata tipo Coppock</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98994'>Catarata total de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98995'>Catarata zonular de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70476'>Catarro primaveral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=567'>CATCH 22</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99994'>Causalgia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221061'>Cavernoma cerebral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221061'>Cavernoma cerebral hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529808'>CBE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231242'>C-beta-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=186'>CBP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70567'>CCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99978'>CCA hiliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2444'>CCAM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280832'>CCAM tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280840'>CCAM tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280847'>CCAM tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293825'>CCAM tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280832'>CCAM tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280840'>CCAM tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280847'>CCAM tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293825'>CCAM tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468684'>CCDC115-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98972'>CCDF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79172'>CCDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1416'>CC familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1416'>CC Hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99827'>CCHF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=661'>CCHS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289499'>CCMCO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217071'>CCR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319276'>CCRCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440437'>CCRFX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2505'>CCSF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85'>CDA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98869'>CDA I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98873'>CDA II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98870'>CDA III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293825'>CDA IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293825'>CDAN4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293825'>CDA por mutaciones en KLF1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98869'>CDA tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98873'>CDA tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98870'>CDA tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98869'>CDA tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98873'>CDA tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98870'>CDA tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247203'>CDC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163681'>CDFES</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137'>CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79318'>CDG1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79319'>CDG1B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79320'>CDG1C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79321'>CDG1D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79322'>CDG1E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79323'>CDG1F</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79324'>CDG1G</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79325'>CDG1H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79326'>CDG1I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86309'>CDG1J</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79327'>CDG1K</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79328'>CDG1L</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91131'>CDG1M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=244310'>CDG1N</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263494'>CDG1O</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280071'>CDG1P</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324737'>CDG1Q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300536'>CDG1R</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324422'>CDG-1s</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319646'>CDG1T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329178'>CDG1U</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370921'>CDG1W</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370924'>CDG1X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370927'>CDG1Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448010'>CDG1Z</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79329'>CDG2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79330'>CDG2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99843'>CDG2C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79332'>CDG2D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79333'>CDG2E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238459'>CDG2F</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263508'>CDG2G</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95428'>CDG2H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263487'>CDG2I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263501'>CDG2J</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314667'>CDG2k</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=356961'>CDG2M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468699'>CDG2N</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468684'>CDG2o</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466703'>CDG2P</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371200'>CDG con afectación cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371157'>CDG con afectación hepática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371188'>CDG con afectación intestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371047'>CDG con afectación neurológica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371235'>CDG con anomalías del desarrollo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371071'>CDG con epilepsia como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371183'>CDG con malformación cardíaca como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371176'>CDG con miocardiopatía dilatada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371207'>CDG con nefropatía como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371212'>CDG con sordera como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79318'>CDG-Ia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79319'>CDG-Ib</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79320'>CDG-Ic</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79321'>CDG-Id</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79322'>CDG-Ie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79323'>CDG-If</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79324'>CDG-Ig</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79325'>CDG-Ih</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79326'>CDG-Ii</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79329'>CDG-IIa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79330'>CDG-IIb</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99843'>CDG-IIc</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79332'>CDG-IId</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79333'>CDG-IIe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238459'>CDG-IIf</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263508'>CDG-IIg</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95428'>CDG-IIh</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263487'>CDG-IIi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263501'>CDG-IIj</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314667'>CDG-IIk</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=356961'>CDG-IIm</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468699'>CDG-IIn</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468684'>CDG-IIo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466703'>CDG-IIp</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86309'>CDG-Ij</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79327'>CDG-Ik</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79328'>CDG-IL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91131'>CDG-Im</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=244310'>CDG-In</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263494'>CDG-Io</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280071'>CDG-Ip</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324737'>CDG-Iq</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300536'>CDG-Ir</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324422'>CDG-Is</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319646'>CDG-It</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329178'>CDG-Iu</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370921'>CDG-Iw</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370924'>CDG-Ix</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370927'>CDG-Iy</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448010'>CDG-Iz</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371054'>CDG ligado al cromosoma X con discapacidad intelectual como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371064'>CDG no ligado al cromosoma X con discapacidad intelectual como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2140'>CDH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1529'>CDHS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178029'>CDI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95626'>CDI adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=30925'>CDI hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35173'>CDPX2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35173'>CDPXD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398063'>CD refractaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79172'>CDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158'>CDSP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468641'>CEAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566067'>CEBPE-associated autoinflammation-immunodeficiency-neutrophil dysfunction syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1459'>CEC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1515'>CED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275517'>CEDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=322'>CEE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157843'>Cefalalgia trigémino-autonómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183509'>Cefalea genética rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276429'>Cefalea hípnica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98022'>Cefalea rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=57145'>Cefalea unilateral neuralgiforme de breve duración con reacción conjuntival y lagrimeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268817'>Cefalocele</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88629'>Ceguera al color azul</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49382'>Ceguera al color completa o incompleta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=649'>Ceguera de Episkopi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=215'>Ceguera nocturna estable congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=215'>Ceguera nocturna estacionaria congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75382'>Ceguera nocturna estacionaria congénita tipo Oguchi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49382'>Ceguera para los colores de Pingelap</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49382'>Ceguera total al color</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2017'>Celosomia torácica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329984'>Célula caliciforme adenocarcinoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329984'>Célula caliciforme carcinoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83454'>Células glómicas con malformaciones venosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=345'>Celulitis disecante de cuero cabelludo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79277'>CEP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169079'>Cernunnos XLFD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216'>Ceroidolipofuscinosis neuronal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168486'>Ceroidolipofuscinosis neuronal congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79262'>Ceroidolipofuscinosis neuronal del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79264'>Ceroidolipofuscinosis neuronal juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314632'>Ceroidolipofuscinosis neuronal juvenil asociada a ATP13A2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314632'>Ceroidolipofuscinosis neuronal-parkinsonismo juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1947'>Ceroidolipofuscinosis neuronal, variante epilépsica nórdica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=195'>CES</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=438075'>Cetoacidosis por deficiencia del transportador de monocarboxilato 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=511'>Cetoaciduria de cadena ramificada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268145'>Cetoaciduria de cadena ramificada clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231573'>CEVD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2032'>CFA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1520'>CFND</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1520'>CFNS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=379'>CGD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=242'>CGD 46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2026'>CGHT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2388'>ChAc</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307766'>CHACS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436159'>CHAI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280288'>Chaperonopatía mitocondrial HSP60</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529852'>cHCC-CC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210159'>CHC del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168577'>CHC tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98975'>CHED1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293603'>CHED2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98975'>CHED autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293603'>CHED autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98975'>CHEDI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293603'>CHEDII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=657'>CHI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324625'>Chikungunya</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180'>CHM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97292'>Choque cardiogénico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94087'>CHP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566396'>Chronic mast cell leukemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1478'>CIA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280615'>Cianosis neonatal transitoria y anemia por hemoglobina Toms River</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99106'>CIA tipo ostium primum</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99103'>CIA tipo ostium secundum</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99105'>CIA tipo sinus venoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65682'>CIBR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90080'>Cicatrización tras cirugía de filtración de glaucoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210'>Ciclosporosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436252'>CID-MIA/IBD de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2932'>CIDP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217390'>CID por deficiencia de DOCK8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317476'>CID por deficiencia de MAGT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317428'>CID por deficiencia de ORAI1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157949'>CID por deficiencia de RAG 1/2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317430'>CID por deficiencia de STIM1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314689'>CID por deficiencia de STK4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95486'>Cierre prematuro del conducto arterial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95486'>Cierre prematuro del conducto arterioso persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294422'>CIF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3135'>Cifosis juvenil de Scheuermann familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1320'>Cifosis lumbar idiopática progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211'>Cilindromatosis de Poncet-Spiegler</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363250'>Ciliopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156162'>Ciliopatía asociada a nefropatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156165'>Ciliopatía retinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156183'>Ciliopatía retinal por una mutación en el gen Bardet-Biedl</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156168'>Ciliopatía retinal por una mutación en el gen de la retinosis pigmentaria-1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156180'>Ciliopatía retinal por una mutación en el gen nefronoptisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156171'>Ciliopatía retinal por una mutación en el gen RPGR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156174'>Ciliopatía retinal por una mutación en el gen RPGRIP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156177'>Ciliopatía retinal por una mutación en el gen Usher</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93426'>Ciliopatías con afectación esquelética extensa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88642'>CIP asociada a canalopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391397'>CIP con hiperhidrosis y disfunción gastrointestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2978'>CIPO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65682'>CIRB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=186'>Cirrosis biliar primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=779'>Cirrosis biliar y esclerodermia sistémica primarias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168583'>Cirrosis hereditaria de los niños indios de América del Norte</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209919'>Cirrosis idiopática asociada al cobre</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157820'>CISS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=212'>Cistationinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1560'>Cisticercosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213'>Cistinosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411641'>Cistinosis de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411634'>Cistinosis intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411634'>Cistinosis juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411629'>Cistinosis nefropática infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411634'>Cistinosis nefropática juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411641'>Cistinosis no nefropática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411641'>Cistinosis ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=214'>Cistinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=214'>Cistinuria-lisinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93612'>Cistinuria tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93613'>Cistinuria tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=37202'>Cistitis intersticial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424982'>Cistoadenocarcinoma biliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424982'>Cistoadenocarcinoma del conducto biliar intrahepático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424053'>Cistoadenocarcinoma mucinoso de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424053'>Cistoadenocarcinoma pancreático mucinoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424073'>Cistoadenocarcinoma pancreático seroso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424073'>Cistoadenocarcinoma seroso de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206470'>Cistoadenoma mucinoso de ovario en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206470'>Cistoadenoma seroso de ovario en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206470'>Cistoadenoma seroso o mucinoso de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180261'>Cistosarcoma filoide de la mama</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498228'>Cistosarcoma filoides de la próstata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86836'>Citopenia refractaria con displasia multilineal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=187'>Citrulinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247525'>Citrulinemia clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247573'>Citrulinemia del adulto tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247573'>Citrulinemia del adulto tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247546'>Citrulinemia neonatal aguda tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247546'>Citrulinemia neonatal aguda tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247525'>Citrulinemia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247573'>Citrulinemia tipo 1 de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247585'>Citrulinemia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247585'>Citrulinemia tipo 2 de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247525'>Citrulinemia tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247573'>Citrulinemia tipo I de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247585'>Citrulinemia tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247585'>Citrulinemia tipo II de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423693'>CIVD con CIV doblemente comprometido o subaórtico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90790'>CLAH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325524'>CLAH clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325529'>CLAH no clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97249'>CLAM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320317'>CLEPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295014'>Clinodactilia familiar aislada de los dedos de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284448'>CLIPPERS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86850'>Cloroma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512017'>CLPD-NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3253'>CLPED1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=192'>CLS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85136'>CLWM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289504'>CMAMMA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97242'>CMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=258'>CMD1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98893'>CMD1B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370959'>CMD con afectación cerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370968'>CMD con discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370959'>CMD-CRB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371007'>CMDH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370968'>CMD-MR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370953'>CMD por una distroglicanopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370980'>CMD sin discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86830'>CMPD-U</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71'>CMRD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101081'>CMT1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=476394'>CMT1 asociada a PMP2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90658'>CMT1E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101075'>CMT1X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91024'>CMT2-AR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90119'>CMT2-AR con acrodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90118'>CMT2-AR tipo Ouvrier</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521414'>CMT2 asociada a ATP1A1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443950'>CMT2 asociada a DNAJB2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=497757'>CMT2 autosómica dominante asociada a MME</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228374'>CMT2B5-AR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101102'>CMT2C-AR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401964'>CMT2 con axones gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521414'>CMT2DD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101102'>CMT2H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228179'>CMT2M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228174'>CMT2N</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284232'>CMT2O</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300319'>CMT2P</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324611'>CMT2 por mutación en KIF5A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435387'>CMT2 por mutación en VCP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435819'>CMT2 por mutación TFG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=487814'>CMT2 por una mutación en DGAT2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329258'>CMT2Q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397968'>CMT2R</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443073'>CMT2S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495274'>CMT2T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495274'>CMT2T-AR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397735'>CMT2U</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488333'>CMT2W</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466775'>CMT2X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435387'>CMT2Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466768'>CMT2Z</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101077'>CMT3X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391351'>CMT4 asociada a SURF1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363981'>CMT4B3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101102'>CMT4C2 axonal autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99950'>CMT4D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139515'>CMT4J</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391351'>CMT4K</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101078'>CMT4X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99014'>CMT5X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352675'>CMT6X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1556'>CMTC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100043'>CMTDIA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100044'>CMTDIB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93114'>CMTDIE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352670'>CMTDIF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166'>CMT/HMSN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435998'>CMT-IR tipo D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64747'>CMTX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101075'>CMTX1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101076'>CMTX2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101077'>CMTX3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101078'>CMTX4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99014'>CMTX5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352675'>CMTX6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468635'>CMUSE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506098'>CNE pancreático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512017'>CNKL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=595'>CNM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319160'>CNM4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324964'>CNO/CRMO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251870'>CNS PNET</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436169'>Coagulopatía asociada a la trombomodulina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436169'>Coagulopatía asociada a THBD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391320'>Coagulopatía del este de Texas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248308'>Coagulopatía rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248347'>Coagulopatía rara adquirida por anomalía de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248347'>Coagulopatía rara adquirida por trombopatía y/o trombocitopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183654'>Coagulopatía rara de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248326'>Coagulopatía rara por anomalía de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248315'>Coagulopatía rara por defecto de los factores de coagulación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68334'>Coagulopatía rara por deficiencia constitucional de factores de coagulación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248326'>Coagulopatía rara por trombopatía y/o trombocitopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71202'>Coagulopatía rara por una anomalía plaquetaria constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275729'>Coagulopatía rara por una trombocitopenia constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275736'>Coagulopatía rara por una trombopatía constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71202'>Coagulopatía rara por una trombopatía y/o trombocitopenia constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275736'>Coagulopatía rara por un defecto cualitativo de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275729'>Coagulopatía rara por un defecto cuantitativo de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1456'>Coartación aórtica atípica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1455'>Coartación de aorta con transmisión dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1456'>Coartación de la aorta abdominal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1457'>Coartación ístmica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228123'>Coccidioidomicosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464760'>CODA familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263508'>COG1-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435934'>COG2-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263501'>COG4-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263487'>COG5-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464443'>COG6-CGD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79333'>COG7-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95428'>COG8-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79144'>COIF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53296'>Colagenoma cutáneo familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228264'>Colagenoma eruptivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79147'>Colagenosis perforante reactiva familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70567'>Colangiocarcinoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99978'>Colangiocarcinoma hiliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=186'>Colangitis biliar primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447771'>Colangitis esclerosante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447764'>Colangitis esclerosante asociada a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480556'>Colangitis esclerosante neonatal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171'>Colangitis esclerosante primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447774'>Colangitis esclerosante secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300552'>Colangitis folicular y pancreatitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95430'>Colapso congénito grave de las vías respiratorias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69663'>Colelitiasis asociada a fosfolípidos bajos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69663'>Colelitiasis asociada a una mutación en el gen ABCB4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69663'>Colelitiasis con mutación del gen ABCB4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=173'>Cólera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97282'>Cólera pancreático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69665'>Colestasis asociada al embarazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79303'>Colestasis con deficiencia de delta(4)-3-oxosteroide 5-beta-reductasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69665'>Colestasis intrahepática del embarazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284385'>Colestasis intrahepática familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=172'>Colestasis intrahepática familiar progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480491'>Colestasis intrahepática familiar progresiva asociada a MYO5B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79306'>Colestasis intrahepática familiar progresiva tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79304'>Colestasis intrahepática familiar progresiva tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79305'>Colestasis intrahepática familiar progresiva tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480483'>Colestasis intrahepática familiar progresiva tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480476'>Colestasis intrahepática familiar progresiva tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69665'>Colestasis intrahepática gravídica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247598'>Colestasis intrahepática neonatal por deficiencia de citrina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65682'>Colestasis intrahepática recurrente benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99960'>Colestasis intrahepática recurrente benigna tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99961'>Colestasis intrahepática recurrente benigna tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69665'>Colestasis intrahepática recurrente del embarazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402035'>Colitis eosinofílica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=103920'>Colitis indeterminada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141242'>Coloboma aislado de la nariz</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98942'>Coloboma corio-retiniano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98943'>Coloboma de cristalino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98944'>Coloboma de iris</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98947'>Coloboma de las papilas ópticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98947'>Coloboma del disco óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1475'>Coloboma del nervio óptico con enfermedad renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155889'>Coloboma del párpado inferior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155884'>Coloboma del párpado superior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98946'>Coloboma de párpado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35737'>Coloboma ectásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1473'>Coloboma-fisura labiopalatina-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98945'>Coloboma macular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155889'>Coloboma palpebral inferior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98566'>Coloboma palpebral sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155884'>Coloboma palpebral superior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565624'>Combined oxidative phosphorylation defect type 39</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166286'>Comedonevus de la palma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86818'>Complejo AMME</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1359'>Complejo de Carney</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1986'>Complejo de Gollop-Wolfgang</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99063'>Complejo de Shone</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90020'>Complejo esclerosis lateral amiotrófica-parkinsonismo-demencia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=805'>Complejo esclerosis tuberosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2369'>Complejo extremidad-pared abdominal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=322'>Complejo extrofia-epispadias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=322'>Complejo extrofia vesical-epispadias-extrofia cloacal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2019'>Complejo fémur-peroné-cúbito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2019'>Complejo FFU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2369'>Complejo 'limb body wall'</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93929'>Complejo OEIS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90020'>Complejo parkinsonismo-demencia-ELA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220295'>Complejo xeroderma pigmentoso/síndrome de Cockayne</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220295'>Complejo XP/CS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566175'>Complement Hyperactivation - angiopathic thrombosis and Protein-losing enteropathy</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268316'>Complicaciones en hemodiálisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306644'>Complicaciones tras un trasplante de órganos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353334'>Comunicación arteriovenosa congénita de la retina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353334'>Comunicación arteriovenosa retiniana congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1478'>Comunicación interauricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98722'>Comunicación interventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99095'>Comunicación ventrículo izquierdo-aurícula derecha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1416'>Condrocalcinosis articular familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1416'>Condrocalcinosis articular hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93420'>Condrodisplasia asociada a FGFR3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263463'>Condrodisplasia con luxaciones articulares congénitas tipo CHST3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280586'>Condrodisplasia con luxaciones articulares, tipo gPAPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3144'>Condrodisplasia con pelvis en espiral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1190'>Condrodisplasia de células gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166272'>Condrodisplasia de Goldblatt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166272'>Condrodisplasia-dentinogénesis imperfecta-laxitud articular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166272'>Condrodisplasia-dentinogénesis imperfecta-laxitud de las articulaciones</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163966'>Condrodisplasia dominante ligada al cromosoma X-hidrocefalia-microftalmia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163966'>Condrodisplasia dominante ligada al cromosoma X tipo Chassaing-Lacombe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93465'>Condrodisplasia letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1842'>Condrodisplasia letal autosómica recesiva, tipo epífisis femoral inferior redonda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50945'>Condrodisplasia letal tipo Blomstrand</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=175'>Condrodisplasia metafisaria autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33067'>Condrodisplasia metafisaria tipo Jansen</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166038'>Condrodisplasia metafisaria tipo Kaitila</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=174'>Condrodisplasia metafisaria tipo Schmid</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2501'>Condrodisplasia metafisaria tipo Spahr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93442'>Condrodisplasia punctata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79345'>Condrodisplasia punctata braquitelefalángica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35173'>Condrodisplasia punctata dominante ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35173'>Condrodisplasia punctata ligada al cromosoma X tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=176'>Condrodisplasia punctata no rizomélica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=177'>Condrodisplasia punctata rizomélica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309789'>Condrodisplasia punctata rizomélica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309796'>Condrodisplasia punctata rizomélica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309803'>Condrodisplasia punctata rizomélica tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468717'>Condrodisplasia punctata rizomélica tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79346'>Condrodisplasia punctata tipo húmero-metacarpiana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79347'>Condrodisplasia punctata tipo Toriello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1423'>Condrodisplasia recesiva letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50945'>Condrodisplasia tipo Blomstrand</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2098'>Condrodisplasia tipo Grebe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35173'>Condrodistrofia congénita calcificante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=800'>Condrodistrofia miotónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1428'>Condromalacia rotuliana familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99646'>Condromatosis metafisaria con aciduria D-2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=55880'>Condrosarcoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209916'>Condrosarcoma mixoide extraesquelético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46627'>Conducto arterioso permeable con dismorfia facial y anomalías del meñique</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466729'>Conducto arterioso persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228190'>Conducto arterioso persistente-válvula aórtica bicúspide-anomalías de las manos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1461'>Conexiones auriculoventriculares cruzadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1461'>Conexiones auriculoventriculares en criss-cross</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1461'>Conexiones auriculoventriculares trenzadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75567'>Congelación progresiva y primaria de la marcha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566192'>Congenital autosmal recessive small-platelet thrombocytopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=562528'>Congenital limbs-face contractures-hypotonia-developmental delay syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522544'>Conjuntivitis genética rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1482'>Conjuntivitis gonocócica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97231'>Conjuntivitis leñosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519280'>Conjuntivitis rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85168'>Conodisplasia cráneofacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251515'>Contractura en flexión plantar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3006'>Convulsiones dependientes de vitamina B6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1544'>Convulsiones focales benignas del adolescente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306'>Convulsiones infantiles familiares benignas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31709'>Convulsiones infantiles y coreoatetosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1949'>Convulsiones neonatales benignas familiares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64545'>Convulsiones neonatales idiopáticas benignas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140927'>Convulsiones neonatales-infantiles benignas familiares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64545'>Convulsiones neonatales no familiares benignas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293181'>Convulsiones parciales migratorias de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293181'>Convulsiones parciales migratorias malignas del lactante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166418'>Convulsiones por la ingesta de alimentos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79097'>Convulsiones sensibles al ácido folínico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79096'>Convulsiones sensibles al piridoxal fosfato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397725'>CoPAN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79273'>Coproporfiria hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1461'>Corazón en criss-cross</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95443'>Corazón en la línea media</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1463'>Corazón triatrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1463'>Corazón triauricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1464'>Corazón univentricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99069'>Corazón univentricular con una sola válvula ventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178'>Cordoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2388'>Corea-acantocitosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494541'>Corea benigna de inicio en la infancia con afectación estriatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1429'>Corea benigna familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1429'>Corea benigna hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399'>Corea de Huntington</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248111'>Corea de Huntington juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306731'>Corea de Sydenham</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83467'>Corea fibrilar de Morvan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2388'>Coreoacantocitosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98809'>Coreoatetosis cinesigénica paroxística</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53583'>Coreoatetosis distónica paroxística con ataxia episódica y espasticidad</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53583'>Coreoatetosis/espasticidad episódicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1431'>Coreoatetosis paroxística</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1431'>Coreoatetosis paroxística distónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98810'>Coreoatetosis paroxística no cinesigénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252015'>Coriocarcinoma del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99926'>Coriocarcinoma gestacional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289356'>Coriocarcinoma ovárico primario no gestacional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289356'>Coriocarcinoma primario no gestacional de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179'>Coriorretinitis "birdshot"</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179'>Coriorretinopatía "birdshot"</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179'>Coriorretinopatía en perdigonada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443079'>Coriorretinopatía serosa central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53691'>Córnea plana congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98635'>Corneogoniodisgenesia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180'>Coroideremia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280892'>Coroiditis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90061'>Coroiditis no infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35686'>Coroiditis serpiginosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179'>Coroiditis vitiliginosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35686'>Coroidopatía geográfica helicoidal peripapilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2318'>CORS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1463'>Cor triatriatum</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99098'>Cor triatriatum dexter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99098'>Cor triatriatum dextrum</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99099'>Cor triatriatum sinister</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99099'>Cor triatriatum sinistrum</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=781'>Coxielosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314637'>COXPD10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324535'>COXPD11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314051'>COXPD12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319514'>COXPD13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319519'>COXPD14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319524'>COXPD15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352563'>COXPD16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369913'>COXPD17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254920'>COXPD2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420728'>COXPD20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420733'>COXPD21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444013'>COXPD23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444458'>COXPD24</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447954'>COXPD25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477684'>COXPD26</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477774'>COXPD27</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466784'>COXPD28</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=478029'>COXPD29</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=478042'>COXPD30</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254925'>COXPD4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137908'>COXPD5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254930'>COXPD7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319504'>COXPD8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319509'>COXPD9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=497623'>COXPD asociado a C12ORF65</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254930'>COXPD grave asociada a C12ORF65</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2444'>CPAM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280827'>CPAM tipo 0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280854'>CPAM tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70573'>CPCP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=475'>CPD IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=663'>CPEO de herencia materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329336'>CPEO del adulto con miopatía mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300564'>CPFE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91359'>CPI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2807'>CPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168829'>CPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1416'>CPPD familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168829'>CPPEO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=147'>CPS1D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228302'>CPT2, forma adulta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228305'>CPT2, forma hepatocardiomuscular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228305'>CPT2, forma infantil grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228302'>CPT2, forma miopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228308'>CPT2, forma neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228308'>CPT2, forma sistémica letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228302'>CPTII, forma adulta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228305'>CPTII, forma hepatocardiomuscular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228305'>CPTII, forma infantil grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228302'>CPTII, forma miopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228308'>CPTII, forma neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228308'>CPTII, forma sistémica letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3286'>CPVT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35173'>CPXD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60015'>Cráneo bífido hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2872'>Craneoestenosis sagital con enfermedad cardíaca congénita, discapacidad intelectual y anquilosis mandibular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54595'>Craneofaringioma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1525'>Cráneo-osteo-artropatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63260'>Craneorraquisquisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1531'>Craneosinostosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1532'>Craneosinostosis-alopecia-defecto cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2145'>Craneosinostosis de Herrmann-Opitz</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97340'>Craneosinostosis de Hunter-McAlpine</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2872'>Craneosinostosis-enfermedad cardíaca congénita-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1541'>Craneosinostosis tipo Boston</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1527'>Craneosinostosis tipo Filadelfia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2145'>Craneosinostosis tipo Herrmann-Opitz</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1541'>Craneosinostosis tipo Warman</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284149'>Craneosinostosis y anomalías dentales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139390'>Craneosionostosis aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139393'>Craneosionostosis sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98684'>Craneostenosis asociada con estrabismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157832'>Craniorrinia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565858'>Craniosynostosis-microretrognathia-several intellectual disability syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=184'>CRBM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71'>CRD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281190'>CRIE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91138'>Crioglobulinemia esencial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91138'>Crioglobulinemia esencial mixta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91138'>Crioglobulinemia mixta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93554'>Crioglobulinemia mixta tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93555'>Crioglobulinemia mixta tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93554'>Crioglobulinemia mixta tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93555'>Crioglobulinemia mixta tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91138'>Crioglobulinemia primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91139'>Crioglobulinemia simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91139'>Crioglobulinemia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91139'>Crioglobulinemia tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168577'>Criohidrocitosis deficiente en estomatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398088'>Criohidrocitosis hereditaria con estomatina normal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168577'>Criohidrocitosis hereditaria con estomatina reducida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168577'>Criohidrocitosis hereditaria tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499085'>CRION</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208650'>Criopirinopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1546'>Criptococosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98562'>Criptoftalmia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91396'>Criptoftalmia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98949'>Criptoftalmia completa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98950'>Criptoftalmia parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1549'>Criptosporidiosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95409'>Crisis corticosuprarrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95409'>Crisis de Addison</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166415'>Crisis epilépticas audiógenas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166421'>Crisis epilépticas inducidas por el orgasmo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166424'>Crisis epilépticas inducidas por el pensamiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166430'>Crisis epilépticas inducidas por la micción</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1544'>Crisis focales benignas del adolescente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166305'>Crisis infantiles benignas asociadas con gastroenteritis leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306'>Crisis infantiles familiares benignas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166295'>Crisis infantiles no familiares benignas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166311'>Crisis infantiles parciales benignas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166433'>Crisis por lectura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95409'>Crisis suprarrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399058'>Cristalinopatía distal de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313838'>CRMCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182'>Cromoblastomicosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182'>Cromomicosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1438'>Cromosoma 10 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96175'>Cromosoma 11 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1439'>Cromosoma 12 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96176'>Cromosoma 13 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1440'>Cromosoma 14 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96177'>Cromosoma 15 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3306'>Cromosoma 15 isodicéntrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96178'>Cromosoma 16 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1441'>Cromosoma 17 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1442'>Cromosoma 18 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1443'>Cromosoma 19 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1437'>Cromosoma 1 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1444'>Cromosoma 20 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1445'>Cromosoma 21 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1446'>Cromosoma 22 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96171'>Cromosoma 2 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96172'>Cromosoma 3 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1447'>Cromosoma 4 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251043'>Cromosoma 5 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1448'>Cromosoma 6 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1449'>Cromosoma 7 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1450'>Cromosoma 8 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96173'>Cromosoma 9 en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363203'>Cromosoma en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261529'>Cromosoma Y en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=290'>CRS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411527'>CRVO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99892'>CS ACTH-dependiente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101068'>CSCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443079'>CSCR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35122'>CSID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306436'>CSID con intolerancia al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306474'>CSID con intolerancia al almidón y a la lactosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306446'>CSID con tolerancia mínima al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306462'>CSID sin intolerancia al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306486'>CSID sin intolerancia a la sacarosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1465'>CSS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329217'>CSVT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=725'>CSWS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247525'>CTLN1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247585'>CTLN2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3011'>Cuadriplejía espástica-retinosis pigmentaria-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158'>CUD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99113'>Curso subaórtico de la vena innominada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209'>Cutis laxa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228285'>Cutis laxa acquisita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228285'>Cutis laxa adquirido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90348'>Cutis laxa autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90349'>Cutis laxa autosómica recesiva con afectación sistémica grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90349'>Cutis laxa autosómica recesiva tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221145'>Cutis laxa autosómica recesiva tipo 1C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90350'>Cutis laxa autosómica recesiva tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357058'>Cutis laxa autosómica recesiva tipo 2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357064'>Cutis laxa autosómica recesiva tipo 2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357074'>Cutis laxa autosómica recesiva tipo 2, tipo clásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357074'>Cutis laxa autosómica recesiva tipo 2, tipo Debré</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357064'>Cutis laxa autosómica recesiva tipo 2, tipo progeroide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90349'>Cutis laxa autosómica recesiva tipo enfisema pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221145'>Cutis laxa con anomalías urinarias, gastrointestinales y pulmonares graves</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90350'>Cutis laxa con laxitud articular y retraso del desarrollo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=198'>Cutis laxa ligado al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2962'>Cutis laxa-opacidad corneal-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1556'>Cutis marmorata telangiectasia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=671'>Cutis verticis gyrata primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357220'>Cutis verticis gyrata primaria esencial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357225'>Cutis verticis gyrata primaria no esencial</a></li>
+

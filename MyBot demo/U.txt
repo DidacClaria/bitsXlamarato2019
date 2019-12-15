@@ -1,0 +1,106 @@
+
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279914'>UI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2032'>UIP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519408'>Úlcera de Mooren</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308'>ULD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3406'>Uleritema ofriogénesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3138'>UMS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263019'>UPD(1)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263034'>UPD(11)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231147'>UPD(11)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96193'>UPD(11)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263044'>UPD(13)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97678'>UPD(13)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99324'>UPD(13)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263049'>UPD(14)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96184'>UPD(14)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96334'>UPD(14)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263054'>UPD(15)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98754'>UPD(15)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98795'>UPD(15)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96185'>UPD(16)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251009'>UPD(1)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251004'>UPD(1)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263059'>UPD(20)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96186'>UPD(20)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96186'>UPD(20) materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96194'>UPD(20)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96194'>UPD(20) paterna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263064'>UPD(21)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96187'>UPD(21)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96195'>UPD(21)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96188'>UPD(22)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96179'>UPD(2)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96180'>UPD(4)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96190'>UPD(5)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263024'>UPD(6)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96181'>UPD(6)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96191'>UPD(6)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263029'>UPD(7)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96182'>UPD(7)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96192'>UPD(7)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96183'>UPD(9)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263793'>UPD(X)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261519'>UPD(X)mat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261524'>UPD(X)pat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431341'>Uraco persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=976'>Urolitiasis 2,8 dihidroxi-adenina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3467'>Urolitiasis xántica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280379'>Uroporfiria eritropoyética asociada a neoplasias mieloides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=37748'>Urticaria crónica con gammapatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=37748'>Urticaria crónica con macroglobulinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182734'>Urticaria de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=47045'>Urticaria familiar por frío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300359'>Urticaria familiar por frío atípica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300359'>Urticaria familiar por frío con inmunodeficiencia variable común</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=575'>Urticaria neutrofílica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79457'>Urticaria pigmentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79457'>Urticaria pigmentosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158769'>Urticaria pigmentosa en placas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158772'>Urticaria pigmentosa nodular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158766'>Urticaria pigmentosa típica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79384'>Urticaria rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97230'>Urticaria solar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=493342'>Urticaria vibratoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=886'>USH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231169'>USH1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231178'>USH2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231183'>USH3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180134'>Útero bicorne</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180086'>Útero bicorne bicervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180111'>Útero bicorne bicervical con cuello del útero y vagina patentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180106'>Útero bicorne bicervical y hemivagina ciega</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180114'>Útero bicorne unicervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180118'>Útero cordiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180086'>Útero didelfo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180079'>Útero pseudo-unicorne</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180126'>Útero septado completo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180129'>Útero septado parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180129'>Útero septado subtotal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180126'>Útero septado total</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180122'>Útero septo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180129'>Útero subseptado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180129'>Útero subtabicado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180126'>Útero tabicado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180071'>Útero unicorne</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180079'>Útero unicorne con cuerno rudimentario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180074'>Útero unicorne sin cuerno rudimentario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180074'>Útero unicorne verdadero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98715'>Uveítis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280886'>Uveítis anterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280914'>Uveítis anterior idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279922'>Uveítis anterior infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306648'>Uveítis anterior no infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209959'>Uveítis facoanafiláctica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209959'>Uveítis inducida por lentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279914'>Uveítis intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279928'>Uveítis paraneoplásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280892'>Uveítis posterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280917'>Uveítis posterior idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279919'>Uveítis posterior infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90061'>Uveítis posterior no infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79098'>Uveítis simpática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280898'>Uveítis total</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99771'>Úvula bífida</a></li>
+

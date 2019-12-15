@@ -1,0 +1,7 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=707'>Yersiniosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99829'>YF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=662'>YNS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2828'>YOPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99100'>Yuxtaposición de los apéndices auriculares</a></li>
+
