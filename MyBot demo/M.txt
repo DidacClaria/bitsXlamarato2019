@@ -1,0 +1,1344 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98938'>MAC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284247'>Macroaneurisma arterial retiniano familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284247'>Macroaneurisma arterial retiniano y estenosis pulmonar supravalvular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2477'>Macrocefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60040'>Macrocefalia-cutis marmorata telangiectásica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2429'>Macrocefalia de Fryns</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2427'>Macrocefalia-talla baja-paraplejía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295241'>Macrodactilia bilateral de dedos de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295245'>Macrodactilia bilateral de dedos del pie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295241'>Macrodactilia bilateral de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295245'>Macrodactilia bilateral del pie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295044'>Macrodactilia de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295044'>Macrodactilia de los dedos de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295047'>Macrodactilia de los dedos del pie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295047'>Macrodactilia del pie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295239'>Macrodactilia unilateral de dedos de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295243'>Macrodactilia unilateral de dedos del pie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295239'>Macrodactilia unilateral de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295243'>Macrodactilia unilateral del pie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268920'>Macroencefalia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2431'>Macrogiria central bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33226'>Macroglobulinemia de Waldenström</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156207'>Macroglosia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2430'>Macroglosia dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141276'>Macrostomía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140957'>Macrotrombocitopenia autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220448'>Macrotrombocitopenia con insuficiencia mitral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370127'>Macrotrombocitopenia de Medich</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=438207'>Macrotrombocitopenia grave autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220452'>Macrotrombocitopenia heredada aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220452'>Macrotrombocitopenia hereditaria aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178493'>Maculopatía miópica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97341'>Maculopatía placoidea persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279894'>Maculopatía tóxica por antimaláricos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2457'>MAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26791'>MADD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329942'>MADD neonatal transitorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=394532'>MADD tipo leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=394529'>MADD tipo neonatal grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3010'>Maduración ósea disharmónica-fibras musculares anómalas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1942'>MAE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84065'>Malabsoción idiopática por defectos de la síntesis de ácidos biliares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90045'>Malabsorción congénita de folato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306436'>Malabsorción congénita de sacarasa-isomaltasa con intolerancia al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306474'>Malabsorción congénita de sacarasa-isomaltasa con intolerancia al almidón y a la lactosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306446'>Malabsorción congénita de sacarasa-isomaltasa con tolerancia mínima al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306462'>Malabsorción congénita de sacarasa-isomaltasa sin intolerancia al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306486'>Malabsorción congénita de sacarasa-isomaltasa sin intolerancia a la sacarosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35122'>Malabsorción congénita de sacarosa-isomaltosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35710'>Malabsorción de glucosa-galactosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90045'>Malabsorción hereditaria de folato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35858'>Malabsorción selectiva de cobalamina con proteinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=556'>Malacoplaquia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=673'>Malaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75376'>Malattia leventinese</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=87503'>Mal de Meleda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99829'>Mal de Siam</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=661'>Maldición de Ondine</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97339'>Malfomación craneal del seno dural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2444'>Malformación adenomatoide quística congénita del pulmón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280827'>Malformación adenomatoide quística congénita del pulmón tipo 0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280832'>Malformación adenomatoide quística congénita del pulmón tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280840'>Malformación adenomatoide quística congénita del pulmón tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280847'>Malformación adenomatoide quística congénita del pulmón tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280854'>Malformación adenomatoide quística congénita del pulmón tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280827'>Malformación adenomatosa quística congénita del pulmón tipo 0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280832'>Malformación adenomatosa quística congénita del pulmón tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280840'>Malformación adenomatosa quística congénita del pulmón tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280847'>Malformación adenomatosa quística congénita del pulmón tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280854'>Malformación adenomatosa quística congénita del pulmón tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2440'>Malformación aislada de mano hendida-pie hendido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1053'>Malformación aneurismática de la vena de Galeno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96346'>Malformación anorrectal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=557'>Malformación anorrectal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171201'>Malformación anorrectal alta aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171215'>Malformación anorrectal baja aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171208'>Malformación anorrectal intermedia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=117573'>Malformación anorrectal sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98718'>Malformación aórtica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46724'>Malformación arteriovenosa cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141174'>Malformación arteriovenosa de la mandíbula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1053'>Malformación arteriovenosa de la vena de Galeno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97339'>Malformación arteriovenosa dural del cráneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156230'>Malformación arteriovenosa facial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141168'>Malformación arteriovenosa frontonasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46724'>Malformación arteriovenosa intracraneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141174'>Malformación arteriovenosa mandibular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141171'>Malformación arteriovenosa maxilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2038'>Malformación arterio-venosa pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211266'>Malformación arteriovenosa rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71213'>Malformación capilar de la retina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459526'>Malformación capilar genética rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137667'>Malformación capilar-malformación arteriovenosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211247'>Malformación capilar rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458830'>Malformación capilar rara con anomalías asociadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477805'>Malformación cardíaca genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88991'>Malformación cardíaca rara congénita no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221061'>Malformación cavernosa cerebral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221061'>Malformación cavernosa cerebral hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199633'>Malformación cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166478'>Malformación cerebral con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163209'>Malformación cerebral no sindrómica por migración neuronal anómala</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=162526'>Malformación congénita aislada de los osículos auditivos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280821'>Malformación congénita broncopulmonar comunicante con el intestino anterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183536'>Malformación congénita de las extremidades de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2444'>Malformación congénita de las vías aéreas pulmonares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280827'>Malformación congénita de las vías aéreas pulmonares tipo 0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280832'>Malformación congénita de las vías aéreas pulmonares tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280840'>Malformación congénita de las vías aéreas pulmonares tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280847'>Malformación congénita de las vías aéreas pulmonares tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280854'>Malformación congénita de las vías aéreas pulmonares tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95718'>Malformación congénita de la tiroides sin hipotiroidismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98721'>Malformación congénita de la tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=162526'>Malformación congénita de los osículos auditivos sin anomalías del oído externo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=525677'>Malformación congénita genética del ojo con glaucoma como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98038'>Malformación craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183542'>Malformación craneal de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268882'>Malformación de Arnold-Chiari tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1136'>Malformación de Arnold-Chiari tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268882'>Malformación de Arnold-Chiari tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1136'>Malformación de Arnold-Chiari tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268882'>Malformación de Chiari tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1136'>Malformación de Chiari tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268882'>Malformación de Chiari tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1136'>Malformación de Chiari tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183583'>Malformación de cuello y cabeza de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217'>Malformación de Dandy-Walker aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269212'>Malformación de Dandy-Walker aislada con hidrocefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269215'>Malformación de Dandy-Walker aislada sin hidrocefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1880'>Malformación de Ebstein</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2345'>Malformación de Klippel-Feil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98519'>Malformación de la fosa posterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268926'>Malformación de la linea media cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268843'>Malformación del canal neuroentérico, la médula espinal y la columna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182061'>Malformación del cerebelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199633'>Malformación del cerebro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163209'>Malformación del cerebro por migración neuronal anómala</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1671'>Malformación del cordón espinal hendido tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98516'>Malformación de los hemisferios del cerebelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98561'>Malformación de los párpados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98044'>Malformación del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98039'>Malformación del tracto digestivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93545'>Malformación del tracto urinario o renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83001'>Malformación del tracto urogenital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183545'>Malformación del tubo digestivo de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98514'>Malformación del vermis cerebeloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2440'>Malformación de manos y pies hendidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98043'>Malformación diafragmática y de la pared abdominal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269224'>Malformación difusa del cerebelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97339'>Malformaciones arteriovenosas durales craneales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2445'>Malformaciones cardíacas conotruncales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294944'>Malformaciones congénitas de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294947'>Malformaciones congénitas de los dedos de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108959'>Malformaciones esofágicas no sindrómicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108961'>Malformaciones esofágicas sindrómicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280640'>Malformaciones occipitales del desarrollo cortical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88993'>Malformación esofágica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371445'>Malformación esofágica sindrómica genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2451'>Malformaciones venosas mucocutáneas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108971'>Malformaciones viscerales no sindrómicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108973'>Malformaciones viscerales sindrómicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97944'>Malformación gastroduodenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108963'>Malformación gastroduodenal no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108965'>Malformación gastroduodenal sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269553'>Malformación genética cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269557'>Malformación genética de la fosa posterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183622'>Malformación genética del aparato respiratorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269560'>Malformación genética del cerebelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269553'>Malformación genética del cerebro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183506'>Malformación genética del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156622'>Malformación genética del tracto urogenital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269550'>Malformación genética no sindrómica del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357506'>Malformación genética no sindrómica del tracto renal o urinario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269224'>Malformación global del cerebelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83454'>Malformación glomuvenosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97945'>Malformación intestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108967'>Malformación intestinal no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108969'>Malformación intestinal sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79490'>Malformación linfática capilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79489'>Malformación linfática cavernosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141209'>Malformación linfática difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141209'>Malformación linfática diseminada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79489'>Malformación linfática macroquística</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79490'>Malformación linfática microquística</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79490'>Malformacion linfática microquística infiltrante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458833'>Malformación linfática quística común</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458792'>Malformación linfática quística mixta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2415'>Malformación linfática rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79490'>Malformación linfática superficial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459530'>Malformación linfática troncular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180163'>Malformación mamaria rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2447'>Malformación mitral congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1062'>Malformación neurocutánea hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102006'>Malformación neurovascular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371436'>Malformación neurovascular genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108977'>Malformación no sindrómica de la pared diafragmática y abdominal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=109011'>Malformación no sindrómica de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108989'>Malformación no sindrómica del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93546'>Malformación no sindrómica del tracto urinario o renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165704'>Malformación no sindrómica del tracto urogenital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182117'>Malformación no sindrómica del tracto urogenital femenino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182121'>Malformación no sindrómica del tracto urogenital masculino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182124'>Malformación no sindrómica del tracto urogenital masculino y femenino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435603'>Malformación otorrinolaringológica genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96333'>Malformación otorrinolaringológica rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156224'>Malformación paralítica facial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269194'>Malformación quística del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155832'>Malformación rara de cabeza y cuello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211255'>Malformación rara del sistema linfático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183539'>Malformación renal o de las vías urinarias de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182111'>Malformación respiratoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183554'>Malformación respiratoria o del mediastino de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108993'>Malformación respiratoria o mediastinal no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108995'>Malformación respiratoria o mediastinal sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98045'>Malformación respiratoria o mediastínica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108979'>Malformación sindrómica de la pared diafragmática y abdominal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93547'>Malformación sindrómica del tracto urinario o renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165707'>Malformación sindrómica del tracto urogenital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182108'>Malformación torácica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180776'>Malformación torácica o diafragmática no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180779'>Malformación torácica o diafragmática sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97957'>Malformación torácica y respiratoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77240'>Malformación troncular linfática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180062'>Malformación uterovaginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180065'>Malformación uterovaginal no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180148'>Malformación uterovaginal sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180151'>Malformación vaginal rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458837'>Malformación vascular combinada rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211277'>Malformación vascular completa con anomalías asociadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459537'>Malformación vascular genética compleja con anomalías asociadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458844'>Malformación vascular rara de los grandes vasos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211243'>Malformación vascular simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459548'>Malformación venosa genética rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140436'>Malformación venosa intraósea primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140436'>Malformación venosa ósea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211252'>Malformación venosa rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98041'>Malformación visceral de hígado, vías biliares, páncreas, bazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183548'>Malformación visceral de hígado, vías biliares, páncreas o bazo de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99090'>Malposición del ostium coronario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98576'>Malposición externa de los cantos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=508410'>Malrotación intestinal familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293208'>MALS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52417'>MALToma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180182'>Mamas accesorias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180182'>Mamas supernumerarias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397941'>MAN1B1-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2678'>Manchas café con leche familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306682'>Manganismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436274'>Manifestaciones cutáneas similares al pseudoxantoma elástico con retinosis pigmentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295012'>Mano en manopla</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295012'>Mano en mitón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2437'>Mano hendida-anomalías urinarias-espina bífida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2437'>Mano hendida con uropatía obstructiva, espina bífida y defectos diafragmáticos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2329'>Manos y pies hendidos-nistagmo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93320'>Mano zamba cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93321'>Mano zamba radial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2459'>Mansonellosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2459'>Mansonelosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60015'>Marcas de Catlin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99015'>Marcha espástica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64722'>Mastitis granulomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64722'>Mastitis granulomatosa idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79455'>Mastocitoma cutáneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79455'>Mastocitoma cutáneo local</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66662'>Mastocitoma extracutáneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79455'>Mastocitoma múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79455'>Mastocitoma solitario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98292'>Mastocitosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66646'>Mastocitosis cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79456'>Mastocitosis cutánea difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280785'>Mastocitosis cutánea difusa ampollosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280794'>Mastocitosis cutánea difusa infiltrativa vesicular pequeña</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280794'>Mastocitosis cutánea difusa pseudoxantomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79457'>Mastocitosis cutánea maculopapular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79456'>Mastocitosis maculopapular cutánea difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158778'>Mastocitosis medular aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2467'>Mastocitosis sistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98850'>Mastocitosis sistémica agresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98849'>Mastocitosis sistémica con enfermedad hematológica clonal asociada de estirpe no mastocitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98849'>Mastocitosis sistémica con neoplasia hematológica asociada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98848'>Mastocitosis sistémica indolente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158775'>Mastocitosis sistémica latente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2135'>Mastocitosis-talla baja-sordera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3282'>MAT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300504'>Matricoma onicocítico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251858'>MBEN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91138'>MC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=42'>MCADD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330206'>MCA genéticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300496'>MCAHS tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369837'>MCAHS tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60040'>MCAP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102285'>MCA sin discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=6'>MCCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280785'>MCD ampollosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280794'>MCD infiltrativa vesicular pequeña</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1851'>MCDK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97364'>MCDK bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97363'>MCDK unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280640'>MCD occipital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280794'>MCD pseudoxantomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75327'>MCDR1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319640'>MCDR2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1035'>MCDU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34149'>MCKD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88949'>MCKD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88950'>MCKD2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52416'>MCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60040'>MCM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137667'>MC-MAV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60040'>MCMTC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178364'>MCOPS5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2556'>MCOPS7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2512'>MCPH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319287'>MCRCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466718'>MCRPE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>MCUL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565'>MD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97242'>MDC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=258'>MDC1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98893'>MDC1B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210272'>MdD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352687'>MDDGA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210272'>MdDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1836'>MDK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435438'>MEAK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98954'>MECD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2475'>Mechón blanco con malformaciones</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251'>MED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93308'>MED1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93307'>MED4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93311'>MED5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98838'>Med-DLBCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63999'>Mediastinitis asociada a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63999'>Mediastinitis esclerosante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63999'>Mediastinitis fibrosante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231'>Medinensis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=616'>Meduloblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251855'>Meduloblastoma anaplásico de células grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251867'>Meduloblastoma clásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251858'>Meduloblastoma con nodularidad extensa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251863'>Meduloblastoma desmoplásico/nodular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251883'>Meduloepitelioma del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268139'>Meduloepitelioma intraocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268139'>Meduloepitelioma orbitario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93109'>Megacalicosis congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93177'>Megacalicosis congénita bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93176'>Megacalicosis congénita unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97252'>Megacisterna magna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=388'>Megacolon agangliónico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66629'>Megacolon-microcefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2604'>Megaduodeno y/o megavesícula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2477'>Megalencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268920'>Megalencefalia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60040'>Megalencefalia-cutis marmorata telangiectásica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2478'>Megalencefalia-leucodistrofia quística</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99802'>Megalencefalia unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91489'>Megalocórnea aislada congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91489'>Megaloftalmia anterior congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519402'>Megalopapila aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=617'>Megalouréter congénito primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=617'>Megauréter congénito primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=544578'>Megauréter congénito primario, forma refluyente y obstructiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238650'>Megauréter primitivo congénito con reflujo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238654'>Megauréter primitivo congénito no obstructivo sin reflujo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238646'>Megauréter primitivo congénito obstructivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238642'>Megauréter primitivo del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252046'>Melanocitoma meníngeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252031'>Melanocitosis leptomeníngea difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2481'>Melanocitosis neurocutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254395'>Melanodermatitis liquenoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=39044'>Melanoma de coroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=39044'>Melanoma de iris</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97338'>Melanoma de partes blandas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97338'>Melanoma de tejidos blandos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=618'>Melanoma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252050'>Melanoma maligno de meníngeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168999'>Melanoma maligno mucoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252050'>Melanoma primario del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252050'>Melanoma primario del SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252031'>Melanomatosis leptomeníngea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=39044'>Melanoma uveal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79146'>Melanosis difusa congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2481'>Melanosis neurocutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79146'>Melanosis universal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79146'>Melanosis universal hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79146'>Melanosis universalis hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=550'>MELAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31202'>Melioidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2485'>Melorreostosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1879'>Melorreostosis con osteopoiquilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2374'>Membrana laríngea congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276161'>MEN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=653'>MEN2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247698'>MEN2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247709'>MEN2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2495'>Meningioma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263662'>Meningioma familiar múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33475'>Meningitis meningocócica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=55655'>Meningitis neumocócica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499004'>Meningitis tuberculosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268820'>Meningocele craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268810'>Meningocele posterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1930'>Meningoencefalitis por herpes simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330021'>Mercurialismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294927'>Meromelia intercalar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1987'>Meromelia intercalar femoral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294973'>Meromelia intercalar humeral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294977'>Meromelia intercalar transversa de fémur-tibia-peroné</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294975'>Meromelia intercalar transversa húmero-radio-cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2130'>Meromelia longitudinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93320'>Meromelia longitudinal cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93323'>Meromelia longitudinal fibular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93321'>Meromelia longitudinal radial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93322'>Meromelia longitudinal tibial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294979'>Meromelia terminal transversa de radio-cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294981'>Meromelia terminal transversa de tibia-peroné</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=551'>MERRF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=620'>Mesenterio común</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=620'>Mesenterio universal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238593'>Mesenteritis asociada a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238593'>Mesenteritis esclerosante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238593'>Mesenteritis lipoesclerótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238593'>Mesenteritis lipomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95443'>Mesocardia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168816'>Mesotelioma multiquístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168816'>Mesotelioma multiquístico peritoneal benigno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168811'>Mesotelioma peritoneal maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168811'>Mesotelioma peritoneal maligno difuso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168811'>Mesotelioma peritoneal maligno primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168816'>Mesotelioma peritoneal multiquístico benigno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168816'>Mesotelioma peritoneal quístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50251'>Mesotelioma pleural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2499'>Metacondromatosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464453'>Metahemoglobinemia adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=621'>Metahemoglobinemia autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=621'>Metahemoglobinemia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=621'>Metahemoglobinemia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464453'>Metahemoglobinemia inducida por fármacos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=824'>Metaplasia mieloide agnogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565785'>Methotrexate dose selection</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565782'>Methotrexate toxicity</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443995'>MFDA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>MFM-titinopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=558'>MFS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284963'>MFS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284973'>MFS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284979'>MFS neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67046'>MGA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=111'>MGA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67047'>MGA 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67048'>MGA4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66634'>MGA5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=445038'>MGA7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=505208'>MGA8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=505216'>MGA9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79329'>MGAT2-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1772'>MGD 45,X0/46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1772'>MGD 45,X/46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443162'>MHAC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99826'>MHF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79651'>mHPA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75110'>Miasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165958'>Miasis cavitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99983'>Miasis cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165955'>Miasis de las heridas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=591'>Miasis forunculosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504'>Miasis migratoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504'>Miasis progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165955'>Miasis traumática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=589'>Miastenia adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391490'>Miastenia adquirida de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=589'>Miastenia autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=589'>Miastenia grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391490'>Miastenia grave autoinmune de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391497'>Miastenia grave autoinmune juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391504'>Miastenia grave autoinmune neonatal transitoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391490'>Miastenia grave de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391497'>Miastenia grave infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391497'>Miastenia grave juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391504'>Miastenia grave neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391504'>Miastenia grave neonatal transitoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=589'>Miastenia gravis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391497'>Miastenia juvenil adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391504'>Miastenia neonatal transitoria adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2583'>Micetoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2584'>Micosis fungoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178512'>Micosis fungoide foliculotropa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178566'>Micosis fungoide y variantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163591'>Micosis rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96253'>Micro-adenoma corticotropo hipofisario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313838'>Microangiopatía cerebrorretiniana con calcificaciones y quistes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477749'>Microangiopatía pontina autosómica dominante con leucoencefalopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93573'>Microangiopatía trombótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=244275'>Microangiopatía trombótica de novo tras trasplante renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=481152'>Microcefalia asociada a PYCR2-leucoencefalopatía progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1229'>Microcefalia-calcificación intracraneal-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199642'>Microcefalia congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240760'>Microcefalia e inestabilidad cromosómica sin inmunodeficiencia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3132'>Microcefalia-hipogammaglobulinemia-inmunodeficiencia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2558'>Microcefalia-hipogonadismo hipergonadotrópico-talla baja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=647'>Microcefalia-inmunodeficiencia-linforeticuloma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99742'>Microcefalia letal de Amish</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3434'>Microcefalia-microftalmia-ectrodactilia de extremidades inferiores-prognatismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2514'>Microcefalia primaria autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2512'>Microcefalia primaria autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217026'>Microcefalia-síndrome facio-cardio-esquelético, tipo Hadziselimovic</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1305'>Microcefalia-síndrome óculo-dígito-esofágico-duodenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2512'>Microcefalia vera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2512'>Microcefalia verdadera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2636'>Microcephalic osteodysplastic primordial dwarfism types I and III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566'>Microcoria congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263347'>Microcórnea-distrofia de conos y bastones-cataratas-estafiloma posterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=567'>Microdeleción 22q11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77301'>Microdeleción 9q22.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=640'>Microdeleción heterocigota 17p11.2p12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90024'>Microdoncia-microtia tipo 1-sordera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101081'>Microduplicación 17p12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519396'>Microesferofaquia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519294'>Microesferofaquia sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519394'>Microfaquia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98938'>Microftalmia-anoftalmia-coloboma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2556'>Microftalmia-aplasia dérmica-esclerocórnea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2556'>Microftalmia, aplasia dérmica y esclerocórnea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424099'>Microftalmia-coloboma-displasia esquelética rizomélica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98938'>Microftalmia colobomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139471'>Microftalmía con anomalías cerebrales y de las manos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1106'>Microftalmia con anomalías de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1104'>Microftalmia con hendidura facial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98938'>Microftalmia con quistes colobomatosos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=568'>Microftalmia de Lenz</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=202948'>Microftalmia sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178364'>Microftalmia sindrómica por una mutación en OTX2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2712'>Microftalmia sindrómica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77298'>Microftalmia sindrómica tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85275'>Microftalmia sindrómica tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178364'>Microftalmia sindrómica tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139471'>Microftalmía sindrómica tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2556'>Microftalmia sindrómica tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3434'>Microftalmia sindrómica tipo 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2470'>Microftalmia sindrómica tipo 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=568'>Microftalmia tipo Lenz</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199293'>Microgastria congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443162'>Microhidranencefalia asociada a NDE1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1083'>Microlisencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60025'>Microlitiasis alvéolo-pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95707'>Micropene idiopático aislado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=727'>Micropoliangeítis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2549'>Microsomia hemifacial-defectos radiales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141136'>Microsomía laterofacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2552'>Microsporidiosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83463'>Microtia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289522'>Microtriplicación 11q24.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521258'>Microtriplicación Xq25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=225'>MIDD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440724'>Mielinización extensa de fibras nerviosas peripapilares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=135'>Mielinosis central difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79093'>Mielitis necrotizante ascendente subcutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79093'>Mielitis necrotizante subcutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90021'>Mielitis por radiación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139417'>Mielitis transversa aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139423'>Mielitis transversa aguda idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139420'>Mielitis transversa aguda secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268813'>Mielocistocele</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86843'>Mielodisplasia aguda con mielofibrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86843'>Mieloesclerosis aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86843'>Mielofibrosis aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=824'>Mielofibrosis con metaplasia mieloide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=824'>Mielofibrosis idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=824'>Mielofibrosis primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29073'>Mieloma de células plasmáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79093'>Mielomalacia angiohipertrófica subcutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29073'>Mieloma múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29073'>Mielomatosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93969'>Mielomeningocele</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79093'>Mielopatía angiodisgenética necrotizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420611'>Mielopoyesis anómala transitoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=569'>Migraña hemipléjica familiar o esporádica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93926'>MIH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93926'>MIHF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93926'>MIH tipo HPE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93926'>MIHV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=255210'>MILS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506112'>MiNEN de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506112'>MiNEN pancreática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54260'>Miocardio esponjoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85451'>Miocardiopatía amiloide asociada a la TTR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85451'>Miocardiopatía amiloide familiar asociada a la transtiretina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247'>Miocardiopatía arritmogénica del ventrículo derecho</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85451'>Miocardiopatía ATTR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1344'>Miocardiopatía auricular con bloqueo cardíaco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=57777'>Miocardiopatía cirrótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66529'>Miocardiopatía con abombamiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66529'>Miocardiopatía con forma de ampolla</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70474'>Miocardiopatía con hipotonía por deficiencia de citocromo C oxidasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70474'>Miocardiopatía con miopatía por deficiencia de COX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66529'>Miocardiopatía de Takotsubo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66529'>Miocardiopatía de Tako-Tsubo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217604'>Miocardiopatía dilatada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66634'>Miocardiopatía dilatada con ataxia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217607'>Miocardiopatía dilatada familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=154'>Miocardiopatía dilatada familiar aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300751'>Miocardiopatía dilatada familiar con defecto de conducción por una mutación en LMNA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217629'>Miocardiopatía dilatada no familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217569'>Miocardiopatía hipertrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439854'>Miocardiopatía hipertrófica fatal congénita por una enfermedad del almacenamiento del glucógeno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439854'>Miocardiopatía hipertrófica fetal congénita por GSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439854'>Miocardiopatía hipertrófica fetal congénita por una glucogenosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352563'>Miocardiopatía hipertrófica infantil por deficiencia de MRPL44</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314637'>Miocardiopatía hipertrófica mitocondrial con acidosis láctica por deficiencia de MTO1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217598'>Miocardiopatía hipertrófica no familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217569'>Miocardiopatía hipertrófica obstructiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217601'>Miocardiopatía hipertrófica por entrenamiento atlético intensivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324525'>Miocardiopatía hipertrófica y enfermedad renal tubular por mutaciones en el ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324525'>Miocardiopatía hipertrófica y enfermedad tubular renal por mutaciones en el ADNmt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137675'>Miocardiopatía histiocitoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217678'>Miocardiopatía no clasificada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563'>Miocardiopatía periparto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66529'>Miocardiopatía por estrés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=167848'>Miocardiopatía rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217632'>Miocardiopatía restrictiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75249'>Miocardiopatía restrictiva aislada idiopática o familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217635'>Miocardiopatía restrictiva familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75249'>Miocardiopatía restrictiva familiar aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217720'>Miocardiopatía restrictiva no familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98908'>Miocardiopatía vascular por depósito de triglicéridos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217656'>Miocardiopatía ventricular arritmogénica aislada familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293888'>Miocardiopatía ventricular arritmogénica familiar aislada de predominio izquierdo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293899'>Miocardiopatía ventricular arritmogénica familiar aislada, forma biventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293910'>Miocardiopatía ventricular arritmogénica familiar aislada, forma clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217656'>Miocardiopatía ventricular derecha arritmogénica aislada familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1349'>Miocardiopatía y pérdida auditiva asociada al ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1349'>Miocardiopatía y pérdida auditiva asociada al ADNmt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1349'>Miocardiopatía y sordera de herencia materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329874'>Miocarditis idiopática de células gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86814'>Mioclonía cortical autosómica dominante y epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319189'>Mioclonía cortical familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221083'>Mioclonía focal de la cara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139431'>Mioclonía palpebral con o sin ausencias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139426'>Mioclonía perioral con ausencias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36899'>Mioclono esencial hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307064'>Mioclono genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306750'>Mioclono primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306747'>Mioclono raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289380'>Mioesclerosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289380'>Mioesclerosis congénita tipo Löwenthal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306553'>Mioesferulosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=592'>Miofascitis macrofágica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2591'>Miofibromatosis infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99846'>Mioglobinuria autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99845'>Mioglobinuria recurrente genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141148'>Miohiperplasia hemifacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2598'>Miopatía, acidosis láctica y anemia sideroblástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206569'>Miopatía anti-HMG-CoA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206569'>Miopatía anti-SRP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=593'>Miopatía asociada a desmina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247724'>Miopatía asociada a eosinofilia idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84132'>Miopatía asociada a la desmina con inclusiones tipo cuerpos de Mallory</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363677'>Miopatía autosómica recesiva de inicio en la infancia con oftalmoplejía externa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=111'>Miopatía cardioesquelética con neutropenia y mitocondria anómala</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=111'>Miopatía cardioesquelética ligada al cromosoma X y neutropenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=595'>Miopatía centronuclear</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169189'>Miopatía centronuclear autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169186'>Miopatía centronuclear autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=596'>Miopatía centronuclear ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319160'>Miopatía centronuclear tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2593'>Miopatía con agregados tubulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=25980'>Miopatía con autofagia excesiva ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171881'>Miopatia con capuchón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>Miopatía con cuerpos de inclusión tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79091'>Miopatía con cuerpos de inclusión tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=456369'>Miopatia con cuerpos de poliglucosano tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254864'>Miopatía con deficiencia infantil reversible de citocromo C oxidasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2596'>Miopatía con diabetes mellitus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171886'>Miopatía con espirales cilindricas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171889'>Miopatía con estructura tubular hexagonal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97245'>Miopatía congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324581'>Miopatía congénita benigna del samaritano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=597'>Miopatía congénita central core</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=544602'>Miopatía congénita con atrofia de fibras de contracción rápida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=544602'>Miopatía congénita con atrofia de fibras de tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=544602'>Miopatía congénita con atrofia de fibras musculares de tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=172976'>Miopatía congénita con cores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98904'>Miopatía congénita con exceso de filamentos delgados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424107'>Miopatía congénita con inicio similar al miasténico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319160'>Miopatía congénita con núcleos internos y cores atípicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=544602'>Miopatía congénita con reducción de fibras musculares de tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=544602'>Miopatía congénita con reducción de fibras musculares de tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210163'>Miopatía congénita letal tipo Compton-North</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98905'>Miopatía congénita multicore con oftalmoplejía externa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168572'>Miopatía congénita-paladar hendido-hipertemia maligna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2020'>Miopatía congénita por desproporción del tipo de fibra</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199329'>Miopatía congénita tipo Paradas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97232'>Miopatía con inclusiones en huella dactilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97240'>Miopatía con inclusiones en zebra</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97239'>Miopatía con inclusiones reductoras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=43115'>Miopatía con intolerancia al ejercicio tipo sueco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98904'>Miopatía de actina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=610'>Miopatía de Bethlem</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53347'>Miopatía de Brody</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178400'>Miopatía de compartimento distal anterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53698'>Miopatía de cuerpos hialinos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>Miopatía de Edström</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399058'>Miopatía de inicio tardío asociada a alfa-B-cristalina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84132'>Miopatía de inicio temprano asociada a la desmina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289377'>Miopatía de inicio temprano con miocardiopatía letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269'>Miopatía de Landouzy-Déjerine</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168572'>Miopatía de los nativos amerindios</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=45448'>Miopatía de Miyoshi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178145'>Miopatía de multiminicores moderada con afectación de manos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178148'>Miopatía de multiminicores prenatal con artrogriposis múltiple congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>Miopatía de Nonaka</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289377'>Miopatía de Salih</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=609'>Miopatía de Udd</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=599'>Miopatía distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=482601'>Miopatía distal asociada a adenilosuccinato sintetasa de tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=482601'>Miopatía distal asociada a ADSSL1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=600'>Miopatía distal asociada a MATR3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206650'>Miopatía distal autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206653'>Miopatía distal autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63273'>Miopatía distal con afectación de los músculos posteriores de la pierna y de los músculos anteriores de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=600'>Miopatía distal con debilidad de las cuerdas vocales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>Miopatía distal con vacuolas ribeteadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178400'>Miopatía distal de inicio en el músculo tibial anterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399058'>Miopatía distal de inicio tardío asociada a alfa-B-cristalina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98912'>Miopatía distal de inicio tardío tipo Maskerbery-Griggs</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399081'>Miopatía distal de inicio temprano asociada a KLHL9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=59135'>Miopatía distal de inicio temprano de Laing</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329478'>Miopatía distal del adulto por mutación VCP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=600'>Miopatía distal faríngea y de cuerdas vocales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399086'>Miopatía distal finlandesa de aparición en las extremidades superiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=59135'>Miopatía distal tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399086'>Miopatía distal tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>Miopatía distal tipo Nonaka</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488650'>Miopatía distal tipo Tateyama</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=609'>Miopatía distal tipo Udd</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=603'>Miopatía distal tipo Welander</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=610'>Miopatía dominante benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447977'>Miopatía escápulo-húmero-peroneal distal progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269'>Miopatía facioescapulohumeral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>Miopatía GNE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=43115'>Miopatía hereditaria con acidosis láctica por deficiencia de ISCU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>Miopatía hereditaria con cuerpos de inclusión con insuficiencia respiratoria temprana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>Miopatía hereditaria con cuerpos de inclusión tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79091'>Miopatía hereditaria con cuerpos de inclusión tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>Miopatía hereditaria con insuficiencia respiratoria temprana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324381'>Miopatía hereditaria por cuerpos de inclusión tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447881'>Miopatía idiopática de los extensores del cuello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206988'>Miopatía infecciosa, fúngica o parasítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247718'>Miopatía inflamatoria con abundancia de macrófagos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98482'>Miopatía inflamatoria idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329888'>Miopatía inflamatoria idiopática juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206569'>Miopatía inmunitaria con necrosis miocítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=43115'>Miopatía ISCU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178461'>Miopatía ligada al cromosoma X con atrofia de la musculatura postural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280671'>Miopatía megaconial congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171690'>Miopatía metabólica por defecto del trasportador de lactato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=593'>Miopatía miofibrilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98910'>Miopatía miofibrilar asociada a CRYAB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98909'>Miopatía miofibrilar asociada a la desmina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>Miopatía miofibrilar con fallo respiratorio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>Miopatía miofibrilar con insuficiencia respiratoria temprana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280553'>Miopatía miofibrilar hipertónica infantil letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280553'>Miopatía miofibrilar ligada al alfa-B-cristalina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98912'>Miopatía miofibrilar ligada a ZASP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>Miopatía miofibrilar-titinopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=800'>Miopatía miotónica, enanismo, condrodistrofia, anomalías oculares y faciales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=606'>Miopatía miotónica proximal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=596'>Miopatía miotubular ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206966'>Miopatía mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2597'>Miopatía mitocondrial-acidosis láctica-pérdida auditiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254788'>Miopatía mitocondrial asociada al ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254788'>Miopatía mitocondrial asociada al ADNmt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457050'>Miopatía mitocondrial autosómica dominante con intolerancia al ejercicio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254864'>Miopatía mitocondrial con deficiencia reversible de citocromo C oxidasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254864'>Miopatía mitocondrial con deficiencia reversible de complejo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254864'>Miopatía mitocondrial con deficiencia reversible de COX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254788'>Miopatía mitocondrial de herencia materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=550'>Miopatía mitocondrial, encefalopatía, acidosis láctica y episodios tipo ictus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254857'>Miopatía mitocondrial letal infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254854'>Miopatía mitocondrial pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2598'>Miopatía mitocondrial y anemia sideroblástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=598'>Miopatía multiminicore</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324604'>Miopatía multiminicore clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206569'>Miopatía necrotizante inmunomediada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=607'>Miopatía nemalínica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457074'>Miopatía nemalínica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171430'>Miopatía nemalínica congénita grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=607'>Miopatía nemalínica de bastoncillos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171442'>Miopatía nemalínica de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171439'>Miopatía nemalínica de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171433'>Miopatía nemalínica intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171439'>Miopatía nemalínica leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171436'>Miopatía nemalínica típica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98902'>Miopatía nemalínica tipo Amish</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206656'>Miopatía no distrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98897'>Miopatía oculofaringea distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98897'>Miopatía oculofaringodistal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98908'>Miopatía por acúmulo de lípidos neutros</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206959'>Miopatía por almacenamiento de glucógeno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206953'>Miopatía por almacenamiento de lípidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206662'>Miopatía por cuerpos de inclusión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52430'>Miopatía por cuerpos de inclusión con enfermedad ósea de Paget y demencia frontotemporal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397937'>Miopatia por cuerpos de poliglucosano tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268129'>Miopatía por cuerpos esferoides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97234'>Miopatía por deficiencia de fosfoglicerato mutasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=43115'>Miopatía por deficiencia del grupo hierro-azufre</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88635'>Miopatía por exceso de calsecuestrina y proteína SERCA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521305'>Miopatía proximal con depleción focal de la mitocondria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401768'>Miopatía proximal con signos extrapiramidales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1878'>Miopatía sarcotubular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>Miopatía sin afectación del cuadriceps</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1358'>Miopatía-síndrome de Moebius-Robin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88635'>Miopatía vacuolar con agregación de proteínas del retículo sarcoplásmico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88635'>Miopatía vacuolar con agregados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2604'>Miopatía visceral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2604'>Miopatía visceral hueca familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2604'>Miopatía visceral hueca hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289685'>Miopericitoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98619'>Miopía aislada rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221106'>Mioquimia facial aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566'>Miosis congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206994'>Miositis bacteriana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206572'>Miositis de solapamiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206572'>Miositis de solapamiento de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329894'>Miositis de solapamiento juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247724'>Miositis eosinofílica idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48918'>Miositis focal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48918'>Miositis focal nodular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207000'>Miositis fúngica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98482'>Miositis inflamatoria idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206569'>Miositis necrotizante autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206572'>Miositis no específica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=337'>Miositis osificante progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206997'>Miositis parasítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=611'>Miositis por cuerpos de inclusión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=611'>Miositis por cuerpos de inclusión esporádica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=764'>Miositis purulenta tropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=764'>Miositis supurativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=764'>Miositis tropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206991'>Miositis viral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98911'>Miotilinopatía distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=612'>Miotonía agravada por K</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=612'>Miotonía agravada por K+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=612'>Miotonía agravada por potasio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206973'>Miotonía congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99736'>Miotonía congénita dolorosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99736'>Miotonía congénita sensible a la acetazolamida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99736'>Miotonía congénita sensible a la ACZ</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99736'>Miotonía-contracciones dolorosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99734'>Miotonía de inicio tardío inducida por el ejercicio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3101'>Miotonia-discapacidad intelectual-anomalías esqueléticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99736'>Miotonía dolorosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99734'>Miotonía fluctuante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99735'>Miotonía permanente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99736'>Miotonía sensible a la acetazolamida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99736'>Miotonía sensible a la ACZ</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35696'>Mitochondrial disorder due to a defect in mitochondrial protein synthesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90393'>Mixedema de Jadassohn-Dosseker tuberoso atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=167635'>Mixedematosis papular y esclerodermoide generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79105'>Mixofibrosarcoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=615'>Mixoma auricular familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1359'>Mixoma-pigmentación irregular-hiperactividad endocrina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565'>MK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423461'>ML 3 alfa/beta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423470'>ML 3 gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319480'>MLA con mutaciones somáticas de CEBPA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319465'>MLA familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319465'>MLA familiar pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319465'>MLA hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=514'>MLA-M5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=318'>MLA-M6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2598'>MLASA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2478'>MLC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2526'>MLCRD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512'>MLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309271'>MLD, forma adulta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309256'>MLD, forma infantil tardía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309263'>MLD, forma juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423461'>ML III alfa/beta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423470'>ML III gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464321'>MLT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399096'>MMD3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324604'>MmD clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=592'>MMF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=641'>MMN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=641'>MMNCB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293181'>MMPEI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293181'>MMPSI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1305'>MMT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391641'>MMT tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391646'>MMT tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=607'>MN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276399'>MNG familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=298'>MNGIE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565'>MNK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251656'>MOA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99732'>MOCOD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308386'>MOCOD tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308393'>MOCOD tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308400'>MOCOD tipo C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=552'>MODY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93111'>MODY5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35807'>MOGCT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254688'>Mola hidatidiforme completa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254693'>Mola hidatidiforme incompleta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254693'>Mola hidatidiforme parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99927'>Mola hidatiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99925'>Mola invasiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=573'>Monilethrix</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228423'>Monocitopenia con susceptibilidad a infecciones</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49382'>Monocromacia de bastones</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=16'>Monocromacia de conos azules</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=16'>Monocromacia de conos S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49382'>Monocromatismo de bastones</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=16'>Monocromatismo de conos azules</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=16'>Monocromatismo de conos S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2564'>Monodactilia tetramélica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228423'>MonoMAC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2901'>Mononeuritis múltiple con predilección braquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284169'>Monosomía 10p11.21p12.31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1580'>Monosomía 10pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276413'>Monosomía 10q22.3q23.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96148'>Monosomía 10qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=893'>Monosomía 11p13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444002'>Monosomía 11q22.2q22.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2308'>Monosomía 11qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313884'>Monosomía 12p12.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94063'>Monosomía 12q14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289513'>Monosomía 12q15q21.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96149'>Monosomía 12qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=412035'>Monosomía 13q12.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1587'>Monosomía 13q14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1590'>Monosomía 13q32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96168'>Monosomía 13q34</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261120'>Monosomía 14q11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261144'>Monosomía 14q12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264200'>Monosomía 14q22q23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264200'>Monosomía 14q22-q23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401935'>Monosomía 14q24.1q24.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261183'>Monosomía 15q11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199318'>Monosomía 15q13.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261190'>Monosomía 15q14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94065'>Monosomía 15q24</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1596'>Monosomía 15q26</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261211'>Monosomía 16p11.2p12.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261236'>Monosomía 16p13.11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500055'>Monosomía 16p13.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352629'>Monosomía 16q24.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261250'>Monosomía 16q24.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=531'>Monosomía 17p13.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97685'>Monosomía 17q11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261265'>Monosomía 17q12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363958'>Monosomía 17q21.31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261279'>Monosomía 17q23.1q23.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1597'>Monosomía 17qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1598'>Monosomía 18p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1600'>Monosomía 18q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254346'>Monosomía 19p13.12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357001'>Monosomía 19p13.13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217346'>Monosomía 19q13.11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293948'>Monosomía 1p21.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401986'>Monosomía 1p31p32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=456298'>Monosomía 1p35.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1606'>Monosomía 1p36</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1606'>Monosomía 1pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=250989'>Monosomía 1q21.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=250999'>Monosomía 1q41q42</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238769'>Monosomía 1q44</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36367'>Monosomía 1qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261295'>Monosomía 20p12.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313781'>Monosomía 20p13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444051'>Monosomía 20q11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261311'>Monosomía 20q13.33</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96152'>Monosomía 20qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=574'>Monosomía 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261323'>Monosomía 21q22.11q22.12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268261'>Monosomía 21q22.13q22.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96123'>Monosomía 22</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=567'>Monosomía 22q11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48652'>Monosomía 22q13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261349'>Monosomía 2p15p16.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163693'>Monosomía 2p21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228402'>Monosomía 2q23.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1617'>Monosomía 2q24</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251014'>Monosomía 2q31.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251019'>Monosomía 2q32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251019'>Monosomía 2q32q33</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251028'>Monosomía 2q33.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1001'>Monosomía 2q37qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435638'>Monosomía 3p25.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1620'>Monosomía 3pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1621'>Monosomía 3q13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=356947'>Monosomía 3q26q27</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65286'>Monosomía 3q29</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65286'>Monosomía 3qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238750'>Monosomía 4q21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96145'>Monosomía 4qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281'>Monosomía 5p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228384'>Monosomía 5q14.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314655'>Monosomía 5q31.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1627'>Monosomía 5q35</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96125'>Monosomía 6p25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171829'>Monosomía 6q16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251056'>Monosomía 6q25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96126'>Monosomía 7pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=904'>Monosomía 7q11.23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251061'>Monosomía 7q31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1636'>Monosomía 7qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251066'>Monosomía 8p11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251071'>Monosomía 8p23.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2496'>Monosomía 8q13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284160'>Monosomía 8q21.11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178303'>Monosomía 8q22.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502'>Monosomía 8q24.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=508488'>Monosomía 8q24.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261112'>Monosomía 9p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324313'>Monosomía 9p13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1642'>Monosomía 9pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77301'>Monosomía 9q22.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401923'>Monosomía 9q31.1q31.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495818'>Monosomía 9q33.3q34.11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102020'>Monosomía autosómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1581'>Monosomía intersticial 10q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96160'>Monosomía intersticial 12q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96164'>Monosomía intersticial 20q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254528'>Monosomía materna 14q32.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=574'>Monosomía parcial 21q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261857'>Monosomía parcial del brazo corto del cromosoma 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261938'>Monosomía parcial del brazo corto del cromosoma 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261947'>Monosomía parcial del brazo corto del cromosoma 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=316244'>Monosomía parcial del brazo corto del cromosoma 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261956'>Monosomía parcial del brazo corto del cromosoma 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261965'>Monosomía parcial del brazo corto del cromosoma 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261974'>Monosomía parcial del brazo corto del cromosoma 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261983'>Monosomía parcial del brazo corto del cromosoma 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261866'>Monosomía parcial del brazo corto del cromosoma 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261992'>Monosomía parcial del brazo corto del cromosoma 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261875'>Monosomía parcial del brazo corto del cromosoma 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261884'>Monosomía parcial del brazo corto del cromosoma 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261893'>Monosomía parcial del brazo corto del cromosoma 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261902'>Monosomía parcial del brazo corto del cromosoma 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261911'>Monosomía parcial del brazo corto del cromosoma 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261920'>Monosomía parcial del brazo corto del cromosoma 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261929'>Monosomía parcial del brazo corto del cromosoma 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263731'>Monosomía parcial del brazo corto del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262001'>Monosomía parcial del brazo largo del cromosoma 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262083'>Monosomía parcial del brazo largo del cromosoma 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262092'>Monosomía parcial del brazo largo del cromosoma 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261821'>Monosomía parcial del brazo largo del cromosoma 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262101'>Monosomía parcial del brazo largo del cromosoma 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262110'>Monosomía parcial del brazo largo del cromosoma 14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262119'>Monosomía parcial del brazo largo del cromosoma 15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262128'>Monosomía parcial del brazo largo del cromosoma 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262137'>Monosomía parcial del brazo largo del cromosoma 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262146'>Monosomía parcial del brazo largo del cromosoma 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262155'>Monosomía parcial del brazo largo del cromosoma 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262010'>Monosomía parcial del brazo largo del cromosoma 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262164'>Monosomía parcial del brazo largo del cromosoma 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262173'>Monosomía parcial del brazo largo del cromosoma 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262182'>Monosomía parcial del brazo largo del cromosoma 22</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262019'>Monosomía parcial del brazo largo del cromosoma 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262029'>Monosomía parcial del brazo largo del cromosoma 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262038'>Monosomía parcial del brazo largo del cromosoma 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262047'>Monosomía parcial del brazo largo del cromosoma 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262056'>Monosomía parcial del brazo largo del cromosoma 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262065'>Monosomía parcial del brazo largo del cromosoma 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262074'>Monosomía parcial del brazo largo del cromosoma 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263756'>Monosomía parcial del brazo largo del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261766'>Monosomía parcial del cromosoma 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261811'>Monosomía parcial del cromosoma 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261938'>Monosomía parcial del cromosoma 10p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262083'>Monosomía parcial del cromosoma 10q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261816'>Monosomía parcial del cromosoma 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261947'>Monosomía parcial del cromosoma 11p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262092'>Monosomía parcial del cromosoma 11q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=282124'>Monosomía parcial del cromosoma 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=316244'>Monosomía parcial del cromosoma 12p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261821'>Monosomía parcial del cromosoma 12q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262101'>Monosomía parcial del cromosoma 13q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262110'>Monosomía parcial del cromosoma 14q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262119'>Monosomía parcial del cromosoma 15q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261826'>Monosomía parcial del cromosoma 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261956'>Monosomía parcial del cromosoma 16p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262128'>Monosomía parcial del cromosoma 16q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261831'>Monosomía parcial del cromosoma 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261965'>Monosomía parcial del cromosoma 17p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262137'>Monosomía parcial del cromosoma 17q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261836'>Monosomía parcial del cromosoma 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261974'>Monosomía parcial del cromosoma 18p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262146'>Monosomía parcial del cromosoma 18q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261841'>Monosomía parcial del cromosoma 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261983'>Monosomía parcial del cromosoma 19p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262155'>Monosomía parcial del cromosoma 19q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261857'>Monosomía parcial del cromosoma 1p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262001'>Monosomía parcial del cromosoma 1q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261771'>Monosomía parcial del cromosoma 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261846'>Monosomía parcial del cromosoma 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261992'>Monosomía parcial del cromosoma 20p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262164'>Monosomía parcial del cromosoma 20q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262173'>Monosomía parcial del cromosoma 21q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262182'>Monosomía parcial del cromosoma 22q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261866'>Monosomía parcial del cromosoma 2p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262010'>Monosomía parcial del cromosoma 2q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261776'>Monosomía parcial del cromosoma 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261875'>Monosomía parcial del cromosoma 3p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262019'>Monosomía parcial del cromosoma 3q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261781'>Monosomía parcial del cromosoma 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261884'>Monosomía parcial del cromosoma 4p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262029'>Monosomía parcial del cromosoma 4q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261786'>Monosomía parcial del cromosoma 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261893'>Monosomía parcial del cromosoma 5p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262038'>Monosomía parcial del cromosoma 5q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261791'>Monosomía parcial del cromosoma 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261902'>Monosomía parcial del cromosoma 6p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262047'>Monosomía parcial del cromosoma 6q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261796'>Monosomía parcial del cromosoma 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261911'>Monosomía parcial del cromosoma 7p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262056'>Monosomía parcial del cromosoma 7q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261801'>Monosomía parcial del cromosoma 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261920'>Monosomía parcial del cromosoma 8p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262065'>Monosomía parcial del cromosoma 8q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261806'>Monosomía parcial del cromosoma 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261929'>Monosomía parcial del cromosoma 9p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262074'>Monosomía parcial del cromosoma 9q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263726'>Monosomía parcial del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263731'>Monosomía parcial del cromosoma Xp</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263756'>Monosomía parcial del cromosoma Xq</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98142'>Monosomía parcial de los autosomas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261304'>Monosomía paterna 20q13.2q13.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261197'>Monosomía proximal 16p11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502437'>Monosomía proximal 4q25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1580'>Monosomía terminal 10p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96148'>Monosomía terminal 10q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2308'>Monosomía terminal 11q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280325'>Monosomía terminal 12p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96149'>Monosomía terminal 12q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1590'>Monosomía terminal 13q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96150'>Monosomía terminal 14q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1596'>Monosomía terminal 15q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261222'>Monosomía terminal 16p11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261257'>Monosomía terminal 17p13.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1597'>Monosomía terminal 17q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96129'>Monosomía terminal 19p13.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36367'>Monosomía terminal 1q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96152'>Monosomía terminal 20q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261330'>Monosomía terminal 22q11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1620'>Monosomía terminal 3p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280'>Monosomía terminal 4p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96145'>Monosomía terminal 4q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96125'>Monosomía terminal 6p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96126'>Monosomía terminal 7p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254351'>Monosomía terminal 7q11.23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1642'>Monosomía terminal 9p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98141'>Monosomía total de los autosomas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99226'>Monosomía X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99228'>Monosomía X en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1435'>Monosomía Xq21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251046'>Monosomy 6p22</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2637'>MOPD tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329813'>Mosaicismo androgénico/biparental</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238722'>Movimientos en espejo congénitos aislados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238722'>Movimientos en espejo congénitos familiares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238722'>Movimientos en espejo congénitos hereditarios</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=727'>MPA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=530995'>MPAL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289560'>MPAN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98274'>MPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=59135'>MPD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399086'>MPD3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79323'>MPDU1-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293181'>MPEI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54370'>MPGN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329903'>MPGN mediada por Ig</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329903'>MPGN mediada por inmunoglobulinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329918'>MPGN no mediada por Ig</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329918'>MPGN no mediada por inmunoglobulinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79319'>MPI-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79253'>mPKU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98274'>MPN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3148'>MPNST</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252212'>MPNST con diferenciación rabdomiosarcomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=579'>MPS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93473'>MPS1H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93476'>MPS1H/S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93474'>MPS1S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=580'>MPS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217085'>MPS2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217093'>MPS2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=581'>MPS3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79269'>MPS3A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79270'>MPS3B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79271'>MPS3C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79272'>MPS3D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=582'>MPS4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309297'>MPS4A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309310'>MPS4B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=583'>MPS6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276223'>MPS6 de progresión lenta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276212'>MPS6 de progresión rápida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=584'>MPS7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67041'>MPS9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79388'>MPS con afectación cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=579'>MPSI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293181'>MPSI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93473'>MPSIH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93476'>MPSIH/S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=580'>MPSII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217085'>MPSIIA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217093'>MPSIIB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=581'>MPSIII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79269'>MPSIIIA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79270'>MPSIIIB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79271'>MPSIIIC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79272'>MPSIIID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93474'>MPSIS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=582'>MPSIV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309297'>MPSIVA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309310'>MPSIVB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67041'>MPSIX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=583'>MPSVI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276223'>MPSVI de progresión lenta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276212'>MPSVI de progresión rápida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=584'>MPSVII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99967'>MRCLS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93952'>MRXSH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2598'>MSA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254881'>MSCAE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=585'>MSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1309'>MSK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=748'>MSMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319581'>MSMD autosómica dominante por deficiencia parcial del IFNgammaR1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319589'>MSMD autosómica dominante por deficiencia parcial del IFNgammaR2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319581'>MSMD autosómica dominante por deficiencia parcial del receptor 1 del interferón-gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319589'>MSMD autosómica dominante por deficiencia parcial del receptor 2 del interferón-gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319543'>MSMD autosómica dominante por un deficiencia parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319535'>MSMD autosómica recesiva por deficiencia completa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319539'>MSMD autosómica recesiva por deficiencia parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319569'>MSMD autosómica recesiva por deficiencia parcial del IFNgammaR1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319574'>MSMD autosómica recesiva por deficiencia parcial del IFNgammaR2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319569'>MSMD autosómica recesiva por deficiencia parcial del receptor 1 del interferón-gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319574'>MSMD autosómica recesiva por deficiencia parcial del receptor 2 del interferón-gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319605'>MSMD ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319623'>MSMD ligada al cromosoma X por deficiencia de CYBB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319612'>MSMD ligada al cromosoma X por deficiencia de IKBKG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319612'>MSMD ligada al cromosoma X por deficiencia de NEMO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319558'>MSMD por deficiencia completa de la interleucina 12B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319547'>MSMD por deficiencia completa del IFNgammaR2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319558'>MSMD por deficiencia completa del IL12B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319552'>MSMD por deficiencia completa del IL12RB1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319563'>MSMD por deficiencia completa del ISG15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319547'>MSMD por deficiencia completa del receptor 2 del interferón-gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319552'>MSMD por deficiencia completa del receptor beta 1 de la interleucina 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319600'>MSMD por deficiencia parcial del factor regulador del interferón 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319600'>MSMD por deficiencia parcial del IRF89</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319595'>MSMD por deficiencia parcial del STAT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319595'>MSMD por deficiencia parcial del transductor de señal y activador de transcripción 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157801'>MSSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65748'>MSSE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=511'>MSUD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268145'>MSUD clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268162'>MSUD intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268173'>MSUD intermitente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268184'>MSUD sensible a la tiamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1332'>MTC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99361'>MTC familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99701'>MTLE-HS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252212'>MTT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90395'>Mucinosis cutánea de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178512'>Mucinosis folicular asociada a micosis fungoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86795'>Mucinosis papular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90396'>Mucinosis papular acra persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90395'>Mucinosis papular de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90397'>Mucinosis papular de resolución espontánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563671'>Mucinous cystadenoma of childhood</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141083'>Mucocele nasolagrimal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79212'>Mucolipidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423461'>Mucolipidosis tipo 3 alfa/beta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423470'>Mucolipidosis tipo 3 gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=576'>Mucolipidosis tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=576'>Mucolipidosis tipo II alfa/beta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=577'>Mucolipidosis tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423461'>Mucolipidosis tipo III alfa/beta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423470'>Mucolipidosis tipo III gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=578'>Mucolipidosis tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79213'>Mucopolisacaridosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79388'>Mucopolisacaridosis con afectación cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=579'>Mucopolisacaridosis tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93473'>Mucopolisacaridosis tipo 1H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93476'>Mucopolisacaridosis tipo 1H/S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93474'>Mucopolisacaridosis tipo 1S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=580'>Mucopolisacaridosis tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217085'>Mucopolisacaridosis tipo 2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217093'>Mucopolisacaridosis tipo 2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217093'>Mucopolisacaridosis tipo 2, forma atenuada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217085'>Mucopolisacaridosis tipo 2, forma grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=581'>Mucopolisacaridosis tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79269'>Mucopolisacaridosis tipo 3A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79270'>Mucopolisacaridosis tipo 3B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79271'>Mucopolisacaridosis tipo 3C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79272'>Mucopolisacaridosis tipo 3D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=582'>Mucopolisacaridosis tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309297'>Mucopolisacaridosis tipo 4A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309310'>Mucopolisacaridosis tipo 4B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=583'>Mucopolisacaridosis tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276223'>Mucopolisacaridosis tipo 6 de progresión lenta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276212'>Mucopolisacaridosis tipo 6 de progresión rápida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=584'>Mucopolisacaridosis tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67041'>Mucopolisacaridosis tipo 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=579'>Mucopolisacaridosis tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93473'>Mucopolisacaridosis tipo IH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93476'>Mucopolisacaridosis tipo IH/S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=580'>Mucopolisacaridosis tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217085'>Mucopolisacaridosis tipo IIA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217093'>Mucopolisacaridosis tipo IIB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217093'>Mucopolisacaridosis tipo II, forma atenuada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217085'>Mucopolisacaridosis tipo II, forma grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=581'>Mucopolisacaridosis tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79269'>Mucopolisacaridosis tipo IIIA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79270'>Mucopolisacaridosis tipo IIIB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79271'>Mucopolisacaridosis tipo IIIC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79272'>Mucopolisacaridosis tipo IIID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93474'>Mucopolisacaridosis tipo IS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=582'>Mucopolisacaridosis tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309297'>Mucopolisacaridosis tipo IVA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309310'>Mucopolisacaridosis tipo IVB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67041'>Mucopolisacaridosis tipo IX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=583'>Mucopolisacaridosis tipo VI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276223'>Mucopolisacaridosis tipo VI de progresión lenta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276212'>Mucopolisacaridosis tipo VI de progresión rápida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=584'>Mucopolisacaridosis tipo VII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73263'>Mucormicosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=585'>Mucosulfatidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=586'>Mucoviscidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566943'>Mueller-Weiss syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444'>MUHH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2576'>MUL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98873'>Multinuclearidad eritroblástica hereditaria con prueba de suero acidificado positiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2678'>Múltiples manchas café con leche</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29'>MVA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247'>MVDA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2290'>MVID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182050'>MYH9-RD</a></li>

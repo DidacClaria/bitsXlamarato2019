@@ -1,0 +1,1353 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3384'>TAC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447896'>TACH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2886'>Talipes equinovarus-defecto septal atrial-secuencia de Robin-persistencia de la vena cava superior izquierda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329191'>Talla alta-escoliosis-macrodactilia de los halluces</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2332'>Talla baja-anomalías faciales y esqueléticas-discapacidad intelectual-macrodoncia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314795'>Talla baja asociada a SHOX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2619'>Talla baja con braquidactilia tipo Mseleni</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=629'>Talla baja por anomalía cualitativa de hormona de crecimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=632'>Talla baja por deficiencia aislada de hormona de crecimiento asociado a hipogammaglobulinemia ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314811'>Talla baja por deficiencia de GHSR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314811'>Talla baja por deficiencia del receptor de secretagogos de la hormona de crecimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220465'>Talla baja por deficiencia de STAT5b</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314802'>Talla baja por deficiencia parcial de GHR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314802'>Talla baja por deficiencia parcial del receptor de la hormona de crecimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140941'>Talla baja por deficiencia primaria de subunidad ácido-lábil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=633'>Talla baja por resistencia a la hormona del crecimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181393'>Talla baja por un defecto en la vía del receptor o post-receptor de la hormona de crecimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324761'>Talla baja primordial microcefálica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468631'>Talla baja primordial microcefálica por deficiencia de RTTN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329228'>Talla baja primordial microcefálica por deficiencia de ZNF335</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319675'>Talla baja primordial microcefálica tipo Dauber</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2617'>Talla baja primordial microcefálica tipo Montreal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171706'>Talla baja-retraso en la edad ósea por deficiencia en el metabolismo de hormonas tiroideas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3102'>Talla baja-secuencia de Pierre Robin-fisura maxilar-anomalías de las manos-pie zambo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3102'>Talla baja-síndrome de Pierre Robin-fisura maxilar-anomalías de las manos-pie zambo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2867'>Talla baja tipo Bruselas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2643'>Talla primordial microcefálica tipo Toriello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=844'>Taquiarritmia auricular con intervalo PR corto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3282'>Taquicardia atrial caótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3282'>Taquicardia atrial multifocal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3282'>Taquicardia auricular multifocal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3286'>Taquicardia bidireccional inducida por catecolaminas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3283'>Taquicardia del haz de His</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3283'>Taquicardia ectópica juntural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443236'>Taquicardia ortostática familiar por deficiencia del transportador de norepinefrina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=45453'>Taquicardia ventricular incesante infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3286'>Taquicardia ventricular paroxística maligna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3286'>Taquicardia ventricular polimórfica catecolaminérgica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3289'>Taurodontismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98960'>TBCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499004'>TBM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=857'>TBS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317416'>T-B+ SCID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317419'>T-B- SCID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363976'>TCG de hueso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66627'>TCG tipo difuso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=103918'>TCP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2655'>TD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1860'>TD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93274'>TD2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90771'>TDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2982'>TDS 46,XX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325697'>TDS 46,XX genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91144'>TDS 46,XX inducido por andrógenos de origen materno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98078'>TDS 46,XX inducido por exceso de andrógenos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90776'>TDS 46,XX inducido por exceso de andrógenos de origen fetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325093'>TDS 46,XX inducido por exceso de andrógenos endógenos de origen materno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325099'>TDS 46,XX inducido por exceso de andrógenos exógenos de origen materno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325061'>TDS 46,XX inducido por exceso de andrógenos fetoplacentarios</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2138'>TDS 46,XX ovotesticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=755'>TDS 46,XX por resistencia a la hormona luteinizante o por deficiencia de la subunidad beta de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=755'>TDS 46,XX por resistencia a LH o por deficiencia de LHB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98085'>TDS 46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325632'>TDS 46,XY de interés ginecológico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325351'>TDS 46,XY de origen endocrino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325706'>TDS 46,XY genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325713'>TDS 46,XY genético de origen endocrino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325537'>TDS 46,XY inducido por exposición materna a disruptores endocrinos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=753'>TDS 46,XY por deficiencia de 5-alfa-reductasa 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325448'>TDS 46,XY por deficiencia de la subunidad beta de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325448'>TDS 46,XY por deficiencia de LHB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>TDS 46,XY por inactivación completa del receptor de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>TDS 46,XY por inactivación completa del receptor de LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>TDS 46,XY por inactivación parcial del receptor de LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>TDS 46,XY por resistencia completa a la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>TDS 46,XY por resistencia completa a LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>TDS 46,XY por resistencia parcial a la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>TDS 46,XY por resistencia parcial a LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325357'>TDS 46,XY por una alteración en la producción de andrógenos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325511'>TDS 46,XY por un defecto de la síntesis del colesterol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90786'>TDS 46,XY por un defecto en la esteroidogénesis suprarrenal y testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90787'>TDS 46,XY por un defecto en la esteroidogénesis testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90783'>TDS 46,XY por un defecto en la síntesis de la testosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325620'>TDS de interés ginecológico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325690'>TDS genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325665'>TDS genético de interés ginecológico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325345'>TDS ovotesticular 46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325546'>TDS por anomalías del cromosoma sexual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352490'>TEA por deficiencia de AUTS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280774'>TEG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95462'>Tejido accesorio de la válvula tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99061'>Tejido adicional de la válvula mitral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353344'>Telangiectasia aneurismática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284227'>Telangiectasia-eritrocitosis-gammapatía monoclonal-colecciones líquidas perirrenales-derivación intrapulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280774'>Telangiectasia esencial generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=774'>Telangiectasia hemorrágica hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=482092'>Telangiectasia macular idiopática rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353344'>Telangiectasia macular idiopática tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353351'>Telangiectasia macular idiopática tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90389'>Telangiectasia macularis eruptiva perstans</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353351'>Telangiectasia retiniana oclusiva yuxtafoveolar idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353344'>Telangiectasia retiniana yuxtafoveolar idiopática visible y exudativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98575'>Telecanto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307061'>Temblor genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86814'>Temblor mioclónico cortical familiar y epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238606'>Temblor ortostático primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306712'>Temblor raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3398'>TEN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251515'>Tendón calcáneo corto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52662'>Teratología</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363483'>Teratoma de los testículos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252018'>Teratoma del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=883'>Teratoma extragonadal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398987'>Teratoma inmaduro de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398987'>Teratoma maligno de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141107'>Teratoma nasofaríngeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141077'>Teratoma orofaríngeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398987'>Teratoma ovárico inmaduro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398987'>Teratoma ovárico maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494421'>Teratoma sacrococcígeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363483'>Teratoma testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3000'>Testotoxicosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3299'>Tétanos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294971'>Tetra-amelia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3303'>Tetralogía de Fallot</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210141'>Tetraplejía espástica congénita hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3305'>Tetraploidía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289522'>Tetrasomía 11q24.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=884'>Tetrasomía 12p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314588'>Tetrasomía 15(q25-qter)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314588'>Tetrasomía 15q26</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=485405'>Tetrasomía 16p12.1p12.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3307'>Tetrasomía 18p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96055'>Tetrasomía 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3309'>Tetrasomía 5p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3310'>Tetrasomía 9p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3306'>Tetrasomía intersticial 15q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314588'>Tetrasomía terminal 15q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=9'>Tetrasomía X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=9'>Tetra X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=746'>TFPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216675'>TGA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99042'>TGA con coartación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216729'>TGA con malformación cardíaca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66627'>TGCT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216675'>TGV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300857'>THRLBCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2768'>Tibia vara de Blount</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2768'>Tibia vara infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221091'>Tic doloroso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83317'>Tifus de las malezas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83315'>Tifus endémico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83314'>Tifus epidémico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99991'>Tifus epidémico reincidente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101334'>Tifus indio transmitido por garrapatas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83315'>Tifus murino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99990'>Tifus recrudescente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83315'>Tifus transmitido por pulgas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2198'>Tilosis-carcinoma esofágico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99867'>Timoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99868'>Timoma maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263310'>Timoma tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263324'>Timoma tipo AB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263317'>Timoma tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60014'>Tinción de plata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60014'>Tinción por exposición a plata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352540'>TIO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1895'>Tipo edimburgués</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64744'>Tiroiditis de Riedel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=882'>Tirosinemia hepatorrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=28378'>Tirosinemia oculocutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69723'>Tirosinemia por deficiencia de 4-hidroxifenilpiruvato dioxigenasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69723'>Tirosinemia por deficiencia de HPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69723'>Tirosinemia por deficiencia de la oxidasa del ácido 4-hidroxifenilpiruvico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=28378'>Tirosinemia por deficiencia de TAT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=28378'>Tirosinemia por deficiencia de tirosina aminotransferasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=882'>Tirosinemia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=28378'>Tirosinemia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69723'>Tirosinemia tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=882'>Tirosinemia tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=28378'>Tirosinemia tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69723'>Tirosinemia tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3402'>Tirosinemia transitoria del neonato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3402'>Tirosinemia transitoria del recién nacido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=609'>Titinopatía distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86872'>T-LGL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86904'>TLP-MTX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420561'>TMBTS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=609'>TMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420611'>TMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314667'>TMEM165-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466703'>TMEM199-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=562569'>TMEM94-associated congenital heart defect-facial dysmorphism-developmental delay syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213512'>TMMM del ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99886'>TNDM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100079'>TNE apendicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97253'>TNE bien diferenciado del páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97253'>TNE bien diferenciado pancreático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97287'>TNE bronquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100079'>TNE de apéndice</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100080'>TNE de colon</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100075'>TNE de estómago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423975'>TNE de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100082'>TNE del canal anal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100081'>TNE de recto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100075'>TNEG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100075'>TNE gástrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100092'>TNE-GEP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97253'>TNE pancreático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506060'>TNE pancreático funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506075'>TNE pancreático no funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506090'>TNE pancreático productor de serotonina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506060'>TNEP funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506075'>TNEP no funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506090'>TNEP productor de serotonina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100081'>TNE rectal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238606'>TOP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71518'>Torticolis paroxística benigna de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75326'>Tortuosidad arteriolar retinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75326'>Tortuosidad arteriolar retiniana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75326'>Tortuosidad de las arterias retinianas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97330'>TOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357107'>TOS arterial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1489'>Tosferina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100073'>TOS neurogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357131'>TOS venoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300579'>Toxemia estafilocócica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=413696'>Toxicidad a la estatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=413693'>Toxicidad a medicamentos curariformes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284121'>Toxicidad o falta de respuesta a la clozapina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=413674'>Toxicidad o selección de la dosis de antagonistas de la vitamina K</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=413667'>Toxicidad o selección de la dosis de antidepresivos o antipsicóticos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=413687'>Toxicidad o selección de la dosis de la azatioprina o mercaptopurina 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=413681'>Toxicidad o selección de la dosis de medicamentos antidiabéticos orales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240839'>Toxicidad por 5-fluorouracilo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240841'>Toxicidad por abacavir</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240845'>Toxicidad por alopurinol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240863'>Toxicidad por cisplatino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240867'>Toxicidad por codeína</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240869'>Toxicidad por efavirenz</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529828'>Toxicidad por enzalutamida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=414750'>Toxicidad por fenitoína o carbamazepina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240871'>Toxicidad por flucloxacilina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240885'>Toxicidad por irinotecán</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240887'>Toxicidad por isoniazida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529831'>Toxicidad por letrozol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240905'>Toxicidad por raltegravir</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240921'>Toxicidad por voriconazol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209919'>Toxicosis hepática por cobre no Wilson de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3343'>Toxocariasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=858'>Toxoplasmosis congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71290'>TPF/LMA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86871'>T-PLL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251915'>TPRP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=292'>Transmisión materna de infección por enterovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293'>Transmisión materna de la infección por el virus del herpes simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70596'>Transmisión materna de la infección por el virus Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=292'>Transmisión materna de la infección por enterovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70596'>Transmisión materna de la infección por virus Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499009'>Transmisión materna de la sífilis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=858'>Transmisión materna de la toxoplasmosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294'>Transmisión materna del síndrome de citomegalovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295'>Transmisión materna del síndrome de parvovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=290'>Transmisión materna del síndrome de rubéola</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=291'>Transmisión materna del síndrome de varicela</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=291'>Transmisión materna del síndrome de varicela congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216718'>Transposición aislada congénitamente corregida de las grandes arterias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216718'>Transposición aislada congénitamente corregida de los grandes vasos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216675'>Transposición completa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216694'>Transposición congénitamente corregida de las grandes arterias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216694'>Transposición congénitamente corregida de los grandes vasos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216729'>Transposición congénitamente no corregida de las grandes arterias con malformación cardíaca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216729'>Transposición congénitamente no corregida de los grandes vasos con malformación cardíaca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216675'>Transposición de las grandes arterias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216675'>Transposición de los grandes vasos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98717'>Transposición de los grandes vasos-anomalía conotruncal cardíaca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=860'>Transposición no corregida congénitamente de las grandes arterias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99042'>Transposición no corregida congénitamente de las grandes arterias con coartación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=860'>Transposición no corregida congénitamente de los grandes vasos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99042'>Transposición no corregida congénitamente de los grandes vasos con coartación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2842'>Transposición penoescrotal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3347'>Traqueobroncomegalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3347'>Traqueobroncomegalia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3347'>Traqueobroncomegalia idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3348'>Traqueobroncopatía condro-osteoplástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95430'>Traqueomalacia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90053'>Trasplante de células hematopoyéticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90796'>Trastorno 46,XY del desarrollo sexual por deficiencia aislada de 17,20-liasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138118'>Trastorno adquirido del comportamiento alimentario en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228218'>Trastorno adquirido del tejido elástico de la dermis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228221'>Trastorno adquirido del tejido elástico de la dermis con disminución de tejido elástico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228224'>Trastorno adquirido del tejido elástico de la dermis con incremento de tejido elástico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79369'>Trastorno aislado de las uñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254846'>Trastorno aislado de un complejo de la cadena respiratoria mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254846'>Trastorno aislado de un complejo de la fosforilación oxidativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220452'>Trastorno aislado hereditario de las plaquetas gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1170'>Trastorno cerebeloparenquimatoso autosómico recesivo tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519337'>Trastorno con compresión del nervio óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521438'>Trastorno congénito de deficiencia de NAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137'>Trastorno congénito de la glicosilación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435934'>Trastorno congénito de la glicosilación asociado a COG2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319646'>Trastorno congénito de la glicosilación asociado a PGM1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443811'>Trastorno congénito de la glicosilación asociado a PGM3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371195'>Trastorno congénito de la glicosilación asociado a un trastorno óseo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371200'>Trastorno congénito de la glicosilación con afectación cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371157'>Trastorno congénito de la glicosilación con afectación hepática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371188'>Trastorno congénito de la glicosilación con afectación intestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371047'>Trastorno congénito de la glicosilación con afectación neurológica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371235'>Trastorno congénito de la glicosilación con anomalías del desarrollo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371071'>Trastorno congénito de la glicosilación con epilepsia como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371183'>Trastorno congénito de la glicosilación con malformación cardíaca como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371176'>Trastorno congénito de la glicosilación con miocardiopatía dilatada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371207'>Trastorno congénito de la glicosilación con nefropatía como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371212'>Trastorno congénito de la glicosilación con sordera como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371054'>Trastorno congénito de la glicosilación ligado al cromosoma X con discapacidad intelectual como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371064'>Trastorno congénito de la glicosilación no ligado al cromosoma X con discapacidad intelectual como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488635'>Trastorno congénito de la glicosilación por deficiencia de PIGG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3474'>Trastorno congénito de la glicosilación por deficiencia de PIGL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83639'>Trastorno congénito de la glicosilación por deficiencia de PIGM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280633'>Trastorno congénito de la glicosilación por deficiencia de PIGN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369837'>Trastorno congénito de la glicosilación por deficiencia de PIGT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79318'>Trastorno congénito de la glicosilación tipo 1a</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79319'>Trastorno congénito de la glicosilación tipo 1b</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79320'>Trastorno congénito de la glicosilación tipo 1c</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79321'>Trastorno congénito de la glicosilación tipo 1d</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79322'>Trastorno congénito de la glicosilación tipo 1e</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79323'>Trastorno congénito de la glicosilación tipo 1f</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79324'>Trastorno congénito de la glicosilación tipo 1g</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79325'>Trastorno congénito de la glicosilación tipo 1h</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79326'>Trastorno congénito de la glicosilación tipo 1i</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86309'>Trastorno congénito de la glicosilación tipo 1j</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79327'>Trastorno congénito de la glicosilación tipo 1k</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79328'>Trastorno congénito de la glicosilación tipo 1L</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91131'>Trastorno congénito de la glicosilación tipo 1m</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=244310'>Trastorno congénito de la glicosilación tipo 1n</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263494'>Trastorno congénito de la glicosilación tipo 1o</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280071'>Trastorno congénito de la glicosilación tipo 1p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324737'>Trastorno congénito de la glicosilación tipo 1q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300536'>Trastorno congénito de la glicosilación tipo 1R</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324422'>Trastorno congénito de la glicosilación tipo 1s</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319646'>Trastorno congénito de la glicosilación tipo 1t</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329178'>Trastorno congénito de la glicosilación tipo 1u</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370921'>Trastorno congénito de la glicosilación tipo 1w</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370924'>Trastorno congénito de la glicosilación tipo 1x</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370927'>Trastorno congénito de la glicosilación tipo 1y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448010'>Trastorno congénito de la glicosilación tipo 1z</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79329'>Trastorno congénito de la glicosilación tipo 2a</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79330'>Trastorno congénito de la glicosilación tipo 2b</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79332'>Trastorno congénito de la glicosilación tipo 2d</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79333'>Trastorno congénito de la glicosilación tipo 2e</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238459'>Trastorno congénito de la glicosilación tipo 2f</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263508'>Trastorno congénito de la glicosilación tipo 2g</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95428'>Trastorno congénito de la glicosilación tipo 2h</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263487'>Trastorno congénito de la glicosilación tipo 2i</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263501'>Trastorno congénito de la glicosilación tipo 2j</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314667'>Trastorno congénito de la glicosilación tipo 2k</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464443'>Trastorno congénito de la glicosilación tipo 2l</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=356961'>Trastorno congénito de la glicosilación tipo 2m</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468699'>Trastorno congénito de la glicosilación tipo 2n</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468684'>Trastorno congénito de la glicosilación tipo 2o</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466703'>Trastorno congénito de la glicosilación tipo 2p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397941'>Trastorno congénito de la glicosilación tipo 2 por deficiencia de MAN1B1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79318'>Trastorno congénito de la glicosilación tipo Ia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79319'>Trastorno congénito de la glicosilación tipo Ib</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79320'>Trastorno congénito de la glicosilación tipo Ic</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79321'>Trastorno congénito de la glicosilación tipo Id</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79322'>Trastorno congénito de la glicosilación tipo Ie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79323'>Trastorno congénito de la glicosilación tipo If</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79324'>Trastorno congénito de la glicosilación tipo Ig</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79325'>Trastorno congénito de la glicosilación tipo Ih</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79326'>Trastorno congénito de la glicosilación tipo Ii</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79329'>Trastorno congénito de la glicosilación tipo IIa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79330'>Trastorno congénito de la glicosilación tipo IIb</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79332'>Trastorno congénito de la glicosilación tipo IId</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79333'>Trastorno congénito de la glicosilación tipo IIe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238459'>Trastorno congénito de la glicosilación tipo IIf</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263508'>Trastorno congénito de la glicosilación tipo IIg</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95428'>Trastorno congénito de la glicosilación tipo IIh</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263487'>Trastorno congénito de la glicosilación tipo IIi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263501'>Trastorno congénito de la glicosilación tipo IIj</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314667'>Trastorno congénito de la glicosilación tipo Iik</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464443'>Trastorno congénito de la glicosilación tipo IIl</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=356961'>Trastorno congénito de la glicosilación tipo IIm</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468699'>Trastorno congénito de la glicosilación tipo IIn</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468684'>Trastorno congénito de la glicosilación tipo IIo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466703'>Trastorno congénito de la glicosilación tipo IIp</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397941'>Trastorno congénito de la glicosilación tipo II por deficiencia de MAN1B1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86309'>Trastorno congénito de la glicosilación tipo Ij</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79327'>Trastorno congénito de la glicosilación tipo Ik</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91131'>Trastorno congénito de la glicosilación tipo Im</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=244310'>Trastorno congénito de la glicosilación tipo In</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263494'>Trastorno congénito de la glicosilación tipo Io</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280071'>Trastorno congénito de la glicosilación tipo Ip</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324737'>Trastorno congénito de la glicosilación tipo Iq</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300536'>Trastorno congénito de la glicosilación tipo IR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324422'>Trastorno congénito de la glicosilación tipo Is</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319646'>Trastorno congénito de la glicosilación tipo It</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329178'>Trastorno congénito de la glicosilación tipo Iu</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370921'>Trastorno congénito de la glicosilación tipo Iw</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370924'>Trastorno congénito de la glicosilación tipo Ix</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370927'>Trastorno congénito de la glicosilación tipo Iy</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522556'>Trastorno corneal genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522566'>Trastorno corneal inflamatorio/autoinmune genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519282'>Trastorno corneal raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522584'>Trastorno coroideo genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519309'>Trastorno coroideo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=505652'>Trastorno de deficiencia de CDKL5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325118'>Trastorno de desarrollo gonadal 46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488642'>Trastorno de discapacidad intelectual-neurodesarrollo asociado a TELO2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404448'>Trastorno de discapacidad intelectual sindrómica-espectro autista asociado a ADNP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435988'>Trastorno de disritmia auricular-mobilidad intestinal crónico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2116'>Trastorno de Hartnup</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79189'>Trastorno de la biogénesis peroxisomal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352312'>Trastorno de la biosíntesis de fosfolípidos, esfingolípidos y ácidos grasos con afectación predominante del músculo esquelético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3276'>Trastorno de la biosíntesis de los plasmalógenos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217616'>Trastorno de la cetogénesis y de la oxidación de los ácidos grasos con miocardiopatía dilatada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217591'>Trastorno de la cetogénesis y de la oxidación de los ácidos grasos con miocardiopatía hipertrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436169'>Trastorno de la coagulación asociado a la trombomodulina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436169'>Trastorno de la coagulación asociado a THBD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477787'>Trastorno de la coagulación asociado con una deficiencia de fosfolipasa A2 alfa citosólica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36355'>Trastorno de la coagulación por defecto del receptor plaquetario de ADP P2Y12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36355'>Trastorno de la coagulación por defecto en P2Y12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420566'>Trastorno de la coagulación por deficiencia de CalDAG-GEFI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420566'>Trastorno de la coagulación por deficiencia del factor 1 de intercambio de guanina regulada por DAG y calcio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254822'>Trastorno de la fosforilación oxidativa mitocondrial de mecanismo desconocido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254758'>Trastorno de la fosforilación oxidativa mitocondrial por anomalías del ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254758'>Trastorno de la fosforilación oxidativa mitocondrial por anomalías del ADNmt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2443'>Trastorno de la fosforilación oxidativa mitocondrial por anomalías del ADN nuclear</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254767'>Trastorno de la fosforilación oxidativa mitocondrial por una deleción única de ADN mitocondrial a gran escala</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254767'>Trastorno de la fosforilación oxidativa mitocondrial por una deleción única de ADNmt a gran escala</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254793'>Trastorno de la fosforilación oxidativa mitocondrial por una duplicación del ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254793'>Trastorno de la fosforilación oxidativa mitocondrial por una duplicación del ADNmt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254776'>Trastorno de la fosforilación oxidativa mitocondrial por una mutación puntual del ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254776'>Trastorno de la fosforilación oxidativa mitocondrial por una mutación puntual del ADNmt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309515'>Trastorno de la glicosilación de glicoesfingolípidos y del anclaje glicosilfosfatidilinositol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254834'>Trastorno de la importación de proteínas mitocondriales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309115'>Trastorno de la oxidación de ácidos grasos y de la cetogénesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352301'>Trastorno de la síntesis de fosfolípidos, esfingolípidos y ácidos grasos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352309'>Trastorno de la síntesis de fosfolípidos, esfingolípidos y ácidos grasos con afectación predominante de los nervios periféricos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352306'>Trastorno de la síntesis de fosfolípidos, esfingolípidos y ácidos grasos con afectación predominante del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138221'>Trastorno de la succión/deglución</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138112'>Trastorno de la succión/deglución asociado a anomalías cerebelosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138109'>Trastorno de la succión/deglución asociado a anomalías de la fosa posterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138104'>Trastorno de la succión/deglución asociado a anomalías de los ganglios basales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138095'>Trastorno de la succión/deglución asociado a anomalías neurológicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138101'>Trastorno de la succión/deglución asociado a anomalías suprabulbares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138076'>Trastorno de la succión/deglución asociado a una anomalía cromosómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138115'>Trastorno de la succión/deglución asociado a una enfermedad neuromuscular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138072'>Trastorno de la succión/deglución asociado con un síndrome identificado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138069'>Trastorno de la succión/deglución no asociado a la secuencia de Pierre Robin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138069'>Trastorno de la succión/deglución no asociado al síndrome de Pierre Robin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=138080'>Trastorno de la succión/deglución sindrómico sin síndrome identificado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254749'>Trastorno del ciclo de Krebs</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254749'>Trastorno del ciclo del ácido cítrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254749'>Trastorno del ciclo de los ácidos tricarboxílicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254749'>Trastorno del ciclo de los TCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2576'>Trastorno del crecimiento MULIBREY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325055'>Trastorno del desarrollo gonadal 46,XX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90771'>Trastorno del desarrollo sexual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2982'>Trastorno del desarrollo sexual 46, XX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325697'>Trastorno del desarrollo sexual 46,XX genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91144'>Trastorno del desarrollo sexual 46,XX inducido por andrógenos de origen materno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98078'>Trastorno del desarrollo sexual 46,XX inducido por exceso de andrógenos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90776'>Trastorno del desarrollo sexual 46,XX inducido por exceso de andrógenos de origen fetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325093'>Trastorno del desarrollo sexual 46,XX inducido por exceso de andrógenos endógenos de origen materno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325099'>Trastorno del desarrollo sexual 46,XX inducido por exceso de andrógenos exógenos de origen materno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325061'>Trastorno del desarrollo sexual 46,XX inducido por exceso de andrógenos fetoplacentarios</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2138'>Trastorno del desarrollo sexual 46,XX ovotesticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=755'>Trastorno del desarrollo sexual 46,XX por resistencia a la hormona luteinizante o por deficiencia de la subunidad beta de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=755'>Trastorno del desarrollo sexual 46,XX por resistencia a LH o por deficiencia de LHB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98085'>Trastorno del desarrollo sexual 46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325632'>Trastorno del desarrollo sexual 46,XY de interés ginecológico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325351'>Trastorno del desarrollo sexual 46,XY de origen endocrino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325706'>Trastorno del desarrollo sexual 46,XY genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325713'>Trastorno del desarrollo sexual 46,XY genético de origen endocrino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325537'>Trastorno del desarrollo sexual 46,XY inducido por exposición materna a disruptores endocrinos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168558'>Trastorno del desarrollo sexual 46,XY-insuficiencia suprarrenal por deficiencia de CYP11A1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=752'>Trastorno del desarrollo sexual 46,XY por deficiencia de 17-beta-hidroxiesteroide deshidrogenasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=753'>Trastorno del desarrollo sexual 46,XY por deficiencia de 5-alfa-reductasa 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325448'>Trastorno del desarrollo sexual 46,XY por deficiencia de la subunidad beta de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325448'>Trastorno del desarrollo sexual 46,XY por deficiencia de LHB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443087'>Trastorno del desarrollo sexual 46,XY por deficiencia testicular de 17,20-desmolasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>Trastorno del desarrollo sexual 46,XY por inactivación completa del receptor de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>Trastorno del desarrollo sexual 46,XY por inactivación completa del receptor de LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>Trastorno del desarrollo sexual 46,XY por inactivación parcial del receptor de LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90797'>Trastorno del desarrollo sexual 46,XY por insensibilidad parcial a andrógenos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>Trastorno del desarrollo sexual 46,XY por resistencia completa a la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>Trastorno del desarrollo sexual 46,XY por resistencia completa a LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>Trastorno del desarrollo sexual 46,XY por resistencia parcial a la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>Trastorno del desarrollo sexual 46,XY por resistencia parcial a LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325357'>Trastorno del desarrollo sexual 46,XY por una alteración en la producción de andrógenos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443090'>Trastorno del desarrollo sexual 46,XY por un defecto de la biosíntesis de la dihidrotestosterona por la via alterna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325511'>Trastorno del desarrollo sexual 46,XY por un defecto de la síntesis del colesterol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90786'>Trastorno del desarrollo sexual 46,XY por un defecto en la esteroidogénesis suprarrenal y testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90787'>Trastorno del desarrollo sexual 46,XY por un defecto en la esteroidogénesis testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90783'>Trastorno del desarrollo sexual 46,XY por un defecto en la síntesis de la testosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325620'>Trastorno del desarrollo sexual de interés ginecológico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325690'>Trastorno del desarrollo sexual genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325665'>Trastorno del desarrollo sexual genético de interés ginecológico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325546'>Trastorno del desarrollo sexual por anomalías del cromosoma sexual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46348'>Trastorno del dolor extremo paroxístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352490'>Trastorno del espectro autista por deficiencia en AUTS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529808'>Trastorno del espectro del kernícterus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364541'>Trastorno del espectro del OPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364541'>Trastorno del espectro del síndrome otopalatodigital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209908'>Trastorno del habla y del lenguaje con dispraxia orofacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209908'>Trastorno del habla y del lenguaje tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391381'>Trastorno del metabolismo de la asparagina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284814'>Trastorno del metabolismo de la fenilalanina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289841'>Trastorno del metabolismo de la glutamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289832'>Trastorno del metabolismo de la lisina y la hidroxilisina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352728'>Trastorno del metabolismo de la melanina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289869'>Trastorno del metabolismo de la ornitina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289866'>Trastorno del metabolismo de la prolina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284818'>Trastorno del metabolismo de la tirosina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289098'>Trastorno del metabolismo de la vitamina D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254746'>Trastorno del metabolismo del piruvato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289829'>Trastorno del metabolismo del triptofano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=298644'>Trastorno del metabolismo y transporte de la tiamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=285657'>Trastorno del metabolismo y transporte del folato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79169'>Trastorno del metabolismo y transporte de los neurotransmisores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307052'>Trastorno del movimiento hipocinético genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521426'>Trastorno del neurodesarrollo asociado a PLAA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522077'>Trastorno del neurodesarrollo asociado a SYT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=528084'>Trastorno del neurodesarrollo complejo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254830'>Trastorno de los transportadores de la membrana mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423662'>Trastorno del sistema nervioso autónomo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=438072'>Trastorno del transporte de cuerpos cetónicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522528'>Trastorno de malposición palpebral genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420755'>Trastorno dental o periodontal genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183557'>Trastorno de origen genético en el desarrollo de los ojos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168782'>Trastorno desintegrativo de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391799'>Trastorno distónico genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401973'>Trastorno EBP masculino con defectos neurológicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254827'>Trastorno en el transporte de la membrana mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211047'>Trastorno específico de aprendizaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211053'>Trastorno específico del lenguaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99739'>Trastorno familiar raro con estenosis subaórtica hipertrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99739'>Trastorno familiar raro con miocardiopatía hipertrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99739'>Trastorno familiar raro con miocardiopatía obstructiva hipertrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183472'>Trastorno genético de la dermis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228215'>Trastorno genético del tejido elástico de la dermis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183481'>Trastorno genético mixto de la dermis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522522'>Trastorno genético neuromuscular raro con anomalía de la movilidad/alineamiento ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522508'>Trastorno genético oftalmológico raro con afectación cortical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522510'>Trastorno genético oftalmológico raro con afectación del nervio craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522542'>Trastorno genético raro con afectación conjuntival como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522558'>Trastorno genético raro con afectación corneal como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522578'>Trastorno genético raro con afectación de múltiples estructuras del ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400003'>Trastorno genético raro con azoospermia obstructiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522530'>Trastorno genético raro con entropión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522518'>Trastorno genético raro con estrabismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522546'>Trastorno genético raro con opacificación de la lente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522516'>Trastorno genético raro de la movilidad/alineamiento ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522532'>Trastorno genético raro del aparato lagrimal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522568'>Trastorno genético raro de la pupila</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522512'>Trastorno genético raro del nervio óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522524'>Trastorno genético raro de los anexos oculares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522504'>Trastorno genético raro de los órganos visuales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522538'>Trastorno genético raro del segmento anterior del ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522570'>Trastorno genético raro del segmento posterior del ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=434786'>Trastorno genético raro del sistema nervioso autónomo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522506'>Trastorno genético raro del tronco cerebral o del cerebelo con afectación oftalmológica como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400003'>Trastorno genético raro por un defecto en el transporte del esperma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522520'>Trastorno genético sindrómico con estramismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500545'>Trastorno grave del neurodesarrollo con dificultades para alimentarse-movimientos estereotipados de las manos-cataratas bilaterales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436169'>Trastorno hemorrágico asociado a la trombomodulina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436169'>Trastorno hemorrágico asociado a THBD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477787'>Trastorno hemorrágico asociado con una deficiencia de fosfolipasa A2 alfa citosólica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36355'>Trastorno hemorrágico por defecto del receptor plaquetario de ADP P2Y12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36355'>Trastorno hemorrágico por defecto en P2Y12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420566'>Trastorno hemorrágico por deficiencia de CalDAG-GEFI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420566'>Trastorno hemorrágico por deficiencia del factor 1 de intercambio de guanina regulada por DAG y calcio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248308'>Trastorno hemorrágico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248347'>Trastorno hemorrágico raro adquirido por anomalía de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248347'>Trastorno hemorrágico raro adquirido por trombopatía y/o trombocitopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248326'>Trastorno hemorrágico raro por anomalía de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248315'>Trastorno hemorrágico raro por defecto de los factores de coagulación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166775'>Trastorno hemorrágico raro por deficiencia adquirida de factores de coagulación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68334'>Trastorno hemorrágico raro por deficiencia constitucional de factores de coagulación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248326'>Trastorno hemorrágico raro por trombopatía y/o trombocitopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166775'>Trastorno hemorrágico raro por una anomalía plaquetaria adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71202'>Trastorno hemorrágico raro por una anomalía plaquetaria constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275729'>Trastorno hemorrágico raro por una trombocitopenia constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275736'>Trastorno hemorrágico raro por una trombopatía constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71202'>Trastorno hemorrágico raro por una trombopatía y/o trombocitopenia constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275736'>Trastorno hemorrágico raro por un defecto cualitativo de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275729'>Trastorno hemorrágico raro por un defecto cuantitativo de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521132'>Trastorno inducido por radiación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519264'>Trastorno inflamatorio/autoinmune con afectación del sistema lagrimal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2571'>Trastorno inmunoneurológico ligado al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289644'>Trastorno linfoproliferativo asociado al EBV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512017'>Trastorno linfoproliferativo crónico de células natural killer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512017'>Trastorno linfoproliferativo crónico de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289644'>Trastorno linfoproliferativo maligno asociado al virus de Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522574'>Trastorno macular genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519313'>Trastorno macular raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98274'>Trastorno mieloproliferativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254837'>Trastorno mitocondrial no especificado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391343'>Trastorno neurodegenerativo postviral letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35705'>Trastorno neurometabólico por deficiencia de serina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519347'>Trastorno neuromuscular raro con anomalía de la movilidad/alineamiento ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97966'>Trastorno oftalmológico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519343'>Trastorno oftalmológico raro con afectación cortical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519349'>Trastorno oftalmológico raro con afectación del nervio craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521236'>Trastorno ortostático primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521232'>Trastorno ortostático primario genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371195'>Trastorno óseo asociado a CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93425'>Trastorno óseo asociado a la filamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364817'>Trastorno óseo asociado al agrecano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93423'>Trastorno óseo asociado a la sulfatación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93422'>Trastorno óseo asociado al colágeno tipo 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93421'>Trastorno óseo asociado al colágeno tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93424'>Trastorno óseo asociado al perlecano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364820'>Trastorno óseo asociado a TRPV4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325345'>Trastorno ovotesticular del desarrollo sexual 46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522526'>Trastorno palpebral genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307052'>Trastorno parkinsoniano genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247815'>Trastorno peroxisomal moderado por deficiencia de PEX10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168778'>Trastorno pervasivo raro del desarrollo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85453'>Trastorno pigmentario reticular ligado al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71290'>Trastorno plaquetario familiar con neoplasia mieloide asociada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71290'>Trastorno plaquetario familiar con predisposición a leucemia mielógena aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71290'>Trastorno plaquetario familiar con predisposición a leucemia mieloide aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71290'>Trastorno plaquetario familiar con predisposición a neoplasia mieloide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98567'>Trastorno por mala posición de los párpados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=871'>Trastorno progresivo familiar de conducción cardíaca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512017'>Trastorno proliferativo de linfocitos granulares del linaje de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519288'>Trastorno raro con afectación corneal como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519329'>Trastorno raro con afectación de múltiples estructuras del ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477771'>Trastorno raro con angiopatía de moyamoya</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399824'>Trastorno raro con azoospermia obstructiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519268'>Trastorno raro con ectropión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519270'>Trastorno raro con entropión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519296'>Trastorno raro con esclerótica pigmentada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79365'>Trastorno raro con hipertricosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399846'>Trastorno raro con infertilidad femenina por hipogonadismo hipogonadotrópico congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519345'>Trastorno raro con malformación del disco óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519290'>Trastorno raro corneal inflamatorio/autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98429'>Trastorno raro de la coagulación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275729'>Trastorno raro de la coagulación por una trombocitopenia constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275736'>Trastorno raro de la coagulación por una trombopatía constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275736'>Trastorno raro de la coagulación por un defecto cualitativo de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275729'>Trastorno raro de la coagulación por un defecto cuantitativo de las plaquetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519298'>Trastorno raro de la esclerótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519355'>Trastorno raro de la movilidad/alineamiento ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519286'>Trastorno raro de la pupila</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139012'>Trastorno raro del desarrollo esquelético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139012'>Trastorno raro del desarrollo óseo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168778'>Trastorno raro del espectro autista</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183521'>Trastorno raro del movimiento de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494457'>Trastorno raro del movimiento hipercinético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68402'>Trastorno raro del movimiento hipocinético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306768'>Trastorno raro del movimiento paroxístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519351'>Trastorno raro del nervio óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519353'>Trastorno raro del nervio troclear</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519266'>Trastorno raro de los anexos oculares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520814'>Trastorno raro de los órganos visuales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519284'>Trastorno raro del segmento anterior del ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519311'>Trastorno raro del segmento posterior del ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68354'>Trastorno raro del sueño</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519341'>Trastorno raro del tronco cerebral o del cerebelo con afectación oftalmológica como característica principal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404584'>Trastorno raro genético del desarrollo esquelético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404584'>Trastorno raro genético del desarrollo óseo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=496916'>Trastorno raro genético del movimiento hipercinético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108999'>Trastorno raro por efectos tóxicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399824'>Trastorno raro por un defecto en el trasporte del esperma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506207'>Trastorno raro potencialmente indicado para trasplante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506225'>Trastorno raro potencialmente indicado para trasplante cardíaco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506219'>Trastorno raro potencialmente indicado para trasplante de células madre hematopoyéticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506216'>Trastorno raro potencialmente indicado para trasplante de intestino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506210'>Trastorno raro potencialmente indicado para trasplante hepático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506222'>Trastorno raro potencialmente indicado para trasplante pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506213'>Trastorno raro potencialmente indicado para trasplante renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522572'>Trastorno retiniano genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520817'>Trastorno retiniano hereditario aislado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519319'>Trastorno retiniano hereditario estacionario aislado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519306'>Trastorno retiniano hereditario progresivo aislado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519325'>Trastorno retiniano hereditario sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519315'>Trastorno retiniano raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309028'>Trastornos de absorción y transporte de lípidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309001'>Trastornos de absorción y transporte de los hidratos de carbono</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309824'>Trastornos de absorción y transporte de metabolitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309836'>Trastornos de absorción y transporte de minerales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309827'>Trastornos de absorción y transporte de vitaminas y del cofactor no protéico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79166'>Trastornos de la absorción y transporte de aminoácidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309810'>Trastornos de la alfa-, beta- y omega- oxidación peroxisomal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309515'>Trastornos de la glicosilación de glicoesfingolípidos y del anclaje GPI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309526'>Trastornos de la glicosilación múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309347'>Trastornos de la N-glicosilación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309447'>Trastornos de la O-glicosilación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79174'>Trastornos de la oxidación de los ácidos grasos y del metabolismo de los cuerpos cetónicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309830'>Trastornos de la síntesis de catecolaminas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309505'>Trastornos de la síntesis de fucoglucosanos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309469'>Trastornos de la síntesis del O-manosilo glicano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309458'>Trastornos de la síntesis de O-N-acetilgalactosaminilglicanos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309450'>Trastornos de la síntesis de O-xilosilglicanos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309463'>Trastornos de la síntesis de O-xilosil/N-acetilgalactosaminilglicanos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309130'>Trastornos del ciclo de la carnitina y del transporte de la carnitina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79175'>Trastornos del metabolismo del ácido gamma-aminobutírico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309319'>Trastornos del metabolismo del ácido siálico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308463'>Trastornos del metabolismo de la fructosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308467'>Trastornos del metabolismo de la galactosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79186'>Trastornos del metabolismo de la pentosa fosfato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440701'>Trastornos del metabolismo de la pentosa/poliol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309819'>Trastornos del metabolismo de la pterina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309813'>Trastornos del metabolismo de las porfirinas y del hemo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79167'>Trastornos del metabolismo del ciclo de la urea y de la detoxificación del amonio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309845'>Trastornos del metabolismo del cinc</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309839'>Trastornos del metabolismo del cobre</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308998'>Trastornos del metabolismo del glioxilato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308407'>Trastornos del metabolismo de los aminoácidos beta y omega</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79062'>Trastornos del metabolismo de los aminoácidos y otros ácidos orgánicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79183'>Trastornos del metabolismo de los cuerpos cetónicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309005'>Trastornos del metabolismo de los lípidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309842'>Trastornos del metabolismo y del transporte del hierro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309816'>Trastornos del metabolismo y la excreción de la bilirrubina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79171'>Trastornos del metabolismo y transporte de la cobalamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309833'>Trastornos del metabolismo y transporte de otras vitaminas y cofactores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306695'>Trastornos del movimiento diversos por una enfermedad neurodegenerativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307058'>Trastornos del movimiento diversos por una enfermedad neurodegenerativa genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309340'>Trastornos de los orgánulos relacionados con los lisosomas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308451'>Trastornos del transporte de aminoácidos neutros</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79207'>Trastornos del transporte lisosomal de los aminoácidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=164001'>Trastornos dentales y periodontales raros</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309848'>Trastornos de transporte del magnesio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309851'>Trastornos de transporte del manganeso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93614'>Trastornos hematológicos con insuficiencia renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251347'>Trastorno similar a la ataxia-telangiectasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363972'>Trastorno similar al síndrome de Noonan con leucemia mielomonocítica juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240760'>Trastorno similar al síndrome de rotura de Nijmegen</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79370'>Trastorno sindrómico de las uñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519274'>Trastorno sindrómico del sistema lagrimal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86904'>Trastornos linfoproliferativos asociados al MTX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86904'>Trastornos linfoproliferativos asociados al uso de metotrexato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71519'>Trastornos psicógenos del movimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163637'>Trastornos raros relacionados con embarazo, nacimiento y puerperio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240760'>Trastorno tipo NBS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363972'>Trastorno tipo síndrome de Noonan con LMMJ</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=112'>Trastorno tubular de pérdida de sal tipo asa de Henle</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238621'>Tratamiento de la incontinencia fecal ligada a una anastomosis íleo-anal con bolsa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139411'>Tríada de Carney</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1552'>Tríada de Currarino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538756'>Tricodiscomas múltiples familiares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228379'>Tricodisplasia espinulosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228379'>Tricodisplasia espinulosa asociada a virus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=867'>Tricoepitelioma múltiple familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=864'>Tricofoliculoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411788'>Tricomegalia familiar aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565'>Tricopoliodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33364'>Tricotiodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75378'>Tricromacia oligocónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565612'>Triglyceride deposit cardiomyovasculopathy</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3366'>Trigonocefalia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1308'>Trigonocefalia C de Opitz</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=468726'>Trimetilaminuria primaria grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3374'>Triopía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=485405'>Trip(16)(p12.1p12.3)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3385'>Tripanosomiasis africana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3386'>Tripanosomiasis americana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3376'>Triploidia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=863'>Triquinelosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=863'>Triquinosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210576'>Trismus congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96063'>Trisomía 10 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171929'>Trisomia 10p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276422'>Trisomía 10q22.3q23.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96102'>Trisomía 10qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300305'>Trisomía 11p15.4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96103'>Trisomía 11qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1698'>Trisomía 12 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1699'>Trisomía 12p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3378'>Trisomía 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96105'>Trisomía 13qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1703'>Trisomía 14 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261229'>Trisomía 14q11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488280'>Trisomía 14q32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1705'>Trisomía 14qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1706'>Trisomía 15 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238446'>Trisomía 15q11q13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1707'>Trisomía 15qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1708'>Trisomía 16 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261204'>Trisomía 16p11.2p12.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261243'>Trisomía 16p13.11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96078'>Trisomía 16pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96106'>Trisomía 16qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1711'>Trisomía 17 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261290'>Trisomía 17p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1713'>Trisomía 17p11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477817'>Trisomía 17p11.2p12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477817'>Trisomía 17p11.2-p12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217385'>Trisomía 17p13.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139474'>Trisomía 17q11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261272'>Trisomía 17q12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217340'>Trisomía 17q21.31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3379'>Trisomía 17qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3380'>Trisomía 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1715'>Trisomía 18p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1716'>Trisomía 18qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1717'>Trisomía 19qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1692'>Trisomía 1 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96069'>Trisomía 1pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261344'>Trisomía 1q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=250994'>Trisomía 1q21.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1724'>Trisomía 20 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261318'>Trisomía 20p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96107'>Trisomía 20qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=870'>Trisomía 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96068'>Trisomía 22 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1727'>Trisomía 22q11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96109'>Trisomía 22qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1723'>Trisomía 2 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96070'>Trisomía 2pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313947'>Trisomía 2q23.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96094'>Trisomía 2qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100071'>Trisomía 3 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96071'>Trisomía 3pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96095'>Trisomía 3q26</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251038'>Trisomía 3q29</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96059'>Trisomía 4 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1738'>Trisomía 4p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96072'>Trisomía 4pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96096'>Trisomía 4qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96060'>Trisomía 5 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1742'>Trisomía 5p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329802'>Trisomía 5p13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228415'>Trisomía 5q35</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96097'>Trisomía 5qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1745'>Trisomía 6pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96098'>Trisomía 6qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1747'>Trisomía 7 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314034'>Trisomía 7p22.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96074'>Trisomía 7pter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96121'>Trisomía 7q11.23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96061'>Trisomía 8 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264450'>Trisomía 8p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251076'>Trisomía 8p23.1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1752'>Trisomía 8q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228399'>Trisomía 8q12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96100'>Trisomía 8qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99776'>Trisomía 9 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=236'>Trisomía 9p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96101'>Trisomía 9qter</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98130'>Trisomía autosómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1715'>Trisomía del brazo corto del cromosoma 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1738'>Trisomía del brazo corto del cromosoma 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1742'>Trisomía del brazo corto del cromosoma 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=236'>Trisomía del brazo corto del cromosoma 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96063'>Trisomía del cromosoma 10 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1698'>Trisomía del cromosoma 12 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1703'>Trisomía del cromosoma 14 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1706'>Trisomía del cromosoma 15 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1708'>Trisomía del cromosoma 16 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1711'>Trisomía del cromosoma 17 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1692'>Trisomía del cromosoma 1 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1724'>Trisomía del cromosoma 20 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96068'>Trisomía del cromosoma 22 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1723'>Trisomía del cromosoma 2 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100071'>Trisomía del cromosoma 3 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96059'>Trisomía del cromosoma 4 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96060'>Trisomía del cromosoma 5 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1747'>Trisomía del cromosoma 7 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96061'>Trisomía del cromosoma 8 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99776'>Trisomía del cromosoma 9 en mosaico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1695'>Trisomía intersticial 10q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1702'>Trisomía intersticial 13q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96112'>Trisomía intersticial 9q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262776'>Trisomía parcial del brazo corto del cromosoma 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262785'>Trisomía parcial del brazo corto del cromosoma 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262794'>Trisomía parcial del brazo corto del cromosoma 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262803'>Trisomía parcial del brazo corto del cromosoma 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447985'>Trisomía parcial del brazo corto del cromosoma 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261318'>Trisomía parcial del brazo corto del cromosoma 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262707'>Trisomía parcial del brazo corto del cromosoma 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262716'>Trisomía parcial del brazo corto del cromosoma 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262740'>Trisomía parcial del brazo corto del cromosoma 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262749'>Trisomía parcial del brazo corto del cromosoma 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262758'>Trisomía parcial del brazo corto del cromosoma 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263775'>Trisomía parcial del brazo corto del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262833'>Trisomía parcial del brazo largo del cromosoma 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262914'>Trisomía parcial del brazo largo del cromosoma 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262923'>Trisomía parcial del brazo largo del cromosoma 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262932'>Trisomía parcial del brazo largo del cromosoma 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262941'>Trisomía parcial del brazo largo del cromosoma 14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262950'>Trisomía parcial del brazo largo del cromosoma 15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262959'>Trisomía parcial del brazo largo del cromosoma 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262968'>Trisomía parcial del brazo largo del cromosoma 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262977'>Trisomía parcial del brazo largo del cromosoma 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262986'>Trisomía parcial del brazo largo del cromosoma 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262842'>Trisomía parcial del brazo largo del cromosoma 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262995'>Trisomía parcial del brazo largo del cromosoma 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263004'>Trisomía parcial del brazo largo del cromosoma 22</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262860'>Trisomía parcial del brazo largo del cromosoma 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262869'>Trisomía parcial del brazo largo del cromosoma 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262878'>Trisomía parcial del brazo largo del cromosoma 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262887'>Trisomía parcial del brazo largo del cromosoma 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262896'>Trisomía parcial del brazo largo del cromosoma 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262905'>Trisomía parcial del brazo largo del cromosoma 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263783'>Trisomía parcial del brazo largo del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262191'>Trisomía parcial del cromosoma 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262648'>Trisomía parcial del cromosoma 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262776'>Trisomía parcial del cromosoma 10p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262914'>Trisomía parcial del cromosoma 10q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262653'>Trisomía parcial del cromosoma 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262785'>Trisomía parcial del cromosoma 11p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262923'>Trisomía parcial del cromosoma 11q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262932'>Trisomía parcial del cromosoma 13q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262941'>Trisomía parcial del cromosoma 14q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262950'>Trisomía parcial del cromosoma 15q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262672'>Trisomía parcial del cromosoma 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262794'>Trisomía parcial del cromosoma 16p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262959'>Trisomía parcial del cromosoma 16q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262677'>Trisomía parcial del cromosoma 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262803'>Trisomía parcial del cromosoma 17p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262968'>Trisomía parcial del cromosoma 17q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262977'>Trisomía parcial del cromosoma 18q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262687'>Trisomía parcial del cromosoma 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447985'>Trisomía parcial del cromosoma 19p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262986'>Trisomía parcial del cromosoma 19q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264431'>Trisomía parcial del cromosoma 1p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262833'>Trisomía parcial del cromosoma 1q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262196'>Trisomía parcial del cromosoma 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262692'>Trisomía parcial del cromosoma 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261318'>Trisomía parcial del cromosoma 20p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262995'>Trisomía parcial del cromosoma 20q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263004'>Trisomía parcial del cromosoma 22q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262698'>Trisomía parcial del cromosoma 2p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262842'>Trisomía parcial del cromosoma 2q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262201'>Trisomía parcial del cromosoma 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262707'>Trisomía parcial del cromosoma 3p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262851'>Trisomía parcial del cromosoma 3q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262206'>Trisomía parcial del cromosoma 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262716'>Trisomía parcial del cromosoma 4p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262860'>Trisomía parcial del cromosoma 4q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262869'>Trisomía parcial del cromosoma 5q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262628'>Trisomía parcial del cromosoma 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262740'>Trisomía parcial del cromosoma 6p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262878'>Trisomía parcial del cromosoma 6q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262633'>Trisomía parcial del cromosoma 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262749'>Trisomía parcial del cromosoma 7p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262887'>Trisomía parcial del cromosoma 7q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262638'>Trisomía parcial del cromosoma 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262758'>Trisomía parcial del cromosoma 8p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262896'>Trisomía parcial del cromosoma 8q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262767'>Trisomía parcial del cromosoma 9p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262905'>Trisomía parcial del cromosoma 9q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263768'>Trisomía parcial del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263775'>Trisomía parcial del cromosoma Xp</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263783'>Trisomía parcial del cromosoma Xq</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370079'>Trisomía proximal 16p11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96102'>Trisomía terminal 10q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96103'>Trisomía terminal 11q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96105'>Trisomía terminal 13q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1705'>Trisomía terminal 14q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1707'>Trisomía terminal 15q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96078'>Trisomía terminal 16p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96106'>Trisomía terminal 16q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3379'>Trisomía terminal 17q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1716'>Trisomía terminal 18q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1717'>Trisomía terminal 19q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96069'>Trisomía terminal 1p36</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96107'>Trisomía terminal 20q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96109'>Trisomía terminal 22q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261337'>Trisomía terminal 22q11.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96070'>Trisomía terminal 2p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96094'>Trisomía terminal 2q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96071'>Trisomía terminal 3p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96072'>Trisomía terminal 4p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96096'>Trisomía terminal 4q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96097'>Trisomía terminal 5q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1745'>Trisomía terminal 6p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96098'>Trisomía terminal 6q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96074'>Trisomía terminal 7p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261102'>Trisomía terminal 7q11.23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96100'>Trisomía terminal 8q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96101'>Trisomía terminal 9q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293939'>Trisomía terminal Xq29</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262658'>Trisomía/tetrasomía parcial del brazo corto del cromosoma 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262812'>Trisomía/tetrasomía parcial del brazo corto del cromosoma 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262725'>Trisomía/tetrasomía parcial del brazo corto del cromosoma 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262767'>Trisomía/tetrasomía parcial del brazo corto del cromosoma 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262658'>Trisomía / tetrasomía parcial del cromosoma 12p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262682'>Trisomía/tetrasomía parcial del cromosoma 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262812'>Trisomía / tetrasomía parcial del cromosoma 18p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262211'>Trisomía/tetrasomía parcial del cromosoma 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262725'>Trisomía / tetrasomía parcial del cromosoma 5p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=262643'>Trisomía/tetrasomía parcial del cromosoma 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98132'>Trisomía/tetrasomía parcial de los autosomas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98131'>Trisomía total de los autosomas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3375'>Trisomía X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217377'>Trisomía Xp11.22p11.23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261483'>Trisomía Xq27.3q28</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261483'>Trisomía Xq27.3-q28</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1762'>Trisomía Xq28</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88629'>Tritanopía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88629'>Tritanopía congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49827'>TRMA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=849'>Trombastenia de Glanzmann</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36258'>Tromboangitis obliterante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3318'>Trombocitemia esencial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=853'>Trombocitopenia aloinmune fetal y neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3319'>Trombocitopenia amegacariocítica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182050'>Trombocitopenia asociada a MYH9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71203'>Trombocitopenia autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168629'>Trombocitopenia autosómica con plaquetas normales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466806'>Trombocitopenia autosómica dominante con defecto de la secreción plaquetaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67044'>Trombocitopenia con anemia diseritropoyética congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329319'>Trombocitopenia con defectos distales de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477797'>Trombocitopenia constitucional aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477797'>Trombocitopenia constitucional no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477794'>Trombocitopenia constitucional sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477797'>Trombocitopenia constitucional sin manifestaciones extra-hematopoyéticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=851'>Trombocitopenia de Paris-Trousseau</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71493'>Trombocitopenia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71290'>Trombocitopenia familiar con propensión a leucemia mielógena aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71493'>Trombocitopenia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480851'>Trombocitopenia hereditaria con mielofibrosis de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268322'>Trombocitopenia hereditaria con plaquetas normales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3325'>Trombocitopenia inducida por heparina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3002'>Trombocitopenia inmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=852'>Trombocitopenia ligada al cromosoma X con plaquetas normales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3319'>Trombocitopenia púrpura amegacariocítica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182050'>Trombocitopenia sindrómica asociada a MYH9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3318'>Trombocitosis esencial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71493'>Trombocitosis familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329319'>Trombocitosis familiar con un defecto trasversal de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=745'>Trombofilia autosómica recesiva por deficiencia congénita de proteína C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=743'>Trombofilia autosómica recesiva por deficiencia congénita de proteína S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=745'>Trombofilia autosómica recesiva por deficiencia de PC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=745'>Trombofilia hereditaria grave por deficiencia congénita de proteína C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=743'>Trombofilia hereditaria grave por deficiencia congénita de proteína S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=82'>Trombofilia hereditaria por deficiencia congénita de antitrombina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=82'>Trombofilia hereditaria por deficiencia congénita de antitrombina 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217467'>Trombofilia hereditaria por deficiencia congénita de glicoproteína rica en histidina (poli-L)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217467'>Trombofilia hereditaria por deficiencia congénita de HRG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217454'>Trombofilia hereditaria rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3325'>Trombopenia inducida por heparina tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357131'>Trombosis de esfuerzo de la vena subclavia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329217'>Trombosis de los senos venosos cerebrales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=854'>Trombosis primitiva venosa portal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=854'>Trombosis venosa portal no cirrótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3384'>Tronco aórtico-pulmonar común</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3384'>Tronco arterial común</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3384'>Tronco arterioso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=983'>TRS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3384'>Truncus arteriosus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228379'>TS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=56970'>TSE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66627'>TSGCT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91347'>TSH-oma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289326'>TSP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36234'>TSS bacteriano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99919'>TSS por estafilococos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99918'>TSS por estreptococos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3389'>Tuberculosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=112'>Tubulopatía perdedora de sal tipo asa de Henle</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3392'>Tularemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423982'>Tumor apendicular epitelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289638'>Tumor asociado al EBV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289638'>Tumor asociado al virus de Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94'>Tumor astrocítico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180237'>Tumor benigno de la trompa de Falopio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252131'>Tumor benigno de vaina nerviosa periférica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97293'>Tumor benigno ovárico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101945'>Tumor broncopulmonar raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=875'>Tumor cardíaco del niño</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=271841'>Tumor cardíaco de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=875'>Tumor cardíaco primario pediátrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168194'>Tumor cardíaco raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213837'>Tumor cervical maligno de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213782'>Tumor cervical maligno mixto epitelial y mesenquimatoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157826'>Tumor congénito de células gingivales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157826'>Tumor congénito de células granulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79386'>Tumor cutáneo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329984'>Tumor de células caliciformes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98289'>Tumor de células dendríticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3399'>Tumor de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99913'>Tumor de células germinales no disgerminomatoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251995'>Tumor de células germinales primarias del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251995'>Tumor de células germinales primarias del SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=842'>Tumor de células germinales seminomatoso de los testículos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424080'>Tumor de células gigantes osteoclásticas de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66627'>Tumor de células gigantes tipo difuso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98287'>Tumor de células histiocíticas y dentríticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98282'>Tumor de células plasmáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=875'>Tumor de corazón del niño</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458768'>Tumor de Dabska</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370334'>Tumor de Ewing extraesquelético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370334'>Tumor de Ewing extraóseo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199260'>Tumor de Keasby</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99978'>Tumor de Klatskin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=304055'>Tumor de la hipófisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183487'>Tumor de la piel de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182130'>Tumor de las glándulas endocrinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252025'>Tumor de las meninges</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391651'>Tumor del cuerpo carotídeo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391651'>Tumor del glomus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252057'>Tumor de los nervios craneales y espinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363472'>Tumor de los testículos y paratestículos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251919'>Tumor del parénquima pineal de diferenciación intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251896'>Tumor del plexo coroideo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252006'>Tumor del saco vitelino del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252006'>Tumor del saco vitelino del SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252006'>Tumor del seno endodérmico del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252006'>Tumor del seno endodérmico del SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100100'>Tumor del timo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=271835'>Tumor del tracto digestivo de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98288'>Tumor de macrófagos o histiocíticos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180253'>Tumor de mama benigno raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180250'>Tumor de mama raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157826'>Tumor de Neumann</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100090'>Tumor de paratiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199267'>Tumor de Reye</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=876'>Tumor de saco vitelino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=876'>Tumor de seno endodérmico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=873'>Tumor desmoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83469'>Tumor desmoplásico de células pequeñas y redondas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=271832'>Tumor de tejidos blandos de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71209'>Tumor de tejidos blandos raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100087'>Tumor de tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=654'>Tumor de Wilms</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97282'>Tumor diarreogénico de las células de los islotes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98059'>Tumor digestivo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99912'>Tumor disgerminomatoso maligno de células germinales de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231632'>Tumor ectópico productor de aldosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251852'>Tumor embrionario del tejido neuroepitelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276148'>Tumor epitelial benigno de las glándulas salivales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423982'>Tumor epitelial de apéndice</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424010'>Tumor epitelial del canal anal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63443'>Tumor epitelial gástrico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276145'>Tumor epitelial maligno de las glándulas salivales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398934'>Tumor epitelial maligno de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180247'>Tumor epitelial maligno de vagina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263310'>Tumor epitelial primario tímica tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263324'>Tumor epitelial primario tímica tipo AB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263317'>Tumor epitelial primario tímica tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423991'>Tumor epitelial raro de colon</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63443'>Tumor epitelial raro de estómago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424933'>Tumor epitelial raro de hígado y VBI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424933'>Tumor epitelial raro de hígado y vías biliares intrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=425368'>Tumor epitelial raro de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424033'>Tumor epitelial raro de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423998'>Tumor epitelial raro de recto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3398'>Tumor epitelial tímico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99867'>Tumor epitelial tímico primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68347'>Tumores de tejidos hematopoyéticos y linfoides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50944'>Tumores ecrinos-displasia ectodérmica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363579'>Tumores extragonadales de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83454'>Tumores glómicos múltiples</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363582'>Tumores gonadales de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=44890'>Tumor estromal gastrointestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35808'>Tumor estromal maligno de los cordones sexuales ováricos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231632'>Tumor extrasuprarrenal productor de aldosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199267'>Tumor fibroso digital recurrente de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2126'>Tumor fibroso solitario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180261'>Tumor filoide de la mama</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498228'>Tumor filoides de la próstata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180821'>Tumor gastroesofágico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=322126'>Tumor genético de tejidos hematopoyéticos y linfoides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363504'>Tumor germinal de los testículos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363494'>Tumor germinal no disgerminomatoso de los testículos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363494'>Tumor germinal no seminomatoso de los testículos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183734'>Tumor ginecológico de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98063'>Tumor ginecológico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182067'>Tumor glial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251668'>Tumor glial del tejido neuroepitelial de origen desconocido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251962'>Tumor glioneural papilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251975'>Tumor glioneuronal formador de rosetas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158019'>Tumor indeterminado de células dendríticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289635'>Tumor inducido por un virus raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284362'>Tumor intersticial del pulmón fetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284362'>Tumor intersticial mesenquimal inmaduro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=104011'>Tumor intestinal raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252006'>Tumor intracraneal del saco vitelino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252006'>Tumor intracraneal del seno endodérmico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319667'>Tumor linfoide primario de la conjuntiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99971'>Tumor lipomatoso atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213761'>Tumor maligno cervical raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99915'>Tumor maligno de células de la granulosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99915'>Tumor maligno de células de la granulosa de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213837'>Tumor maligno de células germinales de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213751'>Tumor maligno de células germinales de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206489'>Tumor maligno de células germinales de vagina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206538'>Tumor maligno de células germinales no disgerminomatoso de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99916'>Tumor maligno de las células de Sertoli-Leydig de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99917'>Tumor maligno de las células esteroideas del ovario, sin especificar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180242'>Tumor maligno de las trompas de Falopio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3148'>Tumor maligno de la vaina nerviosa periférica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35808'>Tumor maligno del estroma de los cordones sexuales de los ovarios</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398043'>Tumor maligno del pene</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213500'>Tumor maligno de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35807'>Tumor maligno de ovario de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213517'>Tumor maligno de ovario, forma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3394'>Tumor maligno de tejidos blandos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180242'>Tumor maligno de trompas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252128'>Tumor maligno de vaina de nervio periférico con diferenciación perineural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252212'>Tumor maligno de vaina nerviosa periférica con diferenciación rabdomiosarcomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213782'>Tumor maligno mixto epitelial y mesenquimatoso de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213589'>Tumor maligno mixto epitelial y mesenquimatoso de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35807'>Tumor maligno ovárico de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213761'>Tumor maligno raro de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213569'>Tumor maligno raro de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180257'>Tumor maligno raro de mama</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213564'>Tumor maligno raro de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213564'>Tumor maligno uterino raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252028'>Tumor melanocítico primario del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289656'>Tumor mesenquimal asociado al EBV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289656'>Tumor mesenquimal asociado al virus de Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423798'>Tumor mesenquimal de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=271832'>Tumor mesenquimal genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3394'>Tumor mesenquimal maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213797'>Tumor mesenquimatoso maligno cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213797'>Tumor mesenquimatoso maligno de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464359'>Tumor metanéfrico benigno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86850'>Tumor mieloide extramedular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178342'>Tumor miofibroblástico inflamatorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180234'>Tumor mixto de celulas germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252021'>Tumor mixto de células germinales del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251934'>Tumor mixto glioneuronal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251651'>Tumor mixto oligodendroglial y astrocitario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213787'>Tumor mülleriano mixto maligno cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213787'>Tumor mülleriano mixto maligno del cuello uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213610'>Tumor mülleriano mixto maligno del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213512'>Tumor mülleriano mixto maligno de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206982'>Tumor muscular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213812'>Tumor neuroectodérmico periférico maligno cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213630'>Tumor neuroectodérmico periférico maligno del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213812'>Tumor neuroectodérmico primitivo del cuello uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213630'>Tumor neuroectodérmico primitivo del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251870'>Tumor neuroectodérmico primitivo del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370348'>Tumor neuroectodérmico primitivo periférico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=877'>Tumor neuroendocrino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329977'>Tumor neuroendocrino apendicular clásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213736'>Tumor neuroendocrino bien diferenciado del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213736'>Tumor neuroendocrino bien diferenciado del endometrio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97287'>Tumor neuroendocrino bronquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329977'>Tumor neuroendocrino clásico del apéndice</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100101'>Tumor neuroendocrino con otra localización</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100080'>Tumor neuroendocrino de colon</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100075'>Tumor neuroendocrino de estómago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423975'>Tumor neuroendocrino de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100083'>Tumor neuroendocrino de laringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100086'>Tumor neuroendocrino de la vesícula biliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100082'>Tumor neuroendocrino del canal anal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100076'>Tumor neuroendocrino del duodeno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100084'>Tumor neuroendocrino del oído medio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97253'>Tumor neuroendocrino del páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506060'>Tumor neuroendocrino de páncreas funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506075'>Tumor neuroendocrino de páncreas no funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506090'>Tumor neuroendocrino de páncreas productor de serotonina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100081'>Tumor neuroendocrino de recto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100075'>Tumor neuroendocrino gástrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464756'>Tumor neuroendocrino gástrico familiar tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=271847'>Tumor neuroendocrino genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=456333'>Tumor neuroendocrino hereditario del intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100078'>Tumor neuroendocrino ileal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97253'>Tumor neuroendocrino pancreático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506060'>Tumor neuroendocrino pancreático funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506075'>Tumor neuroendocrino pancreático no funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=506090'>Tumor neuroendocrino pancreático productor de serotonina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100081'>Tumor neuroendocrino rectal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97289'>Tumor neuroendocrino tímico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100077'>Tumor neuroendocrino yeyunal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251946'>Tumor neuroepitelial disembrioplásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251924'>Tumor neuronal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398940'>Tumor no epitelial maligno de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183619'>Tumor ocular de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447777'>Tumor odontogénico queratoquístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314425'>Tumor odontológico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251651'>Tumor oligoastrocitario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46484'>Tumor oligodendroglial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363976'>Tumor óseo de células gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68411'>Tumor óseo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183527'>Tumor óseo raro de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98061'>Tumor otorrinolaringológico raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206473'>Tumor ovárico de bajo potencial maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206473'>Tumor ovárico epitelial borderline</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398934'>Tumor ovárico epitelial maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99916'>Tumor ovárico maligno de células de Sertoli-Leydig</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213512'>Tumor ovárico maligno mixto epitelial y mesenquimatoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213512'>Tumor ovárico mülleriano mixto maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398940'>Tumor ovárico no epitelial maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99916'>Tumor ovárico virilizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98593'>Tumor palpebral neurogénico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424080'>Tumor pancreático de células gigantes osteoclásticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424033'>Tumor pancreático epitelial raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180824'>Tumor pancreático raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251915'>Tumor papilar de la región pineal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251905'>Tumor pineal de tejido neuroepitelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100094'>Tumor poliglandular múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168803'>Tumor primario peritoneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168807'>Tumor primario peritoneal maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69077'>Tumor rabdoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231108'>Tumor rabdoide familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69077'>Tumor rabdoide maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98057'>Tumor raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=290849'>Tumor raro de cabeza y cuello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306636'>Tumor raro de hígado y VBI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306636'>Tumor raro de hígado y vías biliares intrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=104011'>Tumor raro de intestino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423793'>Tumor raro de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276142'>Tumor raro de las glándulas salivales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300515'>Tumor raro de las uñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180220'>Tumor raro de los anexos uterinos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252057'>Tumor raro de los nervios craneales y espinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180220'>Tumor raro de los ovarios y las trompas de Falopio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98062'>Tumor raro del sistema nervioso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251558'>Tumor raro del tejido neuroepitelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98058'>Tumor raro del tracto urinario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68336'>Tumor raro de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180824'>Tumor raro de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306633'>Tumor raro de vesícula y VBE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306633'>Tumor raro de vesícula y vías biliares extrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101943'>Tumor raro hepático y del tracto biliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101950'>Tumor raro ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180312'>Tumor raro vulvovaginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423998'>Tumor rectal epitelial raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=654'>Tumor renal embrionario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183595'>Tumor renal genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93619'>Tumor renal raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98060'>Tumor respiratorio raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353356'>Tumor retiniano vasoproliferativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99889'>Tumor secretor de ACTH ectópico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=717'>Tumor secretor de catecolaminas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97282'>Tumor secretor de VIP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209019'>Tumor sólido asociado con una neuropatía periférica adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100091'>Tumor suprarrenal/paraganglial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=66627'>Tumor tenosinovial de células gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99966'>Tumor teratoideo rabdoide atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=842'>Tumor testicular de células germinales seminomatoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363489'>Tumor testicular de los cordones sexuales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363504'>Tumor testicular germinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363494'>Tumor testicular germinal no disgerminomatoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363494'>Tumor testicular germinal no seminomatoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363472'>Tumor testicular y paratesticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252212'>Tumor tritón maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99928'>Tumor trofoblástico del sitio placentario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254698'>Tumor trofoblástico epitelioide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=271844'>Tumor urogenital de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182114'>Tumor urogenital raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206489'>Tumor vaginal de células germinales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458827'>Tumor vascular con anomalías asociadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459543'>Tumor vascular genético raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211237'>Tumor vascular raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353356'>Tumor vasoproliferativo de la retina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353356'>Tumor vasoproliferativo del fondo de ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137583'>Tumor vulvar intraepitelial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99070'>Tunel aorto-ventricular derecho</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99071'>Tunel aorto-ventricular izquierdo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3400'>Túnel ventrículo izquierdo-aorta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=879'>Tungosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63440'>Turricefalia</a></li>

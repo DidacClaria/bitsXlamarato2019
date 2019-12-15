@@ -1,0 +1,470 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=724'>IAEP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293168'>IAHSP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=611'>IBM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>IBM2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79091'>IBM3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52430'>IBMPFD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=225147'>IBSN esporádica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=225154'>IBSN familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281097'>ICAR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529799'>Ictericia aguda nuclear</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276405'>Ictericia verde</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79354'>Ictiosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454'>Ictiosis adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=312'>Ictiosis ampollosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=455'>Ictiosis ampollosa de Siemens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457'>Ictiosis arlequín</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=312'>Ictiosis bullosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=455'>Ictiosis bullosa de Siemens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281097'>Ictiosis congénita autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352333'>Ictiosis congénita-discapacidad intelectual-tetraplejía espástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2271'>Ictiosis congénita-microcefalia-cuadriplejía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88621'>Ictiosis congénita tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457'>Ictiosis congénita tipo arlequín</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100976'>Ictiosis del área del traje de baño</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281190'>Ictiosis en confeti</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281139'>Ictiosis epidermolítica anular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=312'>Ictiosis epidermolítica autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512103'>Ictiosis epidermolítica autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=455'>Ictiosis epidermolítica superficial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79394'>Ictiosis eritrodérmica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289586'>Ictiosis exfoliante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289586'>Ictiosis exfoliante autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289586'>Ictiosis exfoliativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457'>Ictiosis fetal tipo arlequín</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2273'>Ictiosis folicular-atriquia-fotofobia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183435'>Ictiosis genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183435'>Ictiosis hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281082'>Ictiosis hereditaria no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281085'>Ictiosis hereditaria sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79503'>Ictiosis histrix de Curth-Macklin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79503'>Ictiosis histrix tipo Curth-Macklin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=312'>Ictiosis hystrix tipo Brocq</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477'>Ictiosis hystrix tipo Rheydt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313'>Ictiosis lamelar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313'>Ictiosis lamelar clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313'>Ictiosis lamelar congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313'>Ictiosis laminar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=461'>Ictiosis ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281090'>Ictiosis ligada al cromosoma X sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281103'>Ictiosis queratinopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=461'>Ictiosis recesiva ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281090'>Ictiosis sindrómica recesiva ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281190'>Ictiosis variegata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231154'>IDC con expasión de células T gamma delta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183660'>IDCG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33355'>IDCG con leucopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331206'>IDCG por deficiencia completa de RAG1/2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>IDCG por deficiencia de ARTEMIS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357237'>IDCG por deficiencia de CARD11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228003'>IDCG por deficiencia de CORO-1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228003'>IDCG por deficiencia de coronina-1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420573'>IDCG por deficiencia de CTPS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>IDCG por deficiencia de DCLRE1C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317425'>IDCG por deficiencia de DNA-PKcs</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397787'>IDCG por deficiencia de IKK2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280142'>IDCG por deficiencia de la proteína tirosina quinasa específica de linfocitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504523'>IDCG por deficiencia de LAT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280142'>IDCG por deficiencia de LCK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317416'>IDCG T-B+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317419'>IDCG T-B-</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169160'>IDCG T-B+ por CD3delta/CD3epsilon/CD3zeta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276'>IDCG T-B+ por deficiencia de cadena gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169157'>IDCG T-B+ por deficiencia de CD45</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169154'>IDCG T-B+ por deficiencia de IL-7Ralpha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35078'>IDCG T-B+ por deficiencia de JAK3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>IDCG tipo Athabascan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>IDCG tipo Athabaskan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=505227'>IDC por deficiencia de GINS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317473'>IDC por deficiencia de IKAROS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=445018'>IDC por deficiencia de LRBA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504530'>IDC por deficiencia de moesina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443811'>IDC por deficiencia de PGM3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=476113'>IDC por deficiencia de TFRC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231154'>IDC por deficiencia parcial de RAG1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289347'>IDH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363300'>IDI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3306'>idic(15)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=558411'>Idiopathic gastroparesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280384'>IDMDC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=92050'>IED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329874'>IGCM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79099'>IGDA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=631'>IGHD congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231662'>IGHD congénito tipo IA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231671'>IGHD congénito tipo IB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231679'>IGHD congénito tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231692'>IGHD congénito tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231692'>IGHD ligado al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364013'>IHF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86908'>IHHS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91132'>IHS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=59303'>IHSC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238624'>IIH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313'>IL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182095'>ILD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264992'>ILD genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100049'>ILD primaria específica de la infancia por anomalías de las proteinas surfactantes pulmonares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314376'>Íleo meconial por deficiencia de guanilato-ciclasa 2C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247718'>IMAM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=42062'>Iminoglicinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98482'>IMM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=456312'>IMNEPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206569'>IMNM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36237'>Impétigo bulloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35069'>INAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35069'>INAD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211047'>Incapacidad específica de aprendizaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79263'>INCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2291'>Incompetencia velofaríngea congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464'>Incontinencia pigmentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2292'>Incurvación congénita de huesos largos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324307'>Incurvación lateral grave de la tibia con talla baja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217399'>Indiferencia congénita al dolor con hiperhidrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2268'>Inestabilidad centromérica-imunodeficiencia-dismorfia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565788'>Infantile inflammatory bowel disease with neurological involvement</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293'>Infección congénita por el virus del herpes simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=292'>Infección congénita por enterovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70596'>Infección congénita por VEB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70596'>Infección congénita por virus Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183713'>Infecciones bacterianas piógenas por deficiencia de MyD88</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90078'>Infecciones invasivas provocadas por enterococos resistentes a vancomicina (ERV)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217080'>Infecciones pulmonares fúngicas en pacientes considerados en riesgo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183675'>Infecciones recurrentes asociadas a una deficiencia rara de isotipos de inmunoglobulinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169467'>Infecciones recurrentes de Neisseria por deficiencia de factor D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169142'>Infecciones recurrentes por deficiencia de gránulos específicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275517'>Infecciones virales recurrentes con ALPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=438279'>Infección humana por orthopoxvirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35062'>Infección idiopática diseminada por citomegalovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35062'>Infección idiopática diseminada por CMV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=748'>Infección idiopática por BCG o micobacterias atípicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440368'>Infección necrosante de tejidos blandos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91127'>Infección por adenovirus en pacientes inmunocomprometidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228123'>Infección por Coccidioides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=781'>Infección por Coxiella burnetii</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1685'>Infección por duelas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284'>Infección por Echinococcus multilocularis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448237'>Infección por el virus de Zika</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324632'>Infección por el virus Hendra</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228119'>Infección por Fusarium</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102024'>Infección por herpesvirus humano 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=533'>Infección por listeria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314946'>Infección por Mycobacterium xenopi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1685'>Infección por tremátodos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=78'>Infección por uncinarias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99828'>Infección por virus del dengue</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294'>Infección prenatal por citomegalovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294'>Infección prenatal por CMV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=291'>Infección prenatal por el virus de la varicela</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293'>Infección prenatal por el virus del herpes simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=292'>Infección prenatal por enterovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295'>Infección prenatal por parvovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70596'>Infección prenatal por VEB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70596'>Infección prenatal por virus Epstein-Barr</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411703'>Infección pulmonar por micobacterias no tuberculosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140896'>Infección respiratoria aguda por coronavirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488191'>Infertilidad femenina por arresto meiótico del ovocito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404466'>Infertilidad femenina por un defecto de la zona pelúcida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400025'>Infertilidad femenina por un defecto en la implantación de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98049'>Infertilidad femenina rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400008'>Infertilidad femenina rara genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399877'>Infertilidad femenina rara por disgenesia gonadal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399877'>Infertilidad femenina rara por disgenesia ovárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399839'>Infertilidad femenina rara por hipogonadismo hipogonadotrópico congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399853'>Infertilidad femenina rara por una anomalía de la función ovárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400022'>Infertilidad femenina rara por una anomalía de la función ovárica de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404469'>Infertilidad femenina rara por un defecto de maduración de los ovocitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399882'>Infertilidad femenina rara por un defecto en la implantación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399831'>Infertilidad femenina rara por un trastorno del eje gonadotrópico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400011'>Infertilidad femenina rara por un trastorno del eje gonadotrópico de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399831'>Infertilidad femenina rara por un trastorno del eje hipotalámico-hipofisario-gonadal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400011'>Infertilidad femenina rara por un trastorno del eje hipotalámico-hipofisario-gonadal de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399831'>Infertilidad femenina rara por un trastorno del eje hipotalámico-hipofisario-testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400011'>Infertilidad femenina rara por un trastorno del eje hipotalámico-hipofisario-testicular de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399849'>Infertilidad femenina rara por un trastorno suprarrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400018'>Infertilidad femenina rara por un trastorno suprarrenal de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275742'>Infertilidad genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399805'>Infertilidad masculina con azoospermia o oligozoospermia por una única mutación genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399808'>Infertilidad masculina con teratozoospermia por una única mutación genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399775'>Infertilidad masculina con un trastorno de la espermatogénesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399786'>Infertilidad masculina con un trastorno de la espermatogénesis por una única mutación genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98345'>Infertilidad masculina idiopática rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276234'>Infertilidad masculina no sindrómica por astenozoospermia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276234'>Infertilidad masculina no sindrómica por un trastorno de motilidad del esperma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399813'>Infertilidad masculina por astenozoospermia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98343'>Infertilidad masculina por azoospermia obstructiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399998'>Infertilidad masculina por azoospermia obstructiva de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98313'>Infertilidad masculina por disgenesia gonadal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399764'>Infertilidad masculina por disgenesia gonadal o un trastorno del esperma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98313'>Infertilidad masculina por disgenesia testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399764'>Infertilidad masculina por disgenesia testicular o un trastorno del esperma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529970'>Infertilidad masculina por espermatozoides acefálicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171709'>Infertilidad masculina por espermatozoides de cabeza redonda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137893'>Infertilidad masculina por espermatozoides poliploides multiflagelados con cabeza grande</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171709'>Infertilidad masculina por globozoospermia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137893'>Infertilidad masculina por macrozoospermia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98343'>Infertilidad masculina por problemas en el transporte del esperma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399998'>Infertilidad masculina por problemas en el transporte del esperma de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399771'>Infertilidad masculina por un trastorno del esperma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399813'>Infertilidad masculina por un trastorno de motilidad del esperma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98048'>Infertilidad masculina rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399980'>Infertilidad masculina rara genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399572'>Infertilidad masculina rara por un trastorno del eje gonadotrópico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399983'>Infertilidad masculina rara por un trastorno del eje gonadotrópico de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399572'>Infertilidad masculina rara por un trastorno del eje hipotalámico-hipofisario-gonadal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399983'>Infertilidad masculina rara por un trastorno del eje hipotalámico-hipofisario-gonadal de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399572'>Infertilidad masculina rara por un trastorno del eje hipotalámico-hipofisario-testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399983'>Infertilidad masculina rara por un trastorno del eje hipotalámico-hipofisario-testicular de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399685'>Infertilidad masculina rara por un trastorno endocrino testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399584'>Infertilidad masculina rara por un trastorno suprarrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=399994'>Infertilidad masculina rara por un trastorno suprarrenal de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98047'>Infertilidad rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33314'>Infiltración linfocítica cutánea de Jessner</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33314'>Infiltración linfocítica cutánea de Jessner-Kanof</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33314'>Infiltración linfocítica cutánea de Jessner-Kanof</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284448'>Inflamación linfocítica crónica con mejora perivascular pontina sensible a esteroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238305'>Infundibulo-neurohipofisitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252190'>Inherited nervous system cancer-predisposing syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63259'>Iniencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268363'>Iniencefalia abierta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268366'>Iniencefalia cerrada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=310050'>Inmunodeficiencia adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306431'>Inmunodeficiencia adquirida de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306431'>Inmunodeficiencia adquirida de inicio en el adulto con autoanticuerpos anti-interferón-gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98290'>Inmunodeficiencia asociada a enfermedad linfoproliferativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306550'>Inmunodeficiencia asociada a FADD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444463'>Inmunodeficiencia asociada a TPPII, autoinmunidad, y retraso del neurodesarrollo con alteración de la expansión lisosomal y de la glucólisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504530'>Inmunodeficiencia combinada asociada a MSN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=476113'>Inmunodeficiencia combinada asociada a TFRC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431149'>Inmunodeficiencia combinada con alteración de la inmunidad al VHH-8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431149'>Inmunodeficiencia combinada con alteración de la inmunidad al virus herpes humano 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431149'>Inmunodeficiencia combinada con alteración de la inmunidad por HHV-8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431149'>Inmunodeficiencia combinada con alteración de la inmunidad por virus del herpes humano 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221139'>Inmunodeficiencia combinada con anomalías facio-óculo-esqueléticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231154'>Inmunodeficiencia combinada con expasión de células T gamma delta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157949'>Inmunodeficiencia combinada con granulomatosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=39041'>Inmunodeficiencia combinada con hipereosinofilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=505227'>Inmunodeficiencia combinada con retraso del crecimiento intrauterino-deficiencia de células natural killer-neutropenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=505227'>Inmunodeficiencia combinada con retraso del crecimiento intrauterino-deficiencia de células NK-neutropenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431149'>Inmunodeficiencia combinada con sarcoma de Kaposi de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228423'>Inmunodeficiencia combinada con susceptibilidad a infecciones por micobacterias, virus y hongos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101972'>Inmunodeficiencia combinada de células B y T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183660'>Inmunodeficiencia combinada grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33355'>Inmunodeficiencia combinada grave con leucopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331206'>Inmunodeficiencia combinada grave por deficiencia completa de RAG1/2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=277'>Inmunodeficiencia combinada grave por deficiencia de adenosina desaminasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>Inmunodeficiencia combinada grave por deficiencia de ARTEMIS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357237'>Inmunodeficiencia combinada grave por deficiencia de CARD11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542301'>Inmunodeficiencia combinada grave por deficiencia de CARMIL2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538958'>Inmunodeficiencia combinada grave por deficiencia de CD70</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228003'>Inmunodeficiencia combinada grave por deficiencia de CORO1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228003'>Inmunodeficiencia combinada grave por deficiencia de coronina-1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>Inmunodeficiencia combinada grave por deficiencia de DCLRE1C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317425'>Inmunodeficiencia combinada grave por deficiencia de DNA-PKcs</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=505227'>Inmunodeficiencia combinada grave por deficiencia de GINS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397787'>Inmunodeficiencia combinada grave por deficiencia de IKK2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280142'>Inmunodeficiencia combinada grave por deficiencia de la proteína tirosina quinasa específica de linfocitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504523'>Inmunodeficiencia combinada grave por deficiencia de LAT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280142'>Inmunodeficiencia combinada grave por deficiencia de LCK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542301'>Inmunodeficiencia combinada grave por deficiencia de RLTPR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317416'>Inmunodeficiencia combinada grave T-B+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317419'>Inmunodeficiencia combinada grave T-B-</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397802'>Inmunodeficiencia combinada grave T+ B+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276'>Inmunodeficiencia combinada grave T-B+ ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169160'>Inmunodeficiencia combinada grave T-B+ por CD3delta/CD3epsilon/CD3zeta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276'>Inmunodeficiencia combinada grave T-B+ por deficiencia de cadena gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169157'>Inmunodeficiencia combinada grave T-B+ por deficiencia de CD45</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169154'>Inmunodeficiencia combinada grave T-B+ por deficiencia de IL-7Ralpha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35078'>Inmunodeficiencia combinada grave T-B+ por deficiencia de JAK3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>Inmunodeficiencia combinada grave tipo Athabascan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>Inmunodeficiencia combinada grave tipo Athabaskan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420573'>Inmunodeficiencia combinada grave una deficiencia de CTPS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169079'>Inmunodeficiencia combinada-microcefalia-retraso del crecimiento-sensibilidad a la radiación ionizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480549'>Inmunodeficiencia combinada no grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169082'>Inmunodeficiencia combinada por deficiencia de CD3gamma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217390'>Inmunodeficiencia combinada por deficiencia de dedicador de la proteina citocinesis 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217390'>Inmunodeficiencia combinada por deficiencia de DOCK8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317473'>Inmunodeficiencia combinada por deficiencia de IKAROS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357329'>Inmunodeficiencia combinada por deficiencia de IL21R</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538963'>Inmunodeficiencia combinada por deficiencia de ITK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=445018'>Inmunodeficiencia combinada por deficiencia de LRBA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317476'>Inmunodeficiencia combinada por deficiencia de MAGT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397964'>Inmunodeficiencia combinada por deficiencia de MALT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504530'>Inmunodeficiencia combinada por deficiencia de moesina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317428'>Inmunodeficiencia combinada por deficiencia de ORAI1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431149'>Inmunodeficiencia combinada por deficiencia de OX40</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443811'>Inmunodeficiencia combinada por deficiencia de PGM3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157949'>Inmunodeficiencia combinada por deficiencia de RAG 1/2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317430'>Inmunodeficiencia combinada por deficiencia de STIM1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314689'>Inmunodeficiencia combinada por deficiencia de STK4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=476113'>Inmunodeficiencia combinada por deficiencia de TFRC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=911'>Inmunodeficiencia combinada por deficiencia de ZAP70</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231154'>Inmunodeficiencia combinada por deficiencia parcial de RAG1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169090'>Inmunodeficiencia combinada por disfunción en el canal CRAC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1572'>Inmunodeficiencia común variable</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79391'>Inmunodeficiencia con afectación cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=200418'>Inmunodeficiencia con anomalía del factor I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306431'>Inmunodeficiencia con autoanticuerpos anti-interferón-gamma de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331232'>Inmunodeficiencia con isotipo o deficiencias de cadena ligera con número normal de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331240'>Inmunodeficiencia con reducción grave de IgG e IgA en suero con IgM normal/elevado y número normal de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324294'>Inmunodeficiencia de células T con epidermodisplasia verruciforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324294'>Inmunodeficiencia de células T por deficiencia de RHOH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183494'>Inmunodeficiencia genética con afectación cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=504530'>Inmunodeficiencia ligada al cromosoma X asociada a moesina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317476'>Inmunodeficiencia ligada al cromosoma X con defectos del magnesio, infección por virus de Epstein-Barr y neoplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=647'>Inmunodeficiencia-microcefalia-inestabilidad cromosómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101992'>Inmunodeficiencia por anomalía en la cascada del complemento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83471'>Inmunodeficiencia por ausencia de timo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169100'>Inmunodeficiencia por deficiencia de CD25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169147'>Inmunodeficiencia por deficiencia de componentes precoces del complemento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331190'>Inmunodeficiencia por deficiencia de ficolina3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=200421'>Inmunodeficiencia por deficiencia del factor H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169147'>Inmunodeficiencia por deficiencia de los componentes C1, C4 o C2 del complemento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169150'>Inmunodeficiencia por deficiencia de los componentes C5 a C9 del complemento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331187'>Inmunodeficiencia por deficiencia de MASP-2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101977'>Inmunodeficiencia por deficiencia de producción de anticuerpos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70592'>Inmunodeficiencia por deficiencia de quinasa-4 asociado al receptor de interleuquina-1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459345'>Inmunodeficiencia por deficiencia de un componente de la cascada del complemento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169147'>Inmunodeficiencia por deficiencia de un componente de la vía clásica del complemento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169150'>Inmunodeficiencia por deficiencia de un componente tardío del complemento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70593'>Inmunodeficiencia por deficiencia selectiva de anticuerpos anti-polisacáridos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34592'>Inmunodeficiencia por expresión deficiente del CMH de clase I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=572'>Inmunodeficiencia por expresión deficiente del CMH de clase II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=331220'>Inmunodeficiencia por la ausencia del timo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459348'>Inmunodeficiencia por una deficiencia reguladora del complemento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101997'>Inmunodeficiencia primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=437552'>Inmunodeficiencia primaria autosómica recesiva con citotoxicidad espontánea de las células NK defectuosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=437552'>Inmunodeficiencia primaria autosómica recesiva con un defecto de la citotoxicidad espontánea de células natural killer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=437552'>Inmunodeficiencia primaria autosómica recesiva con un defecto de la citotoxicidad espontánea de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477857'>Inmunodeficiencia primaria autosómica recesiva por una mutación en RORC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75391'>Inmunodeficiencia primaria con deficiencia de células natural-killer e insuficiencia suprarrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431166'>Inmunodeficiencia primaria con infección viral post-SPR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431166'>Inmunodeficiencia primaria con infección viral post- vacunación sarampión-paperas-rubéola</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447731'>Inmunodeficiencia primaria con inmunidad linfocitaria aberrante multifacética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=431156'>Inmunodeficiencia primaria con predisposición a infección viral grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179006'>Inmunodeficiencia primaria por defecto en la inmunidad adaptativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75391'>Inmunodeficiencia primaria por deficiencia en MCM4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101988'>Inmunodeficiencia primaria por un defecto en la inmunidad innata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=633'>Insensibilidad completa a la hormona del crecimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275'>Insensibilidad congénita al dolor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88642'>Insensibilidad congénita al dolor asociada a canalopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=453510'>Insensibilidad congénita al dolor con discapacidad intelectual grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217399'>Insensibilidad congénita al dolor con hiperhidrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391397'>Insensibilidad congénita al dolor con hiperhidrosis y disfunción gastrointestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=453510'>Insensibilidad congénita al dolor con preservación de la sensación térmica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=453510'>Insensibilidad congénita al dolor con retraso cognitivo grave no progresivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64752'>Insensibilidad congénita al dolor y analgesia térmica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=633'>Insensibilidad primaria a la GH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=633'>Insensibilidad primaria a la hormona del crecimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466'>Insomnio familiar fatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95409'>Insuficiencia adrenocortical aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466784'>Insuficiencia cardiopulmonar grave neonatal por un defecto de la metilación mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443084'>Insuficiencia del reflejo barorreceptor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90062'>Insuficiencia hepática aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90062'>Insuficiencia hepática fulminante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217371'>Insuficiencia hepática infantil aguda por un defecto de síntesis de las proteínas codificadas por el ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217371'>Insuficiencia hepática infantil aguda por un defecto de síntesis de las proteínas codificadas por el ADNmt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294422'>Insuficiencia intestinal crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95709'>Insuficiencia ovárica precoz adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95710'>Insuficiencia ovárica precoz no adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=811'>Insuficiencia pancreática y disfunción de la médula ósea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439167'>Insuficiencia placentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95409'>Insuficiencia suprarrenal aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101959'>Insuficiencia suprarrenal crónica primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289548'>Insuficiencia suprarrenal hereditaria aislada por deficiencia de CYP11A1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101958'>Insuficiencia suprarrenal primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101963'>Insuficiencia suprarrenal primaria crónica adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101960'>Insuficiencia suprarrenal primaria crónica genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439167'>Insuficiencia vascular uteroplacentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263352'>Insuficiencia ventricular derecha postcardiotomía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95464'>Insuficiencia y/o estenosis valvular mitral congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97279'>Insulinoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397973'>Intellectual disability-obesity-prognathism-eye and skin anomalies syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477647'>Interferonopatía tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=481671'>Interferonopatía tipo 1 de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2299'>Interrupción del arco aótico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99123'>Interrupción de la VCI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99121'>Interrupción de la VCI con continuación por la vena ácigos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99123'>Interrupción de la vena cava inferior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99123'>Interrupción de la vena cava inferior sin continuación por la vena ácigos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90647'>Intervalo QT largo-sordera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306436'>Intolerancia a disacáridos con intolerancia al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306474'>Intolerancia a disacáridos con intolerancia al almidón y a la lactosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306446'>Intolerancia a disacáridos con tolerancia mínima al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306462'>Intolerancia a disacáridos sin intolerancia al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306486'>Intolerancia a disacáridos sin intolerancia a la sacarosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=103909'>Intolerancia aislada a la trehalosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=103909'>Intolerancia a la trehalosa aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254843'>Intolerancia al ejercicio con acidosis láctica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35122'>Intolerancia a los disacáridos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35122'>Intolerancia congénita a la sacarosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306436'>Intolerancia congénita a la sacarosa con intolerancia al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306474'>Intolerancia congénita a la sacarosa con intolerancia al almidón y a la lactosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306446'>Intolerancia congénita a la sacarosa con tolerancia mínima al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306462'>Intolerancia congénita a la sacarosa sin intolerancia al almidón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306486'>Intolerancia congénita a la sacarosa sin intolerancia a la sacarosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=469'>Intolerancia hereditaria a la fructosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443236'>Intolerancia ortostática por deficiencia de NET</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=43117'>Intoxicación aguda por antidepresivos tricíclicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73423'>Intoxicación aguda por Blighia sapida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=43119'>Intoxicación aguda por fármacos con efecto estabilizador de membrana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73423'>Intoxicación aguda por fruto de ackee</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35889'>Intoxicación aguda por opioides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73423'>Intoxicación aguda por seso vegetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31828'>Intoxicación digitálica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247165'>Intoxicación infantil por mercurio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217064'>Intoxicación por 5-fluorouracilo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2302'>Intoxicación por amianto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466670'>Intoxicación por cianuro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90068'>Intoxicación por cocaína</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31824'>Intoxicación por colchicina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31826'>Intoxicación por etilenglicol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306682'>Intoxicación por manganeso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330021'>Intoxicación por mercurio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31825'>Intoxicación por metanol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464458'>Intoxicación por paracetamol</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31827'>Intoxicación por paraquat</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330015'>Intoxicación por plomo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306640'>Intoxicación rara por productos médicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90069'>Intoxicación sistémica por monocloroacetato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2285'>Invaginación basilar primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3306'>Invdup(15)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96092'>Invdupdel(8p)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168558'>Inversión sexual XY-fallo adrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168558'>Inversión sexual XY-fallo suprarrenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216694'>Inversión ventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499096'>ION</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1186'>IOSCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275766'>IPAH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=747'>iPAP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238455'>IPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=37042'>IPEX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88621'>IPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100025'>IPSID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=772'>IRD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280886'>Iridociclitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263479'>Iridociclitis heterocrómica de Fuchs</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209959'>Iridociclitis inducida por lentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306648'>Iridociclitis no infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98634'>Iridogoniodisgenesia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519392'>Iridosquisis aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281090'>IRLX sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3307'>Isocromosoma 18p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96055'>Isocromosoma 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3309'>Isocromosoma 5p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3310'>Isocromosoma 9p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=884'>Isocromosoma en mosaico 12p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96325'>Isocromosoma Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98797'>Isocromosoma Yp</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98798'>Isocromosoma Yq</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99731'>ISOD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563609'>Isolated anencephaly</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563951'>Isolated congenital aglossia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563954'>Isolated congenital hypoglossia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563612'>Isolated exencephaly</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=472'>Isosporosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309324'>ISSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3002'>ITP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95499'>IVC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281190'>IWC</a></li>

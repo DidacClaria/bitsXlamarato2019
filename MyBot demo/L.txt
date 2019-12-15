@@ -1,0 +1,642 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79314'>L-2-HGA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199302'>Labio leporino aislado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=888'>Labio leporino y/o paladar hendido con quistes mucosos del labio inferior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=541443'>L-ACAOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2968'>LAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99842'>LAD-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99843'>LAD-II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538'>LAM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565837'>Laminin subunit alpha 2-related limb-girdle muscular dystrophy R23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98301'>Laminopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300755'>Laminopatía con afectación del músculo estriado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300766'>Laminopatía con envejecimiento prematuro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300763'>Laminopatía con lipodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300758'>Laminopatía con neuropatía periférica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280365'>Laminopatía lipodistrófica grave autosómica semidominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98834'>LAM M2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2368'>Laparosquisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2372'>Laringocele</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2373'>Laringomalacia dominante congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423717'>Larva migrans cutáneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3286'>Latidos ventriculares prematuros multifocales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46059'>Latosterolosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2295'>Laxitud articular familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300324'>LBPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137898'>LBSL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2004'>LC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99900'>LCAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542310'>LCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294965'>LCCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1486'>LCCS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137776'>LCCS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137783'>LCCS3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363409'>LCCS5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98964'>LCD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98964'>LCDI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86823'>LCH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=5'>LCHADD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52416'>LCM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157973'>L-CMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454714'>LCP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=58017'>LCP-C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363618'>LCPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=544'>LDCBG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300888'>LDCBG con inflamación crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300849'>LDCBG del SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98955'>LECD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566862'>Left sided atrial isomerism</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=549'>Legionelosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52994'>Leiomioma orbital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomas cutáneos múltiples familiares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomas cutáneos múltiples hereditarios</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomas cutáneos y uterinos múltiples</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomatosis familiar con cáncer de células renales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomatosis familiar con carcinoma renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomatosis familiar cutánea y uterina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomatosis hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomatosis hereditaria con carcinoma renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>Leiomiomatosis hereditaria y cáncer de células renales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71274'>Leiomiomatosis peritoneal difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71274'>Leiomiomatosis peritoneal diseminada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64720'>Leiomiosarcoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213807'>Leiomiosarcoma cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213807'>Leiomiosarcoma de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213625'>Leiomiosarcoma de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=104076'>Leiomiosarcoma de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=507'>Leishmaniasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=507'>Leishmaniosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=500'>Lentiginosis cardiomiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231040'>Lentiginosis generalizada familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330032'>Lepore-beta-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=548'>Lepra</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=508'>Leprechaunismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268838'>Leptomielolipoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=509'>Leptospirosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300345'>LES autosómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300345'>LES familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137577'>Lesión cerebral isquémica e hipóxica del recien nacido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137577'>Lesión cerebral isquémica e hipóxica neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440221'>Lesión congénita CNIII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439202'>Lesión del plexo braquial obstétrica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439202'>Lesión del plexo braquial obstétrica sin recuperación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85192'>Lesiones en anillo del cráneo-fragilidad de los huesos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252028'>Lesión melanocítica primaria del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178320'>Lesión pulmonar aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86873'>Leucemia agresiva de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=530995'>Leucemia aguda de fenotipo mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86851'>Leucemia aguda de linaje ambiguo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86851'>Leucemia aguda de linaje indeterminado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86851'>Leucemia aguda de linaje mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86851'>Leucemia aguda híbrida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98835'>Leucemia aguda indiferenciada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520'>Leucemia aguda mieloide con t(15;17)(q22;q12);(PML/RARalpha) y variantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86849'>Leucemia basofílica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=58017'>Leucemia de células peludas clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300878'>Leucemia de células peludas variante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=58017'>Leucemia de células pilosas clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454714'>Leucemia de células plasmáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512034'>Leucemia de linfocitos grandes granulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168940'>Leucemia eosinofílica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=318'>Leucemia eritroide aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521'>Leucemia granulocítica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86873'>Leucemia LGL de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86872'>Leucemia LGL de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=513'>Leucemia linfoblástica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99860'>Leucemia linfoblástica aguda de precursores de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99861'>Leucemia linfoblástica aguda de precursores de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99860'>Leucemia linfocítica aguda de precursores de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99861'>Leucemia linfocítica aguda de precursores de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67038'>Leucemia linfocítica crónica de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86871'>Leucemia linfocítica crónica de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86873'>Leucemia linfocítica granular de células NK grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86872'>Leucemia linfocítica granular de células T grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67038'>Leucemia linfoide crónica de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168953'>Leucemia/linfoma de células madre</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86875'>Leucemia/linfoma de células T del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99860'>Leucemia/linfoma linfoblástico agudo de precursores de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99860'>Leucemia/linfoma linfocítico agudo de precursores de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99861'>Leucemia/linfoma linfocítico agudo de precursores de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98851'>Leucemia mastocitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=518'>Leucemia megacarioblástica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99887'>Leucemia megacarioblástica aguda en el síndrome de Down</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329469'>Leucemia megacarioblástica aguda sin síndrome de Down</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98833'>Leucemia mielobástica aguda M1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98834'>Leucemia mielobástica aguda M2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98834'>Leucemia mieloblástica aguda con maduración</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98834'>Leucemia mieloblástica aguda M2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98832'>Leucemia mieloblástica aguda mínimamente diferenciada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98833'>Leucemia mieloblástica aguda sin maduración</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520'>Leucemia mieloblástica aguda tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=514'>Leucemia mieloblástica aguda tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=318'>Leucemia mieloblástica aguda tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=518'>Leucemia mieloblástica aguda tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519'>Leucemia mielógena aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521'>Leucemia mielógena crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519'>Leucemia mieloide aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98277'>Leucemia mieloide aguda con anomalía genética recurrente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86845'>Leucemia mieloide aguda con características relacionadas con la mielodisplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86845'>Leucemia mieloide aguda con displasia multilinaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98829'>Leucemia mieloide aguda con eosinófilos anómalos en la médula ósea con inv(16)(p13q22) o t(16;16)(p13;q22)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402020'>Leucemia mieloide aguda con inv(3)(q21;q26.2) o t(3;3)(q21;q26.2)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98832'>Leucemia mieloide aguda con mínima diferenciación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319480'>Leucemia mieloide aguda con mutaciones somáticas en CEBPA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402026'>Leucemia mieloide aguda con mutaciones somáticas en NPM1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520'>Leucemia mieloide aguda con t(15;17)(q22;q12);(PML/RARalpha) y variantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402014'>Leucemia mieloide aguda con t(6;9)(p23;q34)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402017'>Leucemia mieloide aguda con t(9;11)(p22;q23)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370026'>Leucemia mieloide aguda con translocación t(8;16)(p11;p13)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102724'>Leucemia mieloide aguda con traslocación t(8;21)(q22;q22)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98835'>Leucemia mieloide aguda, diferenciación mínima, FAB M0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319465'>Leucemia mieloide aguda familiar pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319465'>Leucemia mieloide aguda hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402023'>Leucemia mieloide aguda megacarioblástica con t(1;22)(p13;q13)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=167714'>Leucemia mieloide aguda no clasificada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98831'>Leucemia mieloide aguda por anomalías en 11q23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86846'>Leucemia mieloide aguda secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102379'>Leucemia mieloide aguda y síndromes mielodisplásicos relacionados con agentes alquilantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=164726'>Leucemia mieloide aguda y síndromes mielodisplásicos relacionados con la radiación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102381'>Leucemia mieloide aguda y síndromes mielodisplásicos relacionados con la topoisomerasa tipo 2 inhibidora</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521'>Leucemia mieloide crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98824'>Leucemia mieloide crónica atípica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=517'>Leucemia mielomonocítica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98823'>Leucemia mielomonocítica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86834'>Leucemia mielomonocítica crónica juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86834'>Leucemia mielomonocítica juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=514'>Leucemia monoblástica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=514'>Leucemia monocítica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86829'>Leucemia neutrofílica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86852'>Leucemia prolinfocítica de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86871'>Leucemia prolinfocítica de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520'>Leucemia promielocítica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68356'>Leucodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289494'>Leucodistrofia asociada a Pol III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99027'>Leucodistrofia autosómica dominante de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77295'>Leucodistrofia con oligodontia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=487'>Leucodistrofia de células caliciformes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99027'>Leucodistrofia desmielinizante autosómica dominante de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495844'>Leucodistrofia hipomielinizante autosómica recesiva asociada a C11ORF73</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=527497'>Leucodistrofia hipomielinizante autosómica recesiva asociada a NKX6-2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=438114'>Leucodistrofia hipomielinizante autosómica recesiva asociada a RARS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466934'>Leucodistrofia hipomielinizante autosómica recesiva asociada a VPS11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=527497'>Leucodistrofia hipomielinizante autosómica recesiva-ataxia espástica progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289494'>Leucodistrofia hipomielinizante con o sin oligodontia y/o hipogonadismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495844'>Leucodistrofia hipomielinizante por deficiencia de hikeshi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2478'>Leucodistrofia megalencefálica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512'>Leucodistrofia metacromática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309271'>Leucodistrofia metacromática, forma adulta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309256'>Leucodistrofia metacromática, forma infantil tardía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309263'>Leucodistrofia metacromática, forma juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313808'>Leucodistrofia ortocromática pigmentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502444'>Leucodistrofia por deficiencia de ceramidasa alcalina 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=502444'>Leucodistrofia progresiva de inicio en la infancia temprana asociada a ACER3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2806'>Leucoencefalitis esclerosante subaguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217260'>Leucoencefalitis multifocal progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313808'>Leucoencefalopatía autosómica dominante con esferoides neuroaxonales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436271'>Leucoencefalopatía cavitada predominantemente posterior no progresiva con neuropatía periférica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139447'>Leucoencefalopatía cavitada progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363540'>Leucoencefalopatía con ataxia cerebelosa leve y edema de sustancia blanca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542310'>Leucoencefalopatía con calcificaciones y quistes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=135'>Leucoencefalopatía con desaparición de la sustancia blanca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139444'>Leucoencefalopatía con quistes anteriores y bilaterales en el lóbulo temporal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99854'>Leucoencefalopatía de Cree</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313808'>Leucoencefalopatía de inicio en el adulto con esferoides axonales y células gliales pigmentadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313808'>Leucoencefalopatía difusa hereditaria con esferoides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313808'>Leucoencefalopatía difusa hereditaria con esferoides axonales y células gliales pigmentadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495844'>Leucoencefalopatía hipomielinizante autosómica recesiva asociada a C11ORF73</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466934'>Leucoencefalopatía hipomielinizante autosómica recesiva asociada a VPS11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2478'>Leucoencefalopatía megalencefálica con quistes subcorticales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2478'>Leucoencefalopatía megalencefálica vacuolizante con quistes subcorticales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217260'>Leucoencefalopatía multifocal progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85136'>Leucoencefalopatía quística sin megalencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36383'>Leucoencefalopatía vascular familiar asociada a COL4A1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171676'>Leucomalacia periventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2387'>Leuconiquia total</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171723'>Leucoqueratosis mucosa hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95854'>Levocardia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95854'>Levocardia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95854'>Levocardia con situs inversus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216694'>Levo-transposición de las grandes arterias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99824'>LF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263'>LGMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=266'>LGMD1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264'>LGMD1B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=265'>LGMD1C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34516'>LGMD1D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34517'>LGMD1E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=55595'>LGMD1F</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=55596'>LGMD1G</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238755'>LGMD1H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=267'>LGMD2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268'>LGMD2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353'>LGMD2C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=62'>LGMD2D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=119'>LGMD2E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=219'>LGMD2F</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34514'>LGMD2G</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1878'>LGMD2H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206549'>LGMD2L</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206559'>LGMD2N</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206564'>LGMD2O</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280333'>LGMD2P</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363543'>LGMD2R</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369840'>LGMD2S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363623'>LGMD2T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352479'>LGMD2U</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466801'>LGMD2W</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=476084'>LGMD2X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424261'>LGMD2Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480682'>LGMD2Z</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=445110'>LGMD por deficiencia de POMK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=540'>LHH familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=104'>LHON</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254857'>LIMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254857'>LIMM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168491'>LINCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36204'>Linfangiectasia intestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90362'>Linfangiectasia intestinal primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90363'>Linfangiectasia intestinal secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2136'>Linfangiectasias-linfedema tipo Hennekam</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2414'>Linfangiectasias quísticas pulmonares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464321'>Linfangioendoteliomatosis multifocal con trombocitopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538'>Linfangioleiomiomatosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2415'>Linfangioma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79490'>Linfangioma capilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79489'>Linfangioma cavernoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79490'>Linfangioma cutáneo circunscrito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141209'>Linfangioma difuso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141209'>Linfangioma diseminado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79489'>Linfangioma macroquístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79490'>Linfangioma microquístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137926'>Linfangioma primario de laringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458792'>Linfangioma quístico mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79490'>Linfangioma superficial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141209'>Linfangiomatosis difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141209'>Linfangiomatosis difuso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141209'>Linfangiomatosis diseminado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464329'>Linfangiomatosis kaposiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2414'>Linfangiomatosis pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79383'>Linfedema</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=662'>Linfedema con uñas amarillas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90186'>Linfedema de Meige</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79452'>Linfedema de Nonne-Milroy</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459530'>Linfedema genético primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79452'>Linfedema hereditario tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90186'>Linfedema hereditario tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77240'>Linfedema primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458841'>Linfedema primario con anomalías asociadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79452'>Linfedema primario congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90186'>Linfedema primario de apararición tardía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89832'>Linfedema sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228000'>Linfocitopenia CD4 idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512017'>Linfocitosis crónica de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=512017'>Linfocitosis crónica NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300324'>Linfocitosis policlonal de células B persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300324'>Linfocitosis policlonal de células B persistente con linfocitos binucleados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158032'>Linfohistiocitosis hemofagocítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158041'>Linfohistiocitosis hemofagocítica adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158057'>Linfohistiocitosis hemofagocítica adquirida asociada a enfermedad maligna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=540'>Linfohistiocitosis hemofagocítica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158038'>Linfohistiocitosis hemofagocítica genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158038'>Linfohistiocitosis hemofagocítica primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158041'>Linfohistiocitosis hemofagocítica secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=223735'>Linfoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86873'>Linfoma agresivo de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98841'>Linfoma anaplásico de células grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300895'>Linfoma anaplásico de células grandes ALK+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300903'>Linfoma anaplásico de células grandes ALK-</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300903'>Linfoma anaplásico de células grandes ALK-negativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300895'>Linfoma anaplásico de células grandes ALK-positivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98841'>Linfoma anaplásico de células grandes CD30 positivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98841'>Linfoma anaplásico de células grandes Ki-1 positivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86879'>Linfoma angiocéntrico de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86886'>Linfoma angioinmunoblástico de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98839'>Linfoma angiotrópico de células grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364043'>Linfoma B de células grandes ALK+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364043'>Linfoma B de células grandes ALK-positivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300857'>Linfoma B de células grandes rico en células -T/histiocitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289661'>Linfoma B difuso de células grandes positivo para el virus de Epstein-Barr en la edad adulta tardía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98839'>Linfoma B intravascular de células grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86870'>Linfoma blástico de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46135'>Linfoma cerebral primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168966'>Linfoma compuesto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364039'>Linfoma cutáneo de células T angiocéntrico de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364039'>Linfoma cutáneo de células T similar a hidroa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542'>Linfoma cutáneo primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300865'>Linfoma cutáneo primario anaplásico de células grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178563'>Linfoma cutáneo primario de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178554'>Linfoma cutáneo primario de células B agresivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178536'>Linfoma cutáneo primario de células B de la zona marginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178557'>Linfoma cutáneo primario de células B indolente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171901'>Linfoma cutáneo primario de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178551'>Linfoma cutáneo primario de células T agresivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178533'>Linfoma cutáneo primario de células T gamma/delta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178548'>Linfoma cutáneo primario de células T indolente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86885'>Linfoma cutáneo primario de células T periféricas inespecífico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86885'>Linfoma cutáneo primario de células T periféricas no especificado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86885'>Linfoma cutáneo primario de células T periféricas NOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178540'>Linfoma cutáneo primario del centro folicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178522'>Linfoma cutáneo primario pleomórfico de células pequeñas/medianas T CD4+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178528'>Linfoma de Berti</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=543'>Linfoma de Burkitt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480541'>Linfoma de células B de alto grado con reordenamientos de MYC y BCL2 y/o BCL6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52416'>Linfoma de células del manto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98838'>Linfoma de células grandes del mediastino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86879'>Linfoma de células NK/T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86880'>Linfoma de células T asociado a una enteropatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86884'>Linfoma de células T subcutáneo paniculítico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86886'>Linfoma de células T tipo AILD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86880'>Linfoma de células T tipo enteroptía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98293'>Linfoma de Hodgkin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391'>Linfoma de Hodgkin clásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98843'>Linfoma de Hodgkin clásico con esclerosis nodular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98844'>Linfoma de Hodgkin clásico de naturaleza celular mixta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98845'>Linfoma de Hodgkin clásico rico en linfocitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98846'>Linfoma de Hodgkin clásico tipo depleción linfocítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86893'>Linfoma de Hodgkin con predominio de linfocitos nodulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168966'>Linfoma de Hodgkin y no Hodgkin compuesto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52416'>Linfoma de la zona del manto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300912'>Linfoma de la zona marginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86854'>Linfoma de la zona marginal esplénico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46135'>Linfoma del SNC primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3162'>Linfoma de Sezary</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52417'>Linfoma de tejido linfático asociado a mucosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52417'>Linfoma de tejido linfoide asociado a mucosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178544'>Linfoma difuso cutáneo primario de células B grandes tipo pierna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=544'>Linfoma difuso de células B grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300888'>Linfoma difuso de células B grandes con inflamación crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300849'>Linfoma difuso de células B grandes del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98838'>Linfoma difuso de células grandes del mediastino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=543'>Linfoma en pequenas células no clivées</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300869'>Linfoma esplénico de células B con infiltración difusa de la pulpa roja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300869'>Linfoma esplénico difuso de la pulpa roja</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52417'>Linfoma extranodal de zona marginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86879'>Linfoma extranodal nasal de células NK/T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=545'>Linfoma folicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86882'>Linfoma hepatoesplénico de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168966'>Linfoma Hodgkin y no Hodgkin compuesto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86880'>Linfoma intestinal de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279904'>Linfoma intraocular primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=513'>Linfoma / leucemia linfoblástica aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67038'>Linfoma linfocítico pequeño</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443159'>Linfoma linfoplasmacítico sin producción de IgM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207046'>Linfoma maligno con neuropatía periférica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52417'>Linfoma MALT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98838'>Linfoma mediastínico primario de células B grandes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100025'>Linfoma mediterráneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86870'>Linfoma monomórfico de células NK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86879'>Linfoma nasal de células T/natural killer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86867'>Linfoma nodal de zona marginal de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=547'>Linfoma no Hodgkin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171915'>Linfoma no Hodgkin de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300846'>Linfoma no Hodgkin de células B agresivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300842'>Linfoma no Hodgkin de células B indolente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171918'>Linfoma no Hodgkin de células T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279904'>Linfoma no Hodgkin intraocular primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279897'>Linfoma no Hodgkin oculocerebral primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279897'>Linfoma oculocerebral primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279911'>Linfoma órgano-específico primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314684'>Linfoma óseo primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289666'>Linfoma plasmablástico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178528'>Linfoma primario cutáneo agresivo epidermotrópico de células T CD8+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178528'>Linfoma primario cutáneo epidermotrópico de células T citotóxicas CD8+</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48686'>Linfoma primario de cavidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319667'>Linfoma primario de la conjuntiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46135'>Linfoma primario del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98838'>Linfoma primario mediastinal de células claras tipo células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2420'>Linfoma pulmonar primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364039'>Linfoma similar a hidroa vacciniforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86884'>Linfoma subcutáneo de células T similar a paniculitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97285'>Linfoma tiroideo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98839'>Linfomatosis intravascular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36273'>Linitis plástica gástrica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=279904'>LIOP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480506'>LIP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=77243'>Lipedema</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98544'>Lipidosis cerebral con demencia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206953'>Lipidosis muscular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90157'>Lipoatrofia causada por fármacos inyectables</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156156'>Lipoatrofia con diabetes, pápulas leucomelanodérmicas, esteatosis hepática y miocardiopatía hipertrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90160'>Lipoatrofia localizada inducida por presión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90160'>Lipoatrofia semicircular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90160'>Lipoatrophia semicircularis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247762'>Lipoblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98307'>Lipodistrofia adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2398'>Lipodistrofia cefalotorácica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79087'>Lipodistrofia cefalotorácica progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90156'>Lipodistrofia centrífuga</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90156'>Lipodistrofia centrífuga abdominal infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=528'>Lipodistrofia congénita de Berardinelli-Seip</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98306'>Lipodistrofia familiar parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79085'>Lipodistrofia familiar parcial asociada a AKT2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435651'>Lipodistrofia familiar parcial asociada a CIDEC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435660'>Lipodistrofia familiar parcial asociada a LIPE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79083'>Lipodistrofia familiar parcial asociada a PPARG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79084'>Lipodistrofia familiar parcial tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2348'>Lipodistrofia familiar parcial tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79083'>Lipodistrofia familiar parcial tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2348'>Lipodistrofia familiar parcial tipo Dunnigan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79084'>Lipodistrofia familiar parcial tipo Köbberling</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79086'>Lipodistrofia generalizada adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=528'>Lipodistrofia generalizada congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98305'>Lipodistrofia genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90158'>Lipodistrofia idiopática localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90157'>Lipodistrofia localizada inducida por fármacos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90159'>Lipodistrofia localizada inducida por paniculitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238593'>Lipodistrofia mesentérica aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79087'>Lipodistrofia parcial adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280356'>Lipodistrofia parcial familiar asociada a PLIN1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1979'>Lipodistrofia por deficiencia de factores de crecimiento peptídicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79088'>Lipodistrofias localizadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90970'>Lipodistrofias primarias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79263'>Lipofuscinosis ceroide neuronal infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168491'>Lipofuscinosis ceroide neuronal infantil tardía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314632'>Lipofuscinosis ceroide neuronal juvenil asociada a ATP13A2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314632'>Lipofuscinosis ceroide neuronal-parkinsonismo juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168486'>Lipofuscinosis neuronal ceroide 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79263'>Lipofuscinosis neuronal ceroidea infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168491'>Lipofuscinosis neuronal ceroidea infantil tardía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238593'>Lipogranuloma mesentérico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=333'>Lipogranulomatosis de Farber</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268832'>Lipoma asociado con disrafismo neuroespinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99971'>Lipoma atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2398'>Lipomatosis cervical familiar benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2398'>Lipomatosis de Launois-Bensaude</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36397'>Lipomatosis dolorosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2396'>Lipomatosis encefalocraneocutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529'>Lipomatosis mesosomática de Roch-Leri</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199276'>Lipomatosis múltiple familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2398'>Lipomatosis simétrica múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268835'>Lipomielomeningocele</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=812'>Lipomucopolisacaridosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251931'>Liponeurocitoma cerebeloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69078'>Liposarcoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99971'>Liposarcoma bien diferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99970'>Liposarcoma desdiferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99967'>Liposarcoma mixoide/de células redondas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99969'>Liposarcoma pleomórfico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49804'>Liquen amiloide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31142'>Liquen erosivo bucal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=525'>Liquen folicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=525'>Liquen folicular plano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402007'>Liquen mixedematoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86797'>Liquen mixedematoso atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=167635'>Líquen mixedematoso generalizado papular y esclerodermoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86797'>Liquen mixedematoso intermedio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86795'>Liquen mixedematoso localizado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90399'>Liquen mixedematoso localizado con gammapatía monoclonal o síntomas sistémicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90398'>Liquen mixedematoso localizado con rasgos mixtos de subtipos diferentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90393'>Liquen mixedematoso nodular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90394'>Liquen mixedematoso papular discreto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254395'>Liquen plano actínico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33408'>Liquen plano ampollar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254424'>Liquen plano anular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254411'>Liquen plano anular atrófico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254449'>Liquen plano atrófico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254379'>Liquen plano blaschkoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254370'>Liquen plano cutáneo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254373'>Liquen plano de la mucosa raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254379'>Liquen plano lineal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254478'>Liquen plano penfigoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254463'>Liquen plano pigmentoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254463'>Liquen plano pigmentoso inverso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=525'>Liquen plano pilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=525'>Liquen plano pilaris</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254367'>Liquen plano raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254395'>Liquen plano subtropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254395'>Liquen plano tropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48471'>Lisencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1084'>Lisencefalia aislada tipo 1 sin anomalías genéticas conocidas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95232'>Lisencefalia asociada con PAFAH1B1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102009'>Lisencefalia clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86823'>Lisencefalia con hipoplasia cerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100011'>Lisencefalia con hipoplasia cerebelosa tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100012'>Lisencefalia con hipoplasia cerebelosa tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100013'>Lisencefalia con hipoplasia cerebelosa tipo C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100014'>Lisencefalia con hipoplasia cerebelosa tipo D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100015'>Lisencefalia con hipoplasia cerebelosa tipo E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100016'>Lisencefalia con hipoplasia cerebelosa tipo F</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=51577'>Lisencefalia en empedrado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352682'>Lisencefalia en empedrado sin afectación muscular o del ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352682'>Lisencefalia en empedrado sin afectación muscular u ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=452'>Lisencefalia ligada al cromosoma X-agenesia del cuerpo calloso-anomalías genitales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=452'>Lisencefalia ligada al cromosoma X con anomalías genitales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=452'>Lisencefalia ligada al cromosoma X con genitales ambiguos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=531'>Lisencefalia por deleción 17p13.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95232'>Lisencefalia por mutaciones en LIS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171680'>Lisencefalia por mutaciones en TUBA1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102009'>Lisencefalia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2148'>Lisencefalia tipo 1 ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2148'>Lisencefalia tipo 1 por mutación en el gen de la doblecortina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=51577'>Lisencefalia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352687'>Lisencefalia tipo 2 con afectación muscular y ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352682'>Lisencefalia tipo 2 sin afectación muscular o del ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352682'>Lisencefalia tipo 2 sin afectación muscular u ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102011'>Lisencefalia tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=470'>Lisinuria con intolerancia a proteínas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=533'>Listeriosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480506'>Litiasis intrahepática primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542643'>Livedo reticularis con ulceraciones de verano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566841'>Liver adenomatosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98818'>LKS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=513'>LLA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99860'>LLA-B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99861'>LLA-T</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2415'>LM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519'>LMA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98831'>LMA con anomalías 11q23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98277'>LMA con anomalías genéticas recurrentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86845'>LMA con características mielodisplásicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86845'>LMA con displasia multilinaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98829'>LMA con eosinófilos anómalos de la médula ósea inv(16)(p13q22) o t(16;16)(p13;q22)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402020'>LMA con inv(3)(q21;q26.2) o t(3;3)(q21;q26.2)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402026'>LMA con mutaciones somáticas en NPM1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520'>LMA con t(15;17)(q22;q12);(PML/RARalpha) y variantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402014'>LMA con t(6;9)(p23;q34)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402017'>LMA con t(9;11)(p22;q23)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370026'>LMA con translocación t(8;16)(p11;p13)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102724'>LMA con translocación t(8;21)(q22;q22)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98834'>LMA M2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520'>LMA M3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=517'>LMA M4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402023'>LMA megacarioblástica con t(1;22)(p13;q13)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=167714'>LMA no clasificada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86846'>LMA secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329469'>LMA sin SD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102379'>LMA y síndromes mielodisplásicos asociados a agentes alquilantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102381'>LMA y síndromes mielodisplásicos asociados al inhibidor de la topoisomerasa tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=164726'>LMA y síndromes mielodisplásicos asociados a radiación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=521'>LMC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=517'>LMMA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98823'>LMMC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86834'>LMMJ</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217260'>LMP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33108'>LMPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69085'>LMS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168486'>LNC congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79262'>LNC del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79263'>LNC infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79264'>LNC juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168491'>LNC tardía infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=547'>LNH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300846'>LNH de células B agresivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2404'>Loiasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411602'>LOPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=520'>LPA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=250831'>LPA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69663'>LPAC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254379'>LP blaschkoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71274'>LPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329481'>LPG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254379'>LP linear</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254463'>LP pigmentosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254463'>LP pigmentoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=37553'>LQT7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65283'>LQT8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314051'>LTBL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2004'>LTEC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280205'>LTEC0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93938'>LTEC1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93939'>LTEC2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93940'>LTEC3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93941'>LTEC4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93938'>LTEC I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93939'>LTEC II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93940'>LTEC III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93941'>LTEC IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=216694'>L-transposición de las grandes arterias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53351'>Lubag</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97332'>Lunatomalacia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90283'>Lupus cutáneo intermitente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163531'>Lupus eritematoso cutáneo crónico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=535'>Lupus eritematoso cutáneo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163525'>Lupus eritematoso cutáneo subagudo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90281'>Lupus eritematoso discoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=536'>Lupus eritematoso diseminado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90282'>Lupus eritematoso hipertrófico o verrugoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231111'>Lupus eritematoso inducido por medicamentos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90285'>Lupus eritematoso profundo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=536'>Lupus eritematoso sistémico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300345'>Lupus eritematoso sistémico autosómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300345'>Lupus eritematoso sistémico familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93552'>Lupus eritematoso sistémico pediátrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90283'>Lupus eritematoso túmido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90283'>Lupus eritematoso tumidus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398124'>Lupus eritomatoso neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=481662'>Lupus pernio familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90280'>Lupus perniótico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90280'>Lupus sabañón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435365'>LUTO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295032'>Luxación congénita aislada de la cabeza radial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295032'>Luxación congénita aislada del codo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295227'>Luxación congénita bilateral del codo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295034'>Luxación congénita de la rodilla</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295036'>Luxación congénita de la rótula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295225'>Luxación congénita unilateral del codo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295030'>Luxación congénita verdadera del hombro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294951'>Luxaciones articulares congénitas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284139'>Luxaciones múltiples-talla baja-dismorfia craneofacial-defectos congénitos del corazón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54260'>LVNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79150'>LWNH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86869'>LYG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98842'>LyP</a></li>

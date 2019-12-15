@@ -1,0 +1,1746 @@
+  <li><a href='OC_Exp.php?lng=ES&Expert=100055'>AAE II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=541478'>AAOCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284460'>AAOR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=14'>Abetalipoproteinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1164'>ABPA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=54251'>Abscesos asépticos diseminados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=54251'>Abscesos sistémicos asépticos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=69739'>ABSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=225147'>ABSN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=930'>Acalasia del cardias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=930'>Acalasia idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=930'>Acalasia idiopática del esófago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=930'>Acalasia primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=945'>Acalvaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=945'>Acalvaria primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=300504'>Acantoma de la matriz ungueal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=926'>Acatalasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439175'>Accidente cerebrovascular isquémico en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439175'>Accidente cerebrovascular isquémico pediátrico</a></li>
+  <li><a href='OC_Exp.php?lng=ESExpert=210122'>ACDMPV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=48818'>Aceruloplasminemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2008'>ACFS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=49382'>ACHM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=19'>Acidemia 2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79315'>Acidemia D-2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=356978'>Acidemia D-2-hidroxiglutárica y acidemia L-2-hidroxiglutárica combinada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=941'>Acidemia D-glicérica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=356978'>Acidemia D,L-2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=329942'>Acidemia glutárica neonatal transitoria tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=25'>Acidemia glutárica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26791'>Acidemia glutárica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=35706'>Acidemia glutárica tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=33'>Acidemia isovalérica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79314'>Acidemia L-2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289504'>Acidemia malónica y metilmalónica combinada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26'>Acidemia metilmalónica con homocistinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79282'>Acidemia metilmalónica con homocistinuria tipo cblC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79283'>Acidemia metilmalónica con homocistinuria tipo cblD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79284'>Acidemia metilmalónica con homocistinuria tipo cblF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=369955'>Acidemia metilmalónica con homocistinuria tipo cblJ</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=369962'>Acidemia metilmalónica con homocistinuria tipo cblX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=308425'>Acidemia metilmalónica por deficiencia de metilmalonil-CoA epimerasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=308425'>Acidemia metilmalónica por deficiencia de metilmalonil-CoA racemasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=27'>Acidemia metilmalónica resistente a la vitamina B12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79312'>Acidemia metilmalónica resistente a la vitamina B12 tipo mut-</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289916'>Acidemia metilmalónica resistente a la vitamina B12 tipo mut 0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=28'>Acidemia metilmalónica sensible a la vitamina B12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79310'>Acidemia metilmalónica sensible a la vitamina B12 tipo cblA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79311'>Acidemia metilmalónica sensible a la vitamina B12 tipo cblB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=308442'>Acidemia metilmalónica sensible a la vitamina B12 tipo clbDv2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=293355'>Acidemia metilmalónica sin homocistinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280183'>Acidemia metilmalónica tipo TCb1R</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280183'>Acidemia metilmalónica tipo TCbIR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=35'>Acidemia propiónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=70472'>Acidosis láctica congénita tipo Saguenay-Lac-Saint-Jean</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=17'>Acidosis láctica infantil letal con aciduria metilmalónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397593'>Acidosis láctica neonatal grave por deficiencia del complejo NFS1-ISD11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=18'>Acidosis tubular renal distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93608'>Acidosis tubular renal distal autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=402041'>Acidosis tubular renal distal autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93610'>Acidosis tubular renal distal con anemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=18'>Acidosis tubular renal familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2785'>Acidosis tubular renal mixta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314822'>Acidosis tubular renal primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=47159'>Acidosis tubular renal proximal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314889'>Acidosis tubular renal proximal autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93607'>Acidosis tubular renal proximal autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93607'>Acidosis tubular renal proximal con anomalías oculares y discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=18'>Acidosis tubular renal tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=47159'>Acidosis tubular renal tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2785'>Acidosis tubular renal tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79154'>Aciduria 2-aminoadípica 2-oxoadípica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=19'>Aciduria 2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=391417'>Aciduria 2-metil-3-hidroxibutírica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=391428'>Aciduria 2-metil-3-hidroxibutírica tipo clásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=391428'>Aciduria 2-metil-3-hidroxibutírica tipo infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=391457'>Aciduria 2-metil-3-hidroxibutírica tipo neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79157'>Aciduria 2-metilbutírica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=20'>Aciduria 3-hidroxi-3-metilglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=939'>Aciduria 3 hidroxi-isobutírica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289902'>Aciduria 3-metilglutacónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67046'>Aciduria 3-metilglutacónica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=111'>Aciduria 3-metilglutacónica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67047'>Aciduria 3-metilglutacónica tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67048'>Aciduria 3-metilglutacónica tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=66634'>Aciduria 3-metilglutacónica tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=445038'>Aciduria 3-metilglutacónica tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=505208'>Aciduria 3-metilglutacónica tipo 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=505216'>Aciduria 3-metilglutacónica tipo 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=22'>Aciduria 4 hidroxibutírica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79154'>Aciduria alfa-aminoadípica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=134'>Aciduria alfa metil-acetoacética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=23'>Aciduria argininosuccínica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79315'>Aciduria D-2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=356978'>Aciduria D-2-hidroxiglutárica y aciduria L-2-hidroxiglutárica combinada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=941'>Aciduria D-glicérica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=356978'>Aciduria D,L-2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=51208'>Aciduria formiminoglutámica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=24'>Aciduria fumárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=22'>Aciduria gamma-hidroxibutírica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93598'>Aciduria glicólica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=329942'>Aciduria glutárica neonatal transitoria tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=25'>Aciduria glutárica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26791'>Aciduria glutárica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=394532'>Aciduria glutárica tipo 2, tipo leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=394529'>Aciduria glutárica tipo 2, tipo neonatal grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=35706'>Aciduria glutárica tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=20'>Aciduria hidroxi-metil-glutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79159'>Aciduria isobutírica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79314'>Aciduria L-2-hidroxiglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93599'>Aciduria L-glicérica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=943'>Aciduria malónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289504'>Aciduria malónica y metilmalónica combinada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88639'>Aciduria metacrílica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26'>Aciduria metilmalónica con homocistinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79282'>Aciduria metilmalónica con homocistinuria tipo cblC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79283'>Aciduria metilmalónica con homocistinuria tipo cblD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79284'>Aciduria metilmalónica con homocistinuria tipo cblF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=369955'>Aciduria metilmalónica con homocistinuria tipo cblJ</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=369962'>Aciduria metilmalónica con homocistinuria tipo cblX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280183'>Aciduria metilmalónica por defectos del receptor de la transcobalamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=308425'>Aciduria metilmalónica por deficiencia de metilmalonil-CoA epimerasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=308425'>Aciduria metilmalónica por deficiencia de metilmalonil-CoA racemasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=27'>Aciduria metilmalónica resistente a la vitamina B12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79312'>Aciduria metilmalónica resistente a la vitamina B12 tipo mut-</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289916'>Aciduria metilmalónica resistente a la vitamina B12 tipo mut 0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=28'>Aciduria metilmalónica sensible a la vitamina B12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79310'>Aciduria metilmalónica sensible a la vitamina B12 tipo cblA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79311'>Aciduria metilmalónica sensible a la vitamina B12 tipo cblB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=308442'>Aciduria metilmalónica sensible a la vitamina B12 tipo clbDv2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=293355'>Aciduria metilmalónica sin homocistinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=29'>Aciduria mevalónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289899'>Aciduria orgánica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79158'>Aciduria orgánica cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79163'>Aciduria orgánica clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=30'>Aciduria orótica hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=31'>Aciduria oxoglutárica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=32'>Aciduria piroglutámica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=35'>Aciduria propiónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=210128'>Aciduria urocánica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79155'>Aciduria xanturénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=922'>Acilia nasal familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330206'>ACM genéticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=932'>Acondrogénesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93299'>Acondrogénesis tipo 1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93298'>Acondrogénesis tipo 1B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93296'>Acondrogénesis tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93299'>Acondrogénesis tipo Houston-Harris</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93296'>Acondrogénesis tipo Langer-Saldino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93298'>Acondrogénesis tipo Parenti-Fraccaro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=15'>Acondroplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2391'>Acortamiento congénito de ligamento costocoracoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1453'>Acortamiento rizomélico con defecto clavicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65759'>ACPS 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65798'>ACPS 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=63440'>Acrocefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=221054'>Acrocefalopolidactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65759'>Acrocefalopolisindactilia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65798'>Acrocefalopolisindactilia tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=946'>Acrocefalosindactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=87'>Acrocefalosindactilia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=794'>Acrocefalosindactilia tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=710'>Acrocefalosindactilia tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=955'>Acrodentoosteodisplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=955'>Acro-dento-osteo-displasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=163931'>Acrodermatitis continua supurativa de Hallopeau</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=37'>Acrodermatitis enteropática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=37'>Acrodermatitis enteropática tipo deficiencia de cinc</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=37'>Acrodermatitis enteropática tipo deficiencia de zinc</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247165'>Acrodinia infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=950'>Acrodisostosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280651'>Acrodisostosis con resistencia múltiple a hormonas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=245'>Acrodisostosis preaxial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2956'>Acrodisplasia-escoliosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1240'>Acroesquifodisplasia metafisaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2500'>Acrogeria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2500'>Acrogeria tipo Gottron</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=49382'>Acromatopsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=16'>Acromatopsia atípica ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=16'>Acromatopsia incompleta ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=963'>Acromegalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99725'>Acromegalia de formas infantil y juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=39'>Acromelanosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2500'>Acrometageria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352636'>Acroosteólisis falángica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=444316'>Acroosteólisis falángica idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=444316'>Acro-osteólisis falángica idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=970'>Acroosteólisis neurogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=955'>Acroosteolisis tipo dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=217059'>Acropaquia aislada congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=41'>Acropigmentación de Dohi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=178307'>Acropigmentación reticulada de Kitamura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79356'>Acroqueratoderma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183441'>Acroqueratodermia genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=498359'>Acroqueratodermia papulo-translúcida reactiva transitoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99710'>Acroqueratodermia punteada con pigmentación similar a pecas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=498359'>Acroqueratodermia siríngea acuagénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=38'>Acroqueratoelastoidosis de Costa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=166113'>Acroqueratosis de Bazex</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=166113'>Acroqueratosis paraneoplásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=166113'>Acroqueratosis paraneoplásica de Bazex</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79151'>Acroqueratosis verruciforme de Hopf</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=955'>Acrosteolisis con osteoporosis y cambios en el cráneo y la mandíbula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=36'>ACS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=946'>ACS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=87'>ACS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=794'>ACS3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=710'>ACS5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=457095'>Actinomicosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=972'>Actividad continua de la fibra muscular hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=566393'>Acute mast cell leukemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439175'>ACV isquémico en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439175'>ACV isquémico pediátrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137754'>ACY1D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=973'>Adactilia unilateral de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=55881'>Adamantinoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=55881'>Adamantinoma de huesos largos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88619'>ADANE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94145'>ADCA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=208508'>ADCA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94148'>ADCA3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94149'>ADCA4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94145'>ADCAI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=208508'>ADCAII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94148'>ADCAIII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94149'>ADCAIV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90348'>ADCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86814'>ADCME</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=169189'>AD-CNM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93608'>AD dRTA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101046'>ADEAF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83597'>ADEM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=213772'>Adenocarcinoma cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398971'>Adenocarcinoma de células claras de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319303'>Adenocarcinoma de células renales cromófobo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=213772'>Adenocarcinoma de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99976'>Adenocarcinoma de esófago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=424943'>Adenocarcinoma de hígado y VBI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=424943'>Adenocarcinoma de hígado y vías biliares intrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=104075'>Adenocarcinoma de intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=424991'>Adenocarcinoma de la vesícula biliar y de las vías biliares extrahepáticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=494454'>Adenocarcinoma de la vulva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=424016'>Adenocarcinoma del canal anal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=213504'>Adenocarcinoma del ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363478'>Adenocarcinoma del paratestículo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398053'>Adenocarcinoma del pene</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=424991'>Adenocarcinoma de vesícula y VBE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99976'>Adenocarcinoma esofágico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26106'>Adenocarcinoma gástrico difuso hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314022'>Adenocarcinoma gástrico y poliposis proximal del estómago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=391723'>Adenocarcinoma mucinoso apendicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=391723'>Adenocarcinoma mucinoso del apéndice</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398961'>Adenocarcinoma mucinoso de ovario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319287'>Adenocarcinoma multilocular de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398971'>Adenocarcinoma ovárico de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398961'>Adenocarcinoma ovárico mucinoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319298'>Adenocarcinoma papilar renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363478'>Adenocarcinoma paratesticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284395'>Adenocarcinoma pulmonar fetal bien diferenciado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=213528'>Adenocarcinoma raro de mama</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319276'>Adenocarcinoma renal de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=422526'>Adenocarcinoma renal hereditario de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319287'>Adenocarcinoma renal multilocular de células claras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=494454'>Adenocarcinoma vulvar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95512'>Adenohipofisitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93292'>Adenoma de páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91348'>Adenoma gonadotrófico funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91348'>Adenoma gonadotropo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=54272'>Adenoma hepatocelular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99408'>Adenoma hipofisario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314777'>Adenoma hipofisario aislado familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96253'>Adenoma hipofisario corticotropo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314769'>Adenoma hipofisario co-secretor de GH y PRL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314769'>Adenoma hipofisario co-secretor de hormona de crecimiento y prolactina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314753'>Adenoma hipofisario endocrino con actividad endocrina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314753'>Adenoma hipofisario funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314759'>Adenoma hipofisario funcionante mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91348'>Adenoma hipofisario gonadotrófico funcionante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91348'>Adenoma hipofisario gonadotrófico secretor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91349'>Adenoma hipofisario no secretor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314790'>Adenoma hipofisario nulo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314753'>Adenoma hipofisario secretor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91347'>Adenoma hipofisario secretor de la hormona estimulante de la tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2965'>Adenoma hipofisario secretor de PRL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2965'>Adenoma hipofisario secretor de prolactina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91347'>Adenoma hipofisario secretor de TSH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314759'>Adenoma hipofisario secretor mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314786'>Adenoma hipofisario silente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91347'>Adenoma hipofisario tirotrófico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2965'>Adenoma lactotrófico hipofisario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2965'>Adenoma lactotrofo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93292'>Adenoma pancreático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99877'>Adenoma paratiroideo familar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=454821'>Adenoma pleomórfico de las glándulas salivales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96256'>Adenoma somatotropo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404'>Adenoma suprarrenal familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91347'>Adenoma tirotrófico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26790'>Adenomucinosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=213792'>Adenosarcoma cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=213792'>Adenosarcoma de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=213600'>Adenosarcoma de cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289465'>Adermatoglifia congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1810'>AD-HED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137686'>Adhesiones intrauterinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2314'>AD-HIES</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=89937'>ADHR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=682'>Adinamia episódica de Gamstorp</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=682'>Adinamia episódica hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=36397'>Adiposalgia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=36397'>Adiposis dolorosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99027'>ADLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101046'>ADLTE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98784'>ADNFLE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=329211'>ADNIV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=306588'>ADOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2924'>ADPCLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101046'>ADPEAF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=254892'>adPEO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=730'>ADPKD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314889'>AD pRTA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85138'>Adrenalitis autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139396'>Adrenoleucodistrofia cerebral ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=43'>Adrenoleucodistrofia ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=44'>Adrenoleucodistrofia neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139399'>Adrenomieloneuropatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=977'>Adrenomiodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228169'>ADSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=316235'>AD-SPAX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=447753'>AD-SPG9A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=447757'>AD-SPG9B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=34149'>ADTKD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88949'>ADTKD asociada a MUC1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88950'>ADTKD asociada a UMOD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88949'>ADTKD-MUC1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88950'>ADTKD-UMOD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3086'>ADVIRC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100056'>AEA 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100055'>AEA 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=370068'>AEDS fetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91378'>AEH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100051'>AEH 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100054'>AEH 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=528647'>AEH con C1Inh normal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100054'>AEH con C1Inh normal asociado a F12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=528623'>AEH con deficiencia de C1Inh</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=528623'>AEH con deficiencia de inhibidor C1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=528647'>AEH con inhibidor C1 normal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=537891'>AEH con inhibidor C1 normal asociado a ANGPT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=537072'>AEH con inhibidor C1 normal asociado a PGL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100051'>AEH-II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100054'>AEH-III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=281139'>AEI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=163703'>AERRPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363549'>AESD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=178345'>AEXS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=37'>AEZ</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83461'>Afaquia primaria congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98818'>Afasia epiléptica adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=250831'>Afasia logopénica progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=250831'>Afasia primaria logopénica progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100069'>Afasia primaria progresiva semántica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100070'>Afasia progresiva no fluente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95432'>Afasia progresiva primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137754'>Afección neurológica asociada a la deficiencia de aminoacilasa 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98880'>Afibrinogenemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=243367'>AFLP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324540'>Afonía-sordera-distrofia retiniana-duplicación del hallux-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398147'>AFP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183669'>Agammaglobulinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=229717'>Agammaglobulinemia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=33110'>Agammaglobulinemia autosómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=47'>Agammaglobulinemia ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=229720'>Agammaglobulinemia sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=47'>Agammaglobulinemia tipo Bruton</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=33110'>Agammaglobulinemia tipo no-Bruton</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=388'>Aganglionosis intestinal congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=440987'>Agenesia aislada de la vesícula biliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=269203'>Agenesia aislada del vermis cerebeloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=269209'>Agenesia aislada parcial del vermis cerebeloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=269206'>Agenesia aislada total del vermis cerebeloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1398'>Agenesia cerebelosa aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99129'>Agenesia completa de pericardio congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=48'>Agenesia congénita bilateral de los conductos deferentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=495879'>Agenesia congénita del escroto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324353'>Agenesia congénita de quiasma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1553'>Agenesia de cuerpo calloso-polisindactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=980'>Agenesia de la arteria pulmonar unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=981'>Agenesia de la carótida interna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99062'>Agenesia de la válvula mitral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95457'>Agenesia de la válvula tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99114'>Agenesia de la vena cava superior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=49'>Agenesia del pene</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93321'>Agenesia del rayo radial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99798'>Agenesia dental selectiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=982'>Agenesia de válvula pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99114'>Agenesia de VCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=495879'>Agenesia escrotal congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1987'>Agenesia/hipoplasia femoral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294973'>Agenesia/hipoplasia humeral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1134'>Agenesia nasal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2805'>Agenesia pancreática congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2805'>Agenesia pancreática parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2805'>Agenesia parcial del páncreas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99130'>Agenesia parcial de pericardio congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=984'>Agenesia pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=411709'>Agenesia renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1848'>Agenesia renal bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93100'>Agenesia renal unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=325124'>Agenesia testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3346'>Agenesia traqueal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96269'>Agenesia vaginal parcial aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180145'>Agenesia y aplasia de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180142'>Agenesia y aplasia del cuerpo uterino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=293173'>AGEP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99749'>Agranulocitosis infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98375'>AHA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98375'>AHAI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90033'>AHAI caliente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228312'>AHAI con autoanticuerpos fríos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90037'>AHAI inducida por medicamentos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90036'>AHAI tipo mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398109'>AHA neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=59'>AHDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=250977'>AICA ribosiduria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98916'>AIDP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=178333'>AIED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363549'>AIEF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90033'>AIHA caliente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228312'>AIHA con autoanticuerpos fríos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90037'>AIHA inducida por medicamentos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398109'>AIHA neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90036'>AIHA tipo mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85438'>AIJ asociada a entesitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85436'>AIJ asociada a psoriaris</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85414'>AIJ de inicio sistémico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85408'>AIJ factor reumatoide negativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247854'>AIJ factor reumatoide negativo con anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247861'>AIJ factor reumatoide negativo sin anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91140'>AIJ no específica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85410'>AIJ oligoarticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247839'>AIJ oligoarticular con anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247846'>AIJ oligoarticular sin anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404580'>AIJ poliarticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85435'>AIJ poliarticular factor reumatoide positivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=103919'>AIP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280302'>AIP tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280315'>AIP tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=754'>AIS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=75564'>AISA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=38'>AKE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98604'>Alacrima congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91416'>Alacrima congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100924'>ALAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=999'>Albinismo cutáneo, fenotipo Hermine</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284804'>Albinismo ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352740'>Albinismo ocular con sordera neurosensorial congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1000'>Albinismo ocular con sordera sensorial tardía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=54'>Albinismo ocular recesivo ligado al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=54'>Albinismo ocular tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=178333'>Albinismo ocular tipo Forsius-Eriksson</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=54'>Albinismo ocular tipo Nettleship-Falls</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=55'>Albinismo oculo-cutáneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79434'>Albinismo oculocutáneo amarillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79433'>Albinismo oculocutáneo de Rufous</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79434'>Albinismo oculocutáneo platino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79433'>Albinismo oculocutáneo rojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284811'>Albinismo oculocutáneo sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352731'>Albinismo oculocutáneo tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79431'>Albinismo oculocutáneo tipo 1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79434'>Albinismo oculocutáneo tipo 1B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352734'>Albinismo oculocutáneo tipo 1 con pigmentación mínima</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352737'>Albinismo oculocutáneo tipo 1 sensible a la temperatura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79432'>Albinismo oculocutáneo tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79433'>Albinismo oculocutáneo tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79435'>Albinismo oculocutáneo tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=370091'>Albinismo oculocutáneo tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=370097'>Albinismo oculocutáneo tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352745'>Albinismo oculocutáneo tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79434'>Albinismo oculocutáneo tipo Amisch</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79431'>Albinismo oculocutáneo tirosina-negativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98706'>Albinismo oculocutáneo u ocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79433'>Albinismo oculocutáneo Xanthous</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=112'>Alcalosis tubular renal normotensa hipocaliémica con hipercalciuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=56'>Alcaptonuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98841'>ALCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98841'>ALCL sistémico primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=43'>ALD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139396'>ALDC-X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=43'>ALD ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=181415'>Aldosteronismo primario raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=403'>Aldosteronismo tratable con glucocorticoides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=45452'>Aleteo atrial idiopático neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=33355'>Aleucocitosis congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98910'>Alfa-cristalinopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=371024'>Alfa-distroglicanopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352687'>Alfa-distroglicanopatía muscular congénita con anomalías en cerebro y ojo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=371040'>Alfa-distroglicanopatía primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=207113'>Alfa-distroglicanopatía secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100025'>Alfa-HCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=61'>Alfa-manosidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=309288'>Alfa-manosidosis, forma adulta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=309282'>Alfa-manosidosis, forma infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=846'>Alfa talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93616'>Alfa-talasemia intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=163596'>Alfa-talasemia mayor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231401'>Alfa-talasemia-síndrome mielodisplásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=275745'>Alfa-talasemia y enfermedades relacionadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280071'>ALG11-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79324'>ALG12-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324422'>ALG13-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79327'>ALG1-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79326'>ALG2-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79321'>ALG3-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79320'>ALG6-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79325'>ALG8-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79328'>ALG9-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=60039'>Algia pudenda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99995'>Algodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=300895'>ALK+ ALCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=300903'>ALK- ALCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=364043'>ALK+ LBCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=275944'>Aloinmunización anti-Kell materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=69063'>Aloinmunización fetomaterna con glomerulopatías prenatales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79364'>Alopecia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1006'>Alopecia-deficiencia de anticuerpos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=254492'>Alopecia frontal fibrosante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=481771'>Alopecia genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=700'>Alopecia total</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=701'>Alopecia universal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3261'>ALPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=436159'>ALPS por una haploinsuficiencia CTLA4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=357043'>ALS4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=313808'>ALSP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99971'>ALT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=308459'>Alteraciones de la glucólisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=269190'>Alteraciones encefaloclásticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=138084'>Alteración para la succión/deglución asociado a malformación cervical o esofágica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99907'>Alveolitis alérgica doméstica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=31740'>Alveolitis alérgica extrínseca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99909'>Alveolitis alérgica profesional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2032'>Alveolitis fibrosante criptogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180188'>Amastia congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65'>Amaurosis congénita de Leber</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1037'>AMC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319332'>AMC asociada a SYNE1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319332'>AMC miogénica autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=70'>AME</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83330'>AME1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83418'>AME2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83419'>AME3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83420'>AME4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=68'>Amebiasis por amebas salvajes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67'>Amebiasis por Entamoeba histolytica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83330'>AME-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83418'>AME-II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83419'>AME-III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83420'>AME-IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276435'>AME Jokela</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294925'>Amelia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1027'>Amelia autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294969'>Amelia de las extremidades inferiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294967'>Amelia de las extremidades superiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294971'>Amelia total</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314419'>Ameloblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314419'>Ameloblastoma de la mandíbula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88661'>Amelogénesis imperfecta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100032'>Amelogénesis imperfecta con hipocalcificación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100034'>Amelogénesis imperfecta hipomineralización-hipoplasia con taurodontismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100031'>Amelogénesis imperfecta hipoplásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100033'>Amelogénesis imperfecta tipo hipomaduración</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209335'>AME proximal autosómica dominante de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83330'>AME tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83418'>AME tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83419'>AME tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83420'>AME tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83330'>AME tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83418'>AME tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83419'>AME tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83420'>AME tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=268868'>Amielia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=69'>Amiloidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85445'>Amiloidosis AA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93560'>Amiloidosis AApoAI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=238269'>Amiloidosis AApoAII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439232'>Amiloidosis AApoAIV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439246'>Amiloidosis ABeta2M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85446'>Amiloidosis ABeta2M microglobulínica tipo salvaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85446'>Amiloidosis ABeta2M tipo salvaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85446'>Amiloidosis ABeta2Mwt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324718'>Amiloidosis ABetaA21G</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324708'>Amiloidosis ABetaD23N</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324723'>Amiloidosis ABetaE22G</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324713'>Amiloidosis ABetaE22K</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100006'>Amiloidosis ABetaE22Q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324703'>Amiloidosis ABetaL34V</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324723'>Amiloidosis ABeta tipo ártico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324718'>Amiloidosis ABeta tipo flamenco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324708'>Amiloidosis ABeta tipo Iowa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324713'>Amiloidosis ABeta tipo italiano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100006'>Amiloidosis ABeta tipo neerlandés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324703'>Amiloidosis ABeta tipo piamontés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=97345'>Amiloidosis ABri</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100008'>Amiloidosis ACys</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=97346'>Amiloidosis ADan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93562'>Amiloidosis AFib</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85448'>Amiloidosis AGel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=442582'>Amiloidosis AH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85443'>Amiloidosis AL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439224'>Amiloidosis ALECT2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314701'>Amiloidosis AL sistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93561'>Amiloidosis ALys</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=238269'>Amiloidosis apolipoproteína A-II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324718'>Amiloidosis asociada a ABetaA21G</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324703'>Amiloidosis asociada a ABetaL34V</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330001'>Amiloidosis asociada a ATTR tipo salvaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85451'>Amiloidosis asociada a ATTRV122I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85447'>Amiloidosis asociada a ATTRV30M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330001'>Amiloidosis asociada a ATTRwt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100008'>Amiloidosis asociada a CST3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85446'>Amiloidosis asociada a diálisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439254'>Amiloidosis asociada a ITM2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=271861'>Amiloidosis ATTR hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330001'>Amiloidosis ATTR tipo salvaje</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85451'>Amiloidosis ATTRV122I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85447'>Amiloidosis ATTRV30M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330001'>Amiloidosis ATTRwt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439246'>Amiloidosis beta2-microglobulínica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314652'>Amiloidosis beta2-microglobulínica autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85451'>Amiloidosis cardíaca asociada a la TTR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319635'>Amiloidosis cutánea discrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85453'>Amiloidosis cutánea familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85453'>Amiloidosis cutánea ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137810'>Amiloidosis cutánea nodular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137807'>Amiloidosis cutánea primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=353220'>Amiloidosis cutánea primaria familiar localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137807'>Amiloidosis cutánea primaria localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85443'>Amiloidosis de cadena ligera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314709'>Amiloidosis de cadena ligera localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=442582'>Amiloidosis de cadena pesada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439224'>Amiloidosis de leucocitos quimiotácticos factor-2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93562'>Amiloidosis del fibrinógeno A cadena alfa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=271861'>Amiloidosis familiar asociada a transtiretina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=271861'>Amiloidosis familiar asociada a TTR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98957'>Amiloidosis familiar primaria de la córnea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85448'>Amiloidosis familiar tipo finlandés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=444116'>Amiloidosis hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85450'>Amiloidosis hereditaria con afectación renal primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85448'>Amiloidosis hereditaria tipo finlandés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85445'>Amiloidosis inflamatoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314709'>Amiloidosis inmunoglobulínica localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439254'>Amiloidosis ITM2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=49804'>Amiloidosis liquenoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314709'>Amiloidosis localizada primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137814'>Amiloidosis macular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137810'>Amiloidosis nodular primaria cutánea localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93560'>Amiloidosis por apolipoproteína A-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=238269'>Amiloidosis por apolipoproteína A-II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439232'>Amiloidosis por apolipoproteína A-IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100008'>Amiloidosis por cistatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85448'>Amiloidosis por gelsolina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93561'>Amiloidosis por lisozima</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85443'>Amiloidosis primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85445'>Amiloidosis reactiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85450'>Amiloidosis renal familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93560'>Amiloidosis renal familiar por una variante de la apolipoproteína A-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=238269'>Amiloidosis renal familiar por una variante de la apolipoproteína A-ll</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93561'>Amiloidosis renal familiar por una variante de la lisozima</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85450'>Amiloidosis renal hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93560'>Amiloidosis renal hereditaria por una variante de la apolipoproteína A-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=238269'>Amiloidosis renal hereditaria por una variante de la apolipoproteína A-ll</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93562'>Amiloidosis renal hereditaria por una variante de la cadena alfa del fibrinógeno A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93561'>Amiloidosis renal hereditaria por una variante de la lisozima</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85445'>Amiloidosis secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397606'>Amiloidosis sistémica de proteína priónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314701'>Amiloidosis sistémica primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397606'>Amiloidosis sistémica PrP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330001'>Amiloidosis sistémica senil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98957'>Amiloidosis subepitelial de la córnea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85450'>Amiloidosis tipo Ostertag</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314652'>Amiloidosis variante ABeta2M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=367'>Amilopectinosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2195'>Aminoaciduria dicarboxílica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1032'>Aminoaciduria hiperdibásica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=470'>Aminoaciduria hiperdibásica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2116'>Aminoaciduria tipo Hartnup</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=488586'>Amioplasia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1154'>Amioplasia oculomélica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=481'>Amiotrofia bulboespinal ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65684'>Amiotrofia focal benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2901'>Amiotrofia neurálgica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2901'>Amiotrofia neurálgica del hombro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=431255'>Amiotrofia neurogénica escapuloperoneal tipo Nueva Inglaterra</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=518'>AMKL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98832'>AML M0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98833'>AML M1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98834'>AML M2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=488239'>AMNR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251663'>aMOA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=454706'>AMP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=300557'>Ampuloma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=163696'>AMRF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=102'>AMS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98917'>AMSAN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227510'>AMS-c</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227510'>AMS tipo cerebeloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1040'>Anadisplasia metafisaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86816'>Analbuminemia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=31150'>Analfalipoproteinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=453510'>Analgesia congénita con discapacidad intelectual grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=217399'>Analgesia congénita con hiperhidrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1041'>Anasarca fetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=353334'>Anastomosis arteriovenosa congénita de la retina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=353334'>Anastomosis arteriovenosa retiniana congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=78'>Ancilostomiasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79262'>ANCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99916'>Androblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263524'>ANE aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263524'>ANEC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=182040'>Anemia aplásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=164823'>Anemia aplásica adquirida rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397692'>Anemia aplásica aislada hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=68383'>Anemia aplásica constitucional rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88'>Anemia aplásica idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314399'>Anemia aplásica y mielodisplasia autosómicas dominantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101096'>Anemia arregenerativa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90033'>Anemia autoinmune hemolítica tipo caliente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=300298'>Anemia congénita hipocrómica grave con sideroblastos en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98360'>Anemia constitucional por trastorno del metabolismo del hierro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183651'>Anemia constitutional rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=124'>Anemia de Blackfan-Diamond</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=275752'>Anemia de células falciformes y enfermedades relacionadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231214'>Anemia de Cooley</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=124'>Anemia de Diamond-Blackfan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=84'>Anemia de Fanconi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=248302'>Anemia deficitaria adquirida rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=248296'>Anemia deficitaria constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=248293'>Anemia deficitaria rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85'>Anemia diseritropoyética congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67044'>Anemia diseritropoyética congénita con trombocitopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67044'>Anemia diseritropoyética congénita ligada al cromosoma X con trombocitopenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=293825'>Anemia diseritropoyética congénita por una mutación en KLF1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98869'>Anemia diseritropoyética congénita tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98873'>Anemia diseritropoyética congénita tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98870'>Anemia diseritropoyética congénita tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=293825'>Anemia diseritropoyética congénita tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98869'>Anemia diseritropoyética congénita tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98873'>Anemia diseritropoyética congénita tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98870'>Anemia diseritropoyética congénita tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=293825'>Anemia diseritropoyética congénita tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=293830'>Anemia diseritropoyética constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363727'>Anemia diseritropoyética ligada al cromosoma X con plaquetas anómalas y neutropenia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=232'>Anemia falciforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251355'>Anemia falciforme asociada a otra anomalía de la hemoglobina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=182047'>Anemia hemolítica adquirida rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98375'>Anemia hemolítica autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228312'>Anemia hemolítica autoinmune con autoanticuerpos fríos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90037'>Anemia hemolítica autoinmune inducida por medicamentos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398109'>Anemia hemolítica autoinmune neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90036'>Anemia hemolítica autoinmune tipo mixto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=444463'>Anemia hemolítica autoinmune y trobocitopienia autoimune con inmunodeficiencia primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1959'>Anemia hemolítica autoinmune y trombocitopenia autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98366'>Anemia hemolítica constitucional por acantocitosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98366'>Anemia hemolítica constitucional por trastorno acantocítico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=182043'>Anemia hemolítica constitucional rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98369'>Anemia hemolítica constitucional rara por una anomalía enzimática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90035'>Anemia hemolítica de Donath-Landsteiner</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=466026'>Anemia hemolítica grave por deficiencia de G6PD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90031'>Anemia hemolítica no esferocítica por deficiencia de hexoquinasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98372'>Anemia hemolítica por anomalías de las enzimas glicolíticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98370'>Anemia hemolítica por anomalías en el metabolismo de la vías de la hexosa monofosfato y glutation</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86817'>Anemia hemolítica por deficiencia de adenilato quinasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=714'>Anemia hemolítica por deficiencia de difosfoglicerato mutasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=712'>Anemia hemolítica por deficiencia de glucosa fosfato isomerasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90030'>Anemia hemolítica por deficiencia de glutatión reductasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=35120'>Anemia hemolítica por deficiencia de pirimidina 5' nucleotidasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=766'>Anemia hemolítica por deficiencia de piruvato quinasa de los glóbulos rojos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99138'>Anemia hemolítica por sobreproducción de adenosina deaminasa en eritrocitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98374'>Anemia hemolítica por trastorno del metabolismo nucleotídico de los eritrocitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98374'>Anemia hemolítica por una eritroenzimopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98363'>Anemia hemolítica rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=124'>Anemia hipoplásica congénita tipo Blackfan-Diamond</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231214'>Anemia mediterránea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319651'>Anemia megaloblástica constitucional con enfermedad neurológica grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98415'>Anemia megaloblástica constitucional independiente de la vitamina B12 o del folato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98396'>Anemia megaloblástica constitucional por trastorno del metabolismo de la vitamina B12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98408'>Anemia megaloblástica constitucional por trastornos en el metabolismo del folato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=35858'>Anemia megaloblástica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=332'>Anemia megaloblástica hereditaria juvenil por deficiencia de factor intrínseco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=49827'>Anemia megaloblástica sensible a la tiamina con diabetes mellitus y sordera neurosensorial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83642'>Anemia microcítica con sobrecarga hepática de hierro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=332'>Anemia perniciosa congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209981'>Anemia por deficiencia de hierro resistente al tratamiento por hierro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=108997'>Anemia rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98826'>Anemia refractaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86839'>Anemia refractaria con exceso de blastos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=168960'>Anemia refractaria con exceso de blastos en transformación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100019'>Anemia refractaria con exceso de blastos tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100020'>Anemia refractaria con exceso de blastos tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=75564'>Anemia refractaria con sideroblastos en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1047'>Anemia sideroblástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=255132'>Anemia sideroblástica asociada a GLRX5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=260305'>Anemia sideroblástica autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=255132'>Anemia sideroblástica autosómica recesiva de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=260305'>Anemia sideroblástica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98362'>Anemia sideroblástica constitucional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=300298'>Anemia sideroblástica hipocrómica congénita grave con sideroblastos en anillo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=75564'>Anemia sideroblástica idiopática adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=75563'>Anemia sideroblástica ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2802'>Anemia sideroblástica ligada al cromosoma X con ataxia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2802'>Anemia sideroblástica ligada al cromosoma X y ataxia espinocerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=75564'>Anemia sideroblástica primaria adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1048'>Anencefalia/exencefalia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83620'>Anendocrinosis entérica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231013'>Anestesia congénita del nervio trigémino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1051'>Anestesia corneal-sordera-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228277'>Anetodermia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228277'>Anetodermia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228272'>Anetodermia primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91387'>Aneurisma aórtico torácico familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231160'>Aneurisma cerebral sacular familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95491'>Aneurisma congénito de la arteria coronaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99072'>Aneurisma congénito del ductus arterioso persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95491'>Aneurisma coronario congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86'>Aneurisma de la aorta abdominal, forma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=494424'>Aneurisma de la arteria carótida extracraneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99107'>Aneurisma del septo atrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99107'>Aneurisma del septo auricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99092'>Aneurisma del septo interventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1054'>Aneurisma de senos de Valsalva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231160'>Aneurisma en baya familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1055'>Aneurisma fetal ventricular izquierdo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95484'>Aneurisma o dilatación de la aorta ascendente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231160'>Aneurisma sacular intracraneal familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91387'>Aneurisma y disección aórtica torácica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=140989'>Angeítis aislada del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=889'>Angeítis cutánea de pequeño vaso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=889'>Angeítis cutánea por hipersensibilidad</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=140989'>Angeítis primaria del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91385'>Angioedema adquirido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100057'>Angioedema adquirido asociado a IECA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100057'>Angioedema adquirido asociado al inhibidor de la ECA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100057'>Angioedema adquirido con C1INH normal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=528663'>Angioedema adquirido con deficiencia de C1Inh</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100057'>Angioedema adquirido con inhibidor C1 normal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91385'>Angioedema adquirido inducido por bradiquinina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91385'>Angioedema adquirido no inducido por histamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100056'>Angioedema adquirido tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100055'>Angioedema adquirido tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91378'>Angioedema hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100054'>Angioedema hereditario asociado a estrógenos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=528647'>Angioedema hereditario con C1Inh normal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=537891'>Angioedema hereditario con C1Inh normal asociado a ANGPT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100054'>Angioedema hereditario con C1Inh normal asociado a F12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=537072'>Angioedema hereditario con C1Inh normal asociado a PLG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=528623'>Angioedema hereditario con deficiencia de C1Inh</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=528647'>Angioedema hereditario con inhibidor C1 normal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100054'>Angioedema hereditario estrógeno dependiente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91378'>Angioedema hereditario inducido por bradiquinina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91378'>Angioedema hereditario no inducido por histamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100050'>Angioedema hereditario tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100051'>Angioedema hereditario tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100054'>Angioedema hereditario tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=658'>Angioedema inducido por bradiquinina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100057'>Angioedema inducido por el bloqueo del RAAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100057'>Angioedema inducido por inhibidores del sistema renina-angiotensina-aldosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=658'>Angioedema no histamínico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=658'>Angioedema no inducido por histamina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=493348'>Angioedema vibratorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=458768'>Angioendotelioma intralinfático primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98839'>Angioendoteliomatosis maligna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98839'>Angioendoteliomatosis sistémica proliferante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289596'>Angiofibroma nasofaríngeo juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=199279'>Angiolipomatosis familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=221061'>Angioma cavernoso cerebral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=221061'>Angioma cavernoso cerebral hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1063'>Angioma en racimo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137935'>Angioma laringotraqueal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=68419'>Angioma o malformación vascular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95429'>Angioma serpiginoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=892'>Angiomatosis cerebelo-retiniana familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=892'>Angiomatosis cerebelorretiniana familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=53721'>Angiomatosis cutáneo-meningo-espinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3205'>Angiomatosis de Sturge-Weber-Krabbe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3205'>Angiomatosis encefalofacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3205'>Angiomatosis encefalotrigeminal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439254'>Angiopatía amiloide cerebral asociada a ITM2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=439254'>Angiopatía amiloide cerebral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100008'>Angiopatía amiloide hereditaria por cistatina C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=477759'>Angiopatía cerebral asociada a COL4A1 o COL4A2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=477765'>Angiopatía cerebral asociada a COL4A1 o COL4A2 con tendencia hemorrágica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=477762'>Angiopatía cerebral asociada a COL4A1 o COL4A2 con tendencia isquémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=482072'>Angiopatía cerebral asociada a HTRA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=482077'>Angiopatía cerebral asociada a HTRA1 autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=477768'>Angiopatía de Moyamoya</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324'>Angioqueratoma corporal difuso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324'>Angioqueratoma difuso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263413'>Angiosarcoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=74'>Angiostrongilosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=76'>Anguiluliasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=76'>Anguilulosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=468666'>Anhidrosis generalizada aislada con glándulas sudoríparas normales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=199282'>Anhidrosis segmentaria progresiva aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1437'>Anillo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1438'>Anillo 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96175'>Anillo 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1439'>Anillo 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96176'>Anillo 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1440'>Anillo 14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96177'>Anillo 15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96178'>Anillo 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1441'>Anillo 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1442'>Anillo 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1443'>Anillo 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96171'>Anillo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1444'>Anillo 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1445'>Anillo 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1446'>Anillo 22</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96172'>Anillo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1447'>Anillo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251043'>Anillo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1448'>Anillo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1449'>Anillo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1450'>Anillo 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96173'>Anillo 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=295000'>Anillos de constricción congénitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99059'>Anillo supravalvular mitral congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99075'>Anillo vascular por doble arco aórtico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=250923'>Aniridia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98557'>Aniridia sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1070'>Anisakidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1070'>Anisakiosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86873'>ANKCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=457205'>ANOAC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=399096'>Anoctaminopatía distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99797'>Anodoncia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2470'>Anoftalmia-hipoplasia pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=519384'>Anoftalmos congénito con quiste</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=857'>Ano imperforado con anomalías en manos, pies y orejas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1133'>Anomalía acrorenal-displasia ectodérmica-diabetes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=221114'>Anomalía adquirida del movimiento periférico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98127'>Anomalía autosómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=447874'>Anomalía biológica sin caracterización fenotípica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=271853'>Anomalía cardíaca de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=464760'>Anomalía cavitaria familiar del disco óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1081'>Anomalía congénita de arterias coronarias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98724'>Anomalía congénita de la aorta, del arco aórtico o de la arteria pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=474347'>Anomalía congénita de la comunicación interventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99055'>Anomalía congénita de las cuerdas de la válvula tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99055'>Anomalía congénita de las cuerdas tendinosas de la válvula tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=68378'>Anomalía congénita de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98724'>Anomalía congénita de las grandes arterias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98729'>Anomalía congénita de las venas pulmonares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3091'>Anomalía congénita de las venas sistémicas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95499'>Anomalía congénita de la vena cava inferior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95498'>Anomalía congénita de la vena cava superior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95507'>Anomalía congénita de la vena hepática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363189'>Anomalía congénita de los grandes vasos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2846'>Anomalía congénita del pericardio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99125'>Anomalía congénita del retorno venoso pulmonar total</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95500'>Anomalía congénita del seno coronario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=474347'>Anomalía congénita rara del septo ventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=435743'>Anomalía congénita uracal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=166469'>Anomalía cromosómica con epilepsia como rasgo mayor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98642'>Anomalía cromosómica con una posible catarata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=68335'>Anomalía cromosómica rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263749'>Anomalía cromosómica X e Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98978'>Anomalía de Axenfeld</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1880'>Anomalía de Ebstein de la válvula tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98725'>Anomalía de la aorta ascendente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98719'>Anomalía de la arteria pulmonar o de la rama pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=210581'>Anomalía de la articulación temporomandibular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=141037'>Anomalía de la cuarta hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79378'>Anomalía de la elasticidad de la dermis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=223713'>Anomalía de la fosforilación oxidativa mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98605'>Anomalía del aparato excretor del sistema lagrimal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101932'>Anomalía del aparato subvalvular mitral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95463'>Anomalía del aparato subvalvular tricúspide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79374'>Anomalía de la pigmentación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=522552'>Anomalía de la posición de la lente de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98716'>Anomalía de la posición del corazón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=141013'>Anomalía de la primera hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180208'>Anomalía de la pubertad y/o del ciclo menstrual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=202940'>Anomalía de la pubertad y/o del ciclo menstrual de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=141022'>Anomalía de la segunda hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79372'>Anomalía de las glándulas sebáceas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98639'>Anomalía de las lentes y zónula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79368'>Anomalía de las uñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=141030'>Anomalía de la tercera hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98720'>Anomalía de la válvula auriculoventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79363'>Anomalía del cabello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98722'>Anomalía del canal auriculoventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95485'>Anomalía del conducto arterioso persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183607'>Anomalía del cristalino y de la zónula de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261697'>Anomalía del cromosoma 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261724'>Anomalía del cromosoma 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261730'>Anomalía del cromosoma 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261733'>Anomalía del cromosoma 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261736'>Anomalía del cromosoma 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261739'>Anomalía del cromosoma 14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261742'>Anomalía del cromosoma 15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261745'>Anomalía del cromosoma 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261748'>Anomalía del cromosoma 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261751'>Anomalía del cromosoma 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261754'>Anomalía del cromosoma 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261700'>Anomalía del cromosoma 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261757'>Anomalía del cromosoma 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261760'>Anomalía del cromosoma 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261763'>Anomalía del cromosoma 22</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261703'>Anomalía del cromosoma 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261706'>Anomalía del cromosoma 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261709'>Anomalía del cromosoma 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261712'>Anomalía del cromosoma 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261715'>Anomalía del cromosoma 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261718'>Anomalía del cromosoma 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=261721'>Anomalía del cromosoma 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263711'>Anomalía del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263798'>Anomalía del cromosoma Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1388'>Anomalía del dedo índice-síndrome de Pierre Robin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=519276'>Anomalía del desarrollo del segmento anterior con manifestaciones extraoculares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=522540'>Anomalía del desarrollo del segmento anterior de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139009'>Anomalía del desarrollo de origen metabólico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98086'>Anomalía del desarrollo sexual 46, XY por un defecto del metabolismo periférico de la testosterona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79173'>Anomalía del metabolismo de los aminoácidos del azufre o del transporte citosólico del grupo metilo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=225689'>Anomalía del metabolismo de los aminoácidos o de las proteínas con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=225710'>Anomalía del metabolismo de los esteroles con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=225696'>Anomalía del metabolismo energético con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=164004'>Anomalía del oído medio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79362'>Anomalía de los apéndices epidérmicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98564'>Anomalía de los bordes de los párpados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=542822'>Anomalía de los ostia coronarios</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3294'>Anomalía de los tendones extensores de los dedos de las manos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=522534'>Anomalía del sistema de drenaje lagrimal de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=522550'>Anomalía del tamaño de la lente de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=156246'>Anomalía de nariz y nasofaringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99078'>Anomalía de Neuhauser</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=709'>Anomalía de Peter con enanismo de extremidades cortas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=708'>Anomalía de Peters</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91483'>Anomalía de Rieger</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91483'>Anomalía de Rieger-Axenfeld</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3181'>Anomalía de Sprengel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3403'>Anomalía de Uhl</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=156243'>Anomalía en el pabellón de la oreja y en el canal auditivo externo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98652'>Anomalía en el tamaño de las lentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=225692'>Anomalía en el transporte o utilización de metales con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98655'>Anomalía en la forma de las lentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98653'>Anomalía en la posición de las lentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79168'>Anomalía en la síntesis de ácidos biliares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98159'>Anomalía estructural del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98158'>Anomalía estructural del cromosoma Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183460'>Anomalía genética de las glándulas sebáceas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183454'>Anomalía genética de las uñas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183450'>Anomalía genética del cabello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=435606'>Anomalía genética del cavum y la nariz genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183447'>Anomalía genética de los apéndices epidérmicos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183463'>Anomalía genética en la pigmentación de la piel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=156619'>Anomalía genética urogenital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=211240'>Anomalía genética vascular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98155'>Anomalía gonosómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=156249'>Anomalía laríngea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=435609'>Anomalía laríngea genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=141209'>Anomalía linfática generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=68329'>Anomalía maxilofacial rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263714'>Anomalía numérica del cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263717'>Anomalía numérica del cromosoma X con fenotipo femenino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263720'>Anomalía numérica del cromosoma X con fenotipo masculino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=263746'>Anomalía numérica del cromosoma Y</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98618'>Anomalía rara de la refracción</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139030'>Anomalía rara del desarrollo con afectación del tejido conectivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98594'>Anomalía raras de las cejas y pestañas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3411'>Anomalía renal ipsilateral y hemivagina obstruida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79366'>Anomalías aisladas del tallo del cabello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93545'>Anomalías congénitas del riñón y el tracto urinario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330197'>Anomalías congénitas múltiples genéticas-discapacidad intelectual variable con o sin síndrome dismórfico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330206'>Anomalías congénitas múltiples genéticas sin discapacidad intelectual con o sin dismorfia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330197'>Anomalías congénitas múltiples genéticas/síndrome dismórfico-discapacidad intelectual variable</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=330206'>Anomalías congénitas múltiples genéticas/síndrome dismórfico sin discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=102285'>Anomalías congénitas múltiples sin discapacidad intelectual con o sin dismorfia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=68341'>Anomalías congénitas múltiples/síndrome dismórfico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183533'>Anomalías congénitas múltiples/síndrome dismórfico de origen genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=459787'>Anomalías congénitas múltiples/síndrome dismórfico letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=102285'>Anomalías congénitas múltiples/síndrome dismórfico sin discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209059'>Anomalías cualitativas o cuantitativas de alfa-actina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209044'>Anomalías cualitativas o cuantitativas de alfaB-cristalina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=207060'>Anomalías cualitativas o cuantitativas de alfa-sarcoglicano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209047'>Anomalías cualitativas o cuantitativas de filamina C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209185'>Anomalías cualitativas o cuantitativas de la cadena pesada de la beta-miosina (MYH7)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209041'>Anomalías cualitativas o cuantitativas de la desmina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209188'>Anomalías cualitativas o cuantitativas de la emerina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209024'>Anomalías cualitativas o cuantitativas de la proteína O-manosa beta 1,2N-N-acetilglucosamina transferasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209030'>Anomalías cualitativas o cuantitativas de la proteína O-manosiltransferasa 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209033'>Anomalías cualitativas o cuantitativas de la proteína O-manosiltransferasa 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209024'>Anomalías cualitativas o cuantitativas de la proteína POMGNT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209199'>Anomalías cualitativas o cuantitativas de la proteína SERCA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209224'>Anomalías cualitativas o cuantitativas de miotilina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209182'>Anomalías cualitativas o cuantitativas de nebulina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209196'>Anomalías cualitativas o cuantitativas de plectina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=207049'>Anomalías cualitativas o cuantitativas de proteínas en enfermedades neuromusculares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209027'>Anomalías cualitativas o cuantitativas de proteína similar a glucosiltransferasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209038'>Anomalías cualitativas o cuantitativas de proteínas miofibrilares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209050'>Anomalías cualitativas o cuantitativas de proteína ZASP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=207052'>Anomalías cualitativas o cuantitativas de sarcoglicanos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209193'>Anomalías cualitativas o cuantitativas de selenoproteína N1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209056'>Anomalías cualitativas o cuantitativas de teletonina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209053'>Anomalías cualitativas o cuantitativas de titina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209203'>Anomalías cualitativas o cuantitativas de UDP-N-acetilglucosamina-2-epimerasa/N-acetilmanosamina quinasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1834'>Anomalías de blastogénesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=974'>Anomalías de las extremidades, del cráneo y del cuero cabelludo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95485'>Anomalías de los conductos arteriales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3388'>Anomalías del tubo neural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1305'>Anomalías digitales con fisuras palpebrales cortas y atresia esófagica o duodenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=391641'>Anomalías digitales con fisuras palpebrales cortas y atresia esófagica o duodenal tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98156'>Anomalías en el número de cromosomas sexuales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98156'>Anomalías en el número de gonosomas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98155'>Anomalías en los cromosomas sexuales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=474347'>Anomalía septal ventricular congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98157'>Anomalías estructurales de los cromosomas sexuales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98157'>Anomalías estructurales de los gonosomas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3324'>Anomalías familiares de la trombomodulina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79367'>Anomalías sindrómicas del tallo del cabello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=156252'>Anomalía traqueal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=435612'>Anomalía traqueal genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79143'>Anoniquia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79143'>Anoniquia congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=69125'>Anoniquia con pigmentación de los pliegues de flexión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1487'>Anoniquia-onicodistrofia con hipoplasia o ausencia de falanges distales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94150'>Anoniquina congénita totalis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=525738'>Anorexia nerviosa prepuberal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=325124'>Anorquidia bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88620'>Anosmia congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93976'>Anotia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1072'>Anquilobléfaron filiforme adnatum</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91397'>Anquilobléfaron filiforme ad natum aislado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98565'>Anquilobléfaron sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=210576'>Anquilosis congénita de la articulación temporomandibular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=140917'>Anquilosis del estribo con pulgares y dedos de los pies anchos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1077'>Anquilosis de los dientes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1077'>Anquilosis dental</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=141163'>Anquilosis glosopalatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=78'>Anquilostomiasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=562559'>Anterior maxillary protrusion-strabismus-intellectual disability syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=275944'>Anti-K HDN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1190'>AO1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=56304'>AO2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=56305'>AO3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1168'>AOA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=64753'>AOA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=459033'>AOA4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98672'>AOAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98672'>AOD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99000'>AOFMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=56304'>AOII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=541443'>AOLCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227510'>AOPC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=541454'>AORCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=449400'>Aortitis asociada a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=829'>AOSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231625'>APAC pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=747'>aPAP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=206583'>APBD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=124'>APCR congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397596'>APDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324530'>APLAID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180068'>Aplasia bilateral incompleta del conducto de Müller</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180068'>Aplasia bilateral parcial del conducto de Müller</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=48'>Aplasia congénita bilateral de los conductos deferentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2926'>Aplasia congénita de los músculos extensores de los dedos asociada a polineuropatía generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79133'>Aplasia cutis bitemporal congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1114'>Aplasia cutis congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86815'>Aplasia de glándulas lagrimales y salivares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98871'>Aplasia de glóbulos rojos pura adquirida transitoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3383'>Aplasia de la tróclea del húmero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=141074'>Aplasia del canal auditivo externo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2926'>Aplasia de los músculos extensores de los dedos-polineuropatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83471'>Aplasia de timo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98421'>Aplasia eritrocitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2879'>Aplasia/hipoplasia de extremidades y pelvis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86789'>Aplasia/hipoplasia de rótula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180188'>Aplasia/hipoplasia mamaria congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=73217'>Aplasia mulleriana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247768'>Aplasia mulleriana e hiperandrogenismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180074'>Aplasia mulleriana unilateral completa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180079'>Aplasia mulleriana unilateral incompleta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=124'>Aplasia pura de células rojas congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98872'>Aplasia pura de glóbulos rojos del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83471'>Aplasia tímica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180074'>Aplasia unilateral completa de los conductos de Müller</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180071'>Aplasia unilateral del conducto de Müller</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=180079'>Aplasia unilateral incompleta de los conductos de Müller</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93322'>Aplasia y displasia congénitas de la tibia con peroné intacto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314399'>Aplasia y mielodisplasia autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=70590'>Apnea de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99981'>Apnea de la prematuridad</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=70590'>Apnea del lactante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294986'>Apodia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95613'>Apoplejía hipofisaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95613'>Apoplejía hipofisaria tumoral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95432'>APP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100069'>APP semántica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100070'>APP variante no fluente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1125'>Apraxia ocular tipo Cogan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98688'>Apraxia oculomotora y enfermedades oculomotoras relacionadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314566'>Apraxia progresiva primaria del habla</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1126'>Aprosencefalia disgenesia cerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3469'>Aprosencefalia XK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=566857'>Aprosencephaly</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=566847'>Aprosencephaly/atelencephaly spectrum</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3453'>APS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3143'>APS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227982'>APS3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227990'>APS4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=398097'>APS neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3453'>APS tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3143'>APS tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227982'>APS tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227990'>APS tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101206'>APV/ADA tipo Fallot</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99048'>APV/PDA tipo no Fallot</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=931'>Aqueiropodia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294983'>Aquiria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=115'>Aracnodactilia congénita contractural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137817'>Aracnoiditis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137817'>Aracnoiditis adhesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137817'>Aracnoiditis crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324442'>ARAN-NM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88644'>ARCA1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139485'>ARCA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90349'>ARCL1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=221145'>ARCL1C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90350'>ARCL2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=357058'>ARCL2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=357064'>ARCL2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=357074'>ARCL2 tipo clásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=357074'>ARCL2 tipo Debré</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=357064'>ARCL2 tipo progeroide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324442'>ARCMT2-NM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=466775'>ARCMT2X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101097'>AR-CMT con voz ronca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=169186'>AR-CNM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99079'>Arco aórtico cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99081'>Arco aórtico derecho</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1132'>Arcos aórticos anómalos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=402041'>AR dRTA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85438'>ARE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86839'>AREB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=168960'>AREB-t</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=512103'>AREI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=90'>Argininemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=60014'>Argiria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289176'>ARHR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88616'>AR-NSID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=254886'>arPEO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=731'>AR-PKD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93607'>AR pRTA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3344'>Arqueamiento anterior de las piernas con enanismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99916'>Arrenoblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1344'>Arresto sinusal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=268936'>Arrinencefalia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1134'>Arrinia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=498359'>Arrugas acuagénicas de las palmas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=260305'>ARSA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98'>ARSACS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314603'>ARSAL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=316240'>AR-SPAX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=447760'>AR-SPG9B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=541454'>Arteria coronaria derecha en el seno aórtico izquierdo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=541443'>Arteria coronaria izquierda en el seno aórtico derecho</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1138'>Arteria pulmonar naciente de la aorta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99049'>Arteria pulmonar procedente de ductus arterioso persistente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=136'>Arteriopatía cerebral autosómica dominante con infarto subcortical y leucoencefalopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=199354'>Arteriopatía cerebral autosómica recesiva con infarto subcortical y leucoencefalopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=51608'>Arteriopatía obliterante idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=51608'>Arteriopatía oclusiva infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=51608'>Arteriosclerosis infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397'>Arteritis de células gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3287'>Arteritis de Takayasu</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397'>Arteritis temporal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26137'>Arteritis temporal granulomatosa de células no gigantes con eosinofilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26137'>Arteritis temporal juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=92'>Artritis crónica juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85410'>Artritis crónica pauciarticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247839'>Artritis crónica pauciarticular con anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247846'>Artritis crónica pauciarticular sin anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=92'>Artritis idiopática juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85438'>Artritis idiopática juvenil asociada a entesitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85436'>Artritis idiopática juvenil asociada a psoriasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85414'>Artritis idiopática juvenil de inicio sistémico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85408'>Artritis idiopática juvenil factor reumatoide negativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247854'>Artritis idiopática juvenil factor reumatoide negativo con anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247861'>Artritis idiopática juvenil factor reumatoide negativo sin anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=91140'>Artritis idiopática juvenil no específica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85410'>Artritis idiopática juvenil oligoarticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404580'>Artritis idiopática juvenil poliarticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85435'>Artritis idiopática juvenil poliarticular factor reumatoide positivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247839'>Artritis juvenil oligoarticular con anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247846'>Artritis juvenil oligoarticular sin anticuerpos antinucleares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404580'>Artritis juvenil poliarticular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85436'>Artritis psoriásica juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=29207'>Artritis reactiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=69126'>Artritis recurrente familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=92'>Artritis reumatoide juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=29207'>Artritis uretrítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=29207'>Artritis venérea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1899'>Artrocalasia múltiple congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=955'>Artrodentoosteodisplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1145'>Artrogriposis con atrofia muscular espinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1037'>Artrogriposis congénita múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=97120'>Artrogriposis distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2953'>Artrogriposis distal con facies característica e hidronefrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1154'>Artrogriposis distal con oftalmoplejía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1145'>Artrogriposis distal múltiple congénita ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1146'>Artrogriposis distal tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251515'>Artrogriposis distal tipo 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2053'>Artrogriposis distal tipo 2A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1147'>Artrogriposis distal tipo 2B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=376'>Artrogriposis distal tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65720'>Artrogriposis distal tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1154'>Artrogriposis distal tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=329457'>Artrogriposis distal tipo 5D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=329457'>Artrogriposis distal tipo 5 sin oftalmoparesia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=329457'>Artrogriposis distal tipo 5 sin oftalmoplejía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1144'>Artrogriposis distal tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3377'>Artrogriposis distal tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=115'>Artrogriposis distal tipo 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=376'>Artrogriposis distal tipo IIA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1154'>Artrogriposis distal tipo IIB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65720'>Artrogriposis distal tipo IID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1037'>Artrogriposis múltiple congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319332'>Artrogriposis múltiple congénita asociada a SYNE1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=994'>Artrogriposis múltiple congénita-hipoplasia pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=319332'>Artrogriposis múltiple congénita miogénica autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1143'>Artrogriposis múltiple congénita tipo neurogénico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85169'>Artropatía digital-braquidactilia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1159'>Artropatía pseudorreumatoide progresiva infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=217656'>ARVC familiar aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=217656'>ARVD familiar aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=75564'>ASAI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231466'>ASAN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2302'>Asbestosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=26790'>Ascitis gelatinosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1160'>Ascitis quilosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=168778'>ASD raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137577'>Asfixia perinatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276198'>Asidan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98933'>ASM-p</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98933'>ASM tipo parkinsoniano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=138'>Asociación CHARGE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=63862'>Asociación esquisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2578'>Asociación MURCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=887'>Asociación VACTERL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=887'>Asociación VACTERL/VATER</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=887'>Asociación VATER</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93'>Aspartilglucosaminuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=63442'>ASPED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1163'>Aspergilosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1164'>Aspergilosis alérgica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1164'>Aspergilosis bronco-pulmonar alérgica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101351'>Asplenia congénita familiar aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=364198'>Astrágalo bipartito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=178382'>Astrágalo vertical congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=295203'>Astrágalo vertical congénito bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=295201'>Astrágalo vertical congénito unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251679'>Astroblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94'>Astrocitoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251589'>Astrocitoma anaplásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251561'>Astrocitoma de alto grado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251592'>Astrocitoma de bajo grado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251595'>Astrocitoma difuso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251601'>Astrocitoma fibrilar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251604'>Astrocitoma gemistocítico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251612'>Astrocitoma pilocítico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251615'>Astrocitoma pilomixoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251598'>Astrocitoma protoplásmico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251618'>Astrocitoma subependimario de células gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247242'>Ataxia adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1168'>Ataxia-apraxia oculomotora tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=64753'>Ataxia-apraxia oculomotora tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=459033'>Ataxia-apraxia oculomotora tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139485'>Ataxia autosómica recesiva por deficiencia de coenzima Q10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247815'>Ataxia autosómica recesiva por deficiencia de PEX10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139485'>Ataxia autosómica recesiva por deficiencia de ubiquinona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88644'>Ataxia autosómica recesiva tipo Beauce</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99'>Ataxia cerebelosa autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94145'>Ataxia cerebelosa autosómica dominante tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=208508'>Ataxia cerebelosa autosómica dominante tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94148'>Ataxia cerebelosa autosómica dominante tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94149'>Ataxia cerebelosa autosómica dominante tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94145'>Ataxia cerebelosa autosómica dominante tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=208508'>Ataxia cerebelosa autosómica dominante tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94148'>Ataxia cerebelosa autosómica dominante tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94149'>Ataxia cerebelosa autosómica dominante tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1172'>Ataxia cerebelosa autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352403'>Ataxia cerebelosa autosómica recesiva asociada a la espectrina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352403'>Ataxia cerebelosa autosómica recesiva asociada a la espectrina tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352641'>Ataxia cerebelosa autosómica recesiva con espasticidad de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284289'>Ataxia cerebelosa autosómica recesiva de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284332'>Ataxia cerebelosa autosómica recesiva no progresiva y de inicio en la lactancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=453521'>Ataxia cerebelosa autosómica recesiva por deficiencia de CWF19L1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352641'>Ataxia cerebelosa autosómica recesiva por deficiencia de GBA2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=412057'>Ataxia cerebelosa autosómica recesiva por deficiencia de STUB1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98097'>Ataxia cerebelosa autosómica recesiva por un defecto de reparación del ADN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=88644'>Ataxia cerebelosa autosómica recesiva tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98095'>Ataxia cerebelosa congénita autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363432'>Ataxia cerebelosa congénita autosómica recesiva por deficiencia de GRID2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363432'>Ataxia cerebelosa congénita autosómica recesiva por deficiencia de la subunidad delta 2 del receptor ionotrópico de glutamato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324262'>Ataxia cerebelosa congénita autosómica recesiva por deficiencia del receptor metabotrópico de glutamato 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324262'>Ataxia cerebelosa congénita por deficiencia de MGLUR1 autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=512260'>Ataxia cerebelosa congénita por mutación en RNU12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=207028'>Ataxia cerebelosa con neuropatía periférica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98098'>Ataxia cerebelosa degenerativa y progresiva autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1177'>Ataxia cerebelosa de inicio temprano con preservación de reflejos tendinosos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83472'>Ataxia cerebelosa-discapacidad intelectual-atrofia óptica-anomalías cutáneas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247234'>Ataxia cerebelosa idiopática de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247765'>Ataxia cerebelosa ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98096'>Ataxia cerebelosa metabólica autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314647'>Ataxia cerebelosa no progresiva con discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1766'>Ataxia cerebelosa no progresiva-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314978'>Ataxia cerebelosa no progresiva ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1175'>Ataxia cerebelosa progresiva ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=102002'>Ataxia cerebelosa rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139485'>Ataxia cerebelosa recesiva tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98099'>Ataxia cerebelosa sindrómica autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1177'>Ataxia cerebelosa temprana con preservación de reflejos tendinosos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94122'>Ataxia cerebelosa tipo Cayman</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83472'>Ataxia cerebral-discapacidad intelectual-atrofia óptica-anomalías de la piel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3008'>Ataxia con acidosis láctica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3008'>Ataxia con acidosis láctica tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96'>Ataxia con deficiencia aislada de vitamina E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96'>Ataxia con deficiencia de vitamina E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98538'>Ataxia con demencia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98540'>Ataxia con demencia de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94147'>Ataxia con retinopatía pigmentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95'>Ataxia de Friedreich</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247239'>Ataxia degenerativa no hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1177'>Ataxia de Harding</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98539'>Ataxia de inicio temprano con demencia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404499'>Ataxia de Salih</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=401953'>Ataxia episódica con trastornos del habla</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=211062'>Ataxia episódica hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=37612'>Ataxia episódica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=97'>Ataxia episódica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79135'>Ataxia episódica tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79136'>Ataxia episódica tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=211067'>Ataxia episódica tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209967'>Ataxia episódica tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209970'>Ataxia episódica tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=401953'>Ataxia episódica tipo 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79135'>Ataxia episódica-vértigo-tinnitus-mioquimia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=316226'>Ataxia espástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=316235'>Ataxia espástica autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251282'>Ataxia espástica autosómica dominante tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1182'>Ataxia espástica autosómica dominante tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=316240'>Ataxia espástica autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314603'>Ataxia espástica autosómica recesiva con leucoencefalopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98'>Ataxia espástica autosómica recesiva de Charlevoix-Saguenay</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314603'>Ataxia espástica autosómica recesiva tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=254343'>Ataxia espástica autosómica recesiva tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=313772'>Ataxia espástica autosómica recesiva tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98'>Ataxia espástica autosómica recesiva tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397946'>Ataxia espástica autosómica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1182'>Ataxia espástica con miosis congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2074'>Ataxia espinocerebelosa-amiotrofia-sordera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99'>Ataxia espinocerebelosa autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284324'>Ataxia espinocerebelosa autosómica recesiva de progresión lenta e inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284289'>Ataxia espinocerebelosa autosómica recesiva tipo 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284271'>Ataxia espinocerebelosa autosómica recesiva tipo 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284282'>Ataxia espinocerebelosa autosómica recesiva tipo 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324262'>Ataxia espinocerebelosa autosómica recesiva tipo 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=352403'>Ataxia espinocerebelosa autosómica recesiva tipo 14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404499'>Ataxia espinocerebelosa autosómica recesiva tipo 15</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=412057'>Ataxia espinocerebelosa autosómica recesiva tipo 16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=453521'>Ataxia espinocerebelosa autosómica recesiva tipo 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=448251'>Ataxia espinocerebelosa autosómica recesiva tipo 19</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1170'>Ataxia espinocerebelosa autosómica recesiva tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=397709'>Ataxia espinocerebelosa autosómica recesiva tipo 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=466794'>Ataxia espinocerebelosa autosómica recesiva tipo 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404493'>Ataxia espinocerebelosa autosómica recesiva tipo 23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284332'>Ataxia espinocerebelosa autosómica recesiva tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284324'>Ataxia espinocerebelosa autosómica recesiva tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139485'>Ataxia espinocerebelosa autosómica recesiva tipo 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=254881'>Ataxia espinocerebelosa con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363710'>Ataxia espinocerebelosa con los movimientos oculares verticales alterados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94124'>Ataxia espinocerebelosa con neuropatía axonal tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=64753'>Ataxia espinocerebelosa con neuropatía axonal tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1186'>Ataxia espinocerebelosa de inicio en la lactancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85297'>Ataxia espinocerebelosa ligada al cromosoma X tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=85292'>Ataxia espinocerebelosa ligada al cromosoma X tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=254881'>Ataxia espinocerebelosa mitocondrial con epilepsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=208513'>Ataxia espinocerebelosa no progresiva congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98755'>Ataxia espinocerebelosa tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98761'>Ataxia espinocerebelosa tipo 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98767'>Ataxia espinocerebelosa tipo 11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98762'>Ataxia espinocerebelosa tipo 12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98768'>Ataxia espinocerebelosa tipo 13</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98763'>Ataxia espinocerebelosa tipo 14</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98769'>Ataxia espinocerebelosa tipo 15/16</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98759'>Ataxia espinocerebelosa tipo 17</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98771'>Ataxia espinocerebelosa tipo 18</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98772'>Ataxia espinocerebelosa tipo 19/22</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98756'>Ataxia espinocerebelosa tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98773'>Ataxia espinocerebelosa tipo 21</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98764'>Ataxia espinocerebelosa tipo 27</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=208513'>Ataxia espinocerebelosa tipo 29</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98757'>Ataxia espinocerebelosa tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=217012'>Ataxia espinocerebelosa tipo 31</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276183'>Ataxia espinocerebelosa tipo 32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1955'>Ataxia espinocerebelosa tipo 34</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276193'>Ataxia espinocerebelosa tipo 35</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276198'>Ataxia espinocerebelosa tipo 36</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363710'>Ataxia espinocerebelosa tipo 37</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=423296'>Ataxia espinocerebelosa tipo 38</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276238'>Ataxia espinocerebelosa tipo 3, tipo Joseph</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276244'>Ataxia espinocerebelosa tipo 3, tipo Machado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98765'>Ataxia espinocerebelosa tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=423275'>Ataxia espinocerebelosa tipo 40</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=458798'>Ataxia espinocerebelosa tipo 41</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=458803'>Ataxia espinocerebelosa tipo 42</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=497764'>Ataxia espinocerebelosa tipo 43</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98766'>Ataxia espinocerebelosa tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98758'>Ataxia espinocerebelosa tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=94147'>Ataxia espinocerebelosa tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98760'>Ataxia espinocerebelosa tipo 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276241'>Ataxia espinocerebelosa tipo Thomas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1955'>Ataxia espinocerebelosa y eritroqueratodermia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101110'>Ataxia espinocerebolosa tipo 20</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101108'>Ataxia espinocerebolosa tipo 23</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101111'>Ataxia espinocerebolosa tipo 25</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101112'>Ataxia espinocerebolosa tipo 26</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101109'>Ataxia espinocerebolosa tipo 28</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=211017'>Ataxia espinocerebolosa tipo 30</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247234'>Ataxia esporádica de inicio en el adulto de etiología desconocida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=183518'>Ataxia hereditaria rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=135'>Ataxia infantil con hipomielinización del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1187'>Ataxia letal con sordera y atrofia óptica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280620'>Ataxia mioclónica progresiva asociada a GOSR2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=280620'>Ataxia mioclónica progresiva del mar del Norte</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=97'>Ataxia paroxística familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137639'>Ataxia-retraso en la dentición-hipomielinización</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100'>Ataxia-telangiectasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251347'>Ataxia-telangiectasia-like</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=647'>Ataxia-telangiectasia variante 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96'>Ataxia tipo Friedreich</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=566852'>Atelencephaly</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1190'>Atelosteogénesis tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=56304'>Atelosteogénesis tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=56305'>Atelosteogénesis tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1190'>Atelosteogénesis tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=56304'>Atelosteogénesis tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=56305'>Atelosteogénesis tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95713'>Atireosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251347'>ATLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86875'>ATLL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=231401'>ATMDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=357107'>ATOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1195'>Atransferrinemia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=18'>ATR clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=402041'>ATR distal autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137920'>Atresia bilateral de coanas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=30391'>Atresia biliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=244283'>Atresia biliar con síndrome de malformación esplénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=30391'>Atresia biliar no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=498350'>Atresia biliar síndrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=498345'>Atresia biliar y trastornos asociados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137914'>Atresia coanal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1198'>Atresia de colon</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1199'>Atresia de esófago</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1202'>Atresia de laringe</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=95448'>Atresia de la válvula aórtica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1201'>Atresia del intestino delgado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99118'>Atresia del seno coronario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=30391'>Atresia de vías biliares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1203'>Atresia duodenal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2300'>Atresia intestinal múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1201'>Atresia intestinal tipo IIIb</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1205'>Atresia mitral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99141'>Atresia posterior de coanas-síndrome de linfedema</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1207'>Atresia pulmonar con comunicación interventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1209'>Atresia tricuspídea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=137917'>Atresia unilateral de coanas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=105'>Atresia uretral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65681'>Atresia vaginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1201'>Atresia yeyunal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1201'>Atresia yeyunoileal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86819'>Atriquia con lesiones papulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86819'>Atriquia papular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=542643'>Atrofia blanca de Milian</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=649'>Atrofia bulborum hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=97249'>Atrofia cerebelosa con microcefalia progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363969'>Atrofia cerebral autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=402364'>Atrofia cerebral y cerebelosa infantil con microcefalia postnatal progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247198'>Atrofia cerebral y cerebelosa progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=75373'>Atrofia coriorretiniana bifocal progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86813'>Atrofia coriorretiniana de Sveinsson</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=251295'>Atrofia coriorretiniana pigmentada paravenosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1433'>Atrofia coroidea y alopecia regionales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=54247'>Atrofia cortical posterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2290'>Atrofia de microvellosidades congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=101'>Atrofia dentato-rubro-pálido-luisiana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98981'>Atrofia esencial de iris</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=206580'>Atrofia espinal distal autosómica recesiva tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1217'>Atrofia espinal-oftalmoplejía-síndrome piramidal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=414'>Atrofia girata de la coroides y la retina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1214'>Atrofia hemifacial progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=221142'>Atrofia macular en confetti</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228277'>Atrofia macular hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=228272'>Atrofia macular primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2290'>Atrofia microvellosa congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65684'>Atrofia monomélica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=102'>Atrofia multisistémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227510'>Atrofia multisistémica tipo cerebeloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98933'>Atrofia multisistémica tipo parkinsoniano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=481'>Atrofia muscular bulbar y espinal ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=206701'>Atrofia muscular bulboespinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=206707'>Atrofia muscular bulboespinal del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=206710'>Atrofia muscular bulboespinal generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=206704'>Atrofia muscular bulboespinal infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=481'>Atrofia muscular bulboespinal ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1145'>Atrofia muscular espinal asociada a SMAX2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=207012'>Atrofia muscular espinal asociada con anomalías del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209335'>Atrofia muscular espinal autosómica dominante tipo Finkel de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1216'>Atrofia muscular espinal benigna congénita autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1216'>Atrofia muscular espinal benigna congénita con contracturas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1216'>Atrofia muscular espinal congénita no regresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404521'>Atrofia muscular espinal con insuficiencia respiratoria tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83418'>Atrofia muscular espinal crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83418'>Atrofia muscular espinal crónica infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1145'>Atrofia muscular espinal de inicio en la lactancia ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=486811'>Atrofia muscular espinal de inicio prenatal con fracturas óseas congénitas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83420'>Atrofia muscular espinal del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404521'>Atrofia muscular espinal diafragmática tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=53739'>Atrofia muscular espinal distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=140465'>Atrofia muscular espinal distal autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=140468'>Atrofia muscular espinal distal autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139552'>Atrofia muscular espinal distal autosómica recesiva tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139547'>Atrofia muscular espinal distal autosómica recesiva tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=314485'>Atrofia muscular espinal distal autosómica recesiva tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1216'>Atrofia muscular espinal distal benigna autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139518'>Atrofia muscular espinal distal juvenil autosómica dominante tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139557'>Atrofia muscular espinal distal ligada al cromosoma X tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139525'>Atrofia muscular espinal distal tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139547'>Atrofia muscular espinal distal tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=206580'>Atrofia muscular espinal distal tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139536'>Atrofia muscular espinal distal tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=431255'>Atrofia muscular espinal escapuloperoneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83330'>Atrofia muscular espinal infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83418'>Atrofia muscular espinal intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83419'>Atrofia muscular espinal juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=404521'>Atrofia muscular espinal ligada al cromosoma X con insuficiencia respiratoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1145'>Atrofia muscular espinal ligada al cromosoma X tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=70'>Atrofia muscular espinal proximal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363454'>Atrofia muscular espinal proximal asociada a BICD2 autosómica dominante de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363454'>Atrofia muscular espinal proximal asociada a BICD2 con predominio en extremidades inferiores autosómica dominante con contracturas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209341'>Atrofia muscular espinal proximal asociada a DYNC1H1 autosómica dominante de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209341'>Atrofia muscular espinal proximal asociada a DYNC1H1 con predominio en extremidades inferiores autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=211037'>Atrofia muscular espinal proximal autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363447'>Atrofia muscular espinal proximal autosómica dominante con predominancia de las extremidades inferiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=209335'>Atrofia muscular espinal proximal autosómica dominante de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363447'>Atrofia muscular espinal proximal autosómica dominante de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83330'>Atrofia muscular espinal proximal tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83418'>Atrofia muscular espinal proximal tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83419'>Atrofia muscular espinal proximal tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=83420'>Atrofia muscular espinal proximal tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=276435'>Atrofia muscular espinal, tipo Jokela</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=481'>Atrofia muscular espinobulbar asociada a SMAX1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=65684'>Atrofia muscular juvenil de las extremidades superiores distales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=454706'>Atrofia muscular progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=139589'>Atrofia musculas espinal distal con parálisis en las cuerdas vocales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227510'>Atrofia olivopontocerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98672'>Atrofia óptica autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67036'>Atrofia óptica autosómica dominante tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98673'>Atrofia óptica autosómica dominante tipo clásico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98673'>Atrofia óptica autosómica dominante tipo Kjer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67036'>Atrofia óptica autosómica dominante y catarata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=250932'>Atrofia óptica autosómica dominante y neuropatía periférica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98676'>Atrofia óptica autosómica recesiva aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98676'>Atrofia óptica autosómica recesiva no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67047'>Atrofia óptica autosómica recesiva tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=227976'>Atrofia óptica autosómica recesiva tipo OPA7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98673'>Atrofia óptica de Kjer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=104'>Atrofia óptica de Leber</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67047'>Atrofia óptica infantil con corea y paraparesia espástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=67047'>Atrofia óptica infantil con corea y paraplejía espástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98890'>Atrofia óptica ligada al cromosoma X de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98673'>Atrofia óptica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98890'>Atrofia óptica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98890'>Atrofia óptica tipo no-Leber de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98523'>Atrofia pontoneocerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=75373'>Atrofia progresiva bifocal de la coroides y la retina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79459'>Atrofoderma folicular-carcinoma de células basales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=140933'>Atrofoderma lineal de Moulin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=113'>Atrofodermia folicular y carcinomas de células basales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=79100'>Atrofodermia vermiculada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99966'>ATRT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3342'>ATS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=86818'>ATS-MR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=647'>AT V1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99098'>Aurícula derecha dividida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99099'>Aurícula izquierda dividida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=114'>Auriculo-osteo-displasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1398'>Ausencia casi total del cerebelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=48'>Ausencia congénita bilateral de los conductos deferentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294979'>Ausencia congénita de antebrazo y mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=2879'>Ausencia congénita de cúbito y peroné</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=217399'>Ausencia congénita de dolor con hiperhidrosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=289465'>Ausencia congénita de huellas dactilares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294973'>Ausencia congénita de húmero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294983'>Ausencia congénita de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294981'>Ausencia congénita de la parte inferior de la pierna y el pie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294975'>Ausencia congénita de la parte superior del brazo y el antebrazo con presencia de la mano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=495879'>Ausencia congénita del escroto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294977'>Ausencia congénita del muslo y la parte baja de la pierna con presencia del pie</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=93322'>Ausencia congénita de tibia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=247775'>Ausencia congénita de útero y vagina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96269'>Ausencia congénita de vagina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=982'>Ausencia congénita de válvula pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=73217'>Ausencia de conducto mulleriano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=453510'>Ausencia de dolor congénito con discapacidad intelectual grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294986'>Ausencia de pies</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99114'>Ausencia de VCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99114'>Ausencia de vena cava superior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99112'>Ausencia de vena innominada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=495879'>Ausencia escrotal congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=294988'>Ausencia/hipoplasia congénita del pulgar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=973'>Ausencia/hipoplasia congénita unilateral de los dedos de la mano a excepción del pulgar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=1398'>Ausencia subtotal del cerebelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=199627'>Autismo atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=563576'>Autoimmune hepatitis type 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=563581'>Autoimmune hepatitis type 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324530'>Autoinflamación-deficiencia de anticuerpos asociada a PLCG2-disregulación inmunológica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=100046'>Autosomal dominant intermediate Charcot-Marie-Tooth disease type D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=324585'>Autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=562538'>Autosomal recessive extra-oral halitosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=96'>AVED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99000'>AVMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=399164'>AVN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=399307'>AVN idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=399180'>AVN no traumática secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=399302'>AVN primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=399169'>AVN secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=399175'>AVN traumática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=98722'>AVSD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=58'>AxD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363717'>AxD tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=363722'>AxD tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=284454'>AZOOR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=3471'>Azoospermia-infecciones pulmonares-sinusitis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&Expert=99121'>Azygos continuation of the inferior vena cava</a></li>

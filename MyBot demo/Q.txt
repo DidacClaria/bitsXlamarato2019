@@ -1,0 +1,190 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207063'>Qualitative or quantitative defects of beta-sarcoglycan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207104'>Qualitative or quantitative defects of calpaïn</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207078'>Qualitative or quantitative defects of caveolin-3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207070'>Qualitative or quantitative defects of delta-sarcoglycan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207073'>Qualitative or quantitative defects of dysferlin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207085'>Qualitative or quantitative defects of dystrophin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207119'>Qualitative or quantitative defects of FKRP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207122'>Qualitative or quantitative defects of fukutin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207067'>Qualitative or quantitative defects of gamma-sarcoglycan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207098'>Qualitative or quantitative defects of integrin alpha-7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207094'>Qualitative or quantitative defects of merosin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207110'>Qualitative or quantitative defects of myotubularin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207101'>Qualitative or quantitative defects of perlecan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=207107'>Qualitative or quantitative defects of TRIM32</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1221'>Queilitis glandular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90076'>Quemaduras de segundo y tercer grado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101106'>Quemodectoma no secretante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2334'>Queratitis autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137593'>Queratitis epitelial infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137599'>Queratitis estromal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519930'>Queratitis fúngica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2334'>Queratitis hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137586'>Queratitis herpética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519278'>Queratitis infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314017'>Queratitis intersticial lineal idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519930'>Queratitis micótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137596'>Queratitis neurotrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67043'>Queratitis por acantoamoeba</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137586'>Queratitis por VHS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137586'>Queratitis por virus del herpes simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411777'>Queratoacantoma eruptivo generalizado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411777'>Queratoacantoma eruptivo generalizado de Grzybowski</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=493'>Queratoacantoma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65748'>Queratoacantoma múltiple tipo Ferguson-Smith</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447777'>Queratocistoma odontogénico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163934'>Queratoconjuntivitis atópica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88633'>Queratoconjuntivitis límbica superior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88633'>Queratoconjuntivitis límbica superior de Theodore</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70476'>Queratoconjuntivitis primaveral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293936'>Queratocono autosómico dominante con cataratas polares anteriores de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293936'>Queratocono familiar con cataratas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=522564'>Queratocono genético sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98623'>Queratocono sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498359'>Queratodermia acuagénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34217'>Queratodermia con cabello lanoso tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65282'>Queratodermia con cabello lanoso tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=420686'>Queratodermia con pelo lanoso tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79395'>Queratodermia-dermatosis ictiosiforme-beta-glucuronidasa elevada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=530838'>Queratodermia difusa no epidermolítica asociada a KRT1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494'>Queratodermia hereditaria mutilante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79395'>Queratodermia hereditaria mutilante con ictiosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79395'>Queratodermia loricrina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494'>Queratodermia mutilante de Vohwinkel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494'>Queratodermia mutilante más sordera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498359'>Queratodermia palmoplantar acuagénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1010'>Queratodermia palmoplantar autosómica dominante y alopecia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1366'>Queratodermia palmoplantar autosómica recesiva y alopecia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86919'>Queratodermia palmoplantar-clinodactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34217'>Queratodermia palmoplantar con miocardiopatía arritmogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307141'>Queratodermia palmoplantar difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307148'>Queratodermia palmoplantar difusa aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98349'>Queratodermia palmoplantar difusa aislada autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98356'>Queratodermia palmoplantar difusa aislada autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2337'>Queratodermia palmoplantar difusa autosómica dominante tipo Norrbotten</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369999'>Queratodermia palmoplantar difusa con fisuras dolorosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495'>Queratodermia palmoplantar difusa progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2337'>Queratodermia palmoplantar difusa tipo Botnia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2199'>Queratodermia palmoplantar epidermolítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2199'>Queratodermia palmoplantar epidermolítica tipo Voerner</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2199'>Queratodermia palmoplantar epidermolítica tipo Vörner</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2199'>Queratodermia palmoplantar eritrodérmica difusa tipo Voerner</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2199'>Queratodermia palmoplantar eritrodérmica difusa tipo Vörner</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50942'>Queratodermia palmoplantar estriada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307837'>Queratodermia palmoplantar focal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307846'>Queratodermia palmoplantar focal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370002'>Queratodermia palmoplantar focal con queratosis en las articulaciones</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402003'>Queratodermia palmoplantar focal no epidermolítica autosómica dominante con ampollas plantares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2200'>Queratodermia palmoplantar focal y gingival</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79357'>Queratodermia palmoplantar hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86923'>Queratodermia palmoplantar hereditaria tipo Gamborg-Nielsen</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=659'>Queratodermia palmoplantar mutilante con placas queratósicas periorificiales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307773'>Queratodermia palmoplantar mutilante difusa autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2337'>Queratodermia palmoplantar no epidermolítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448264'>Queratodermia palmoplantar no epidermolítica focal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79141'>Queratodermia palmoplantar numular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307995'>Queratodermia palmoplantar papulosa marginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79501'>Queratodermia palmoplantar papulosa tipo Buschke-Fischer-Brauer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2342'>Queratodermia palmoplantar-periodontopatía-onicogriposis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307967'>Queratodermia palmoplantar punctata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2338'>Queratodermia palmoplantar punctata aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79501'>Queratodermia palmoplantar punctata tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79502'>Queratodermia palmoplantar punctata tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=38'>Queratodermia palmoplantar punctata tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308013'>Queratodermia palmoplantar punctata tipo 3 sin elastoidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140966'>Queratodermia palmoplantar tipo Nagashima</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=87503'>Queratodermia palmoplantar transgrediens de Siemens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495'>Queratodermia palmoplantar transgrediens y progrediens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1010'>Queratodermia palmoplantar y alopecia congénita tipo Stevanovic</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1366'>Queratodermia palmoplantar y alopecia congénita tipo Wallis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=659'>Queratodermia palmoplantar y periorificial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519930'>Queratomicosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98958'>Queratopatía climática en gotas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137596'>Queratopatía neurotrófica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519406'>Queratopatía punteada superficial de Thygeson</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447777'>Queratoquiste odontogénico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=817'>Queratosis exfoliativa congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=218'>Queratosis folicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2340'>Queratosis folicular espinulosa decalvante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34217'>Queratosis palmoplantar con miocardiopatía arritmogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307141'>Queratosis palmoplantar difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307148'>Queratosis palmoplantar difusa aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=28378'>Queratosis palmoplantar-distrofia corneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50942'>Queratosis palmoplantar estriada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50942'>Queratosis palmoplantar estriada y areata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307837'>Queratosis palmoplantar focal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307846'>Queratosis palmoplantar focal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79357'>Queratosis palmoplantar hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79141'>Queratosis palmoplantar numular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=678'>Queratosis palmoplantar-periodontopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2342'>Queratosis palmoplantar-periodontopatía-onicogriposis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307967'>Queratosis palmoplantar punctata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=87503'>Queratosis palmoplantar transgrediens de Siemens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495'>Queratosis palmoplantar transgrediens y progrediens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50942'>Queratosis palmoplantar varians de Wachters</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498'>Queratosis pilosa roja y atrofiante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=495'>Queratosis progrediens hereditaria de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499'>Querión de Celso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=184'>Querubismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3019'>Querubismo-fibromatosis gingival-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264688'>Quilotórax congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199310'>Quimerismo 46,XX/46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199310'>Quimerismo tetragamético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99647'>Quiro-espondiloencondromatosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2356'>Quiste aracnoideo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2357'>Quiste broncogénico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480501'>Quiste de colédoco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93953'>Quiste de conducto tirogloso forma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141071'>Quiste de duplicación de la lengua en intestino proximal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141071'>Quiste de duplicación en lengua</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141071'>Quiste de duplicación en lengua de intestino anterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100047'>Quiste de duplicación esofágica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168816'>Quiste de inclusión multilocular peritoneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168816'>Quiste de inclusión peritoneal multilocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98922'>Quiste de la bolsa de Blake</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141037'>Quiste de la cuarta hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141013'>Quiste de la primera hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141022'>Quiste de la segunda hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141030'>Quiste de la tercera hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141083'>Quiste del conducto nasolagrimal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141046'>Quiste dermoide cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141051'>Quiste dermoide de cara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141046'>Quiste dermoide de cuello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141051'>Quiste dermoide de la cara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141103'>Quiste dermoide de la cavidad nasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141046'>Quiste dermoide del cuello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141051'>Quiste dermoide facial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141103'>Quiste dermoide nasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141103'>Quiste dermoide nasal del sino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=530033'>Quiste dermoide o epidermoide del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=530033'>Quiste dermoide o epidermoide del SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65250'>Quiste de Tarlov</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141071'>Quiste entérico de duplicación de la lengua</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141071'>Quiste entérico de duplicación en lengua</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141071'>Quiste gástrico de duplicación de la lengua</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141071'>Quiste gástrico de duplicación en lengua</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269197'>Quiste glioependimario/ependimario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141124'>Quiste laríngeo congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97366'>Quiste multilocular del riñón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268865'>Quiste neuroentérico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155838'>Quiste o fístula auricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=490'>Quiste onfalo-mesentérico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1647'>Quiste orbitario con malformaciones dérmicas focales y cerebrales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480553'>Quiste óseo aneurismático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83468'>Quiste óseo solitario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83468'>Quiste óseo unicameral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313906'>Quiste pancreático congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313906'>Quiste pancreático congénito neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65250'>Quiste perineural</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99131'>Quiste pleuropericárdico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93587'>Quiste renal genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97366'>Quiste renal multilocular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97366'>Quiste renal múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91351'>Quistes hipofisarios dermoides y epidermoides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141107'>Quiste sinusal dermoide nasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83468'>Quistes óseos unicamerales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155835'>Quistes y fístulas en la cara y en la cavidad oral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=492'>Quiste triquilemal proliferante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=488'>Quiste uracal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313906'>Quiste verdadero congénito del páncreas</a></li>

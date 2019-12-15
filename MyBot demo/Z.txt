@@ -1,0 +1,10 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295187'>Zigodactilia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295189'>Zigodactilia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295191'>Zigodactilia tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295193'>Zigodactilia tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295193'>Zigodactilia tipo Castilla</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295189'>Zigodactilia tipo Lueken</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295191'>Zigodactilia tipo Montagu</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295187'>Zigodactilia tipo Weidenreich</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73263'>Zigomicosis</a></li>

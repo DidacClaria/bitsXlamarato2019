@@ -1,0 +1,174 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79332'>v-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=108'>Babesiosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69736'>BADI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86814'>BAFME</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1223'>Balantidiasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1223'>Balantidiosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289539'>BAP1-related tumor predisposition syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64692'>Bartonelosis por infección por Bartonella bacilliformis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64694'>Bartonelosis por una infección por Bartonella quintana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=485631'>BASD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79301'>BASD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79303'>BASD2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79302'>BASD3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79095'>BASD4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65284'>BBGD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=110'>BBS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281122'>BCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281127'>BCA acral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=41751'>BCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=567502'>B-cell immunodeficiency-limb abnormalities-urogenital malformations syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=312'>BCIE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67038'>B-CLL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247203'>BDC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=113'>BDCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281122'>Bebé colodión autorresolutivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=281127'>Bebé colodión autorresolutivo acral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1945'>BECRS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1945'>BECTS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=322'>BEEC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166302'>Benign partial epilepsy with secondarily generalized seizures in infancy</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=133'>Beriliosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=133'>Beriliosis crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139455'>Bestrofinopatía autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=118'>Beta-manosidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=848'>Beta-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231230'>Beta-talasemia asociada a otra anomalía de la Hb</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231230'>Beta-talasemia asociada a otra anomalía de la hemoglobina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231226'>Beta-talasemia con cuerpos de inclusión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231386'>Beta-talasemia con enfermedades asociadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231226'>Beta-talasemia dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231222'>Beta-talasemia intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231214'>Beta-talasemia mayor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275749'>Beta-talasemia y enfermedades relacionadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306'>BFIE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306'>BFIS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=127'>BFLS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1949'>BFNS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1429'>BHC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93311'>BHMED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1247'>Bilharziosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166308'>BIMSE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529808'>BIND</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64545'>BINS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261579'>Blafarofimosis tipos 1 y 2, por una extensión de la cola de poli-A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261572'>Blafarofimosis tipos 1 y 2, por una mutación puntual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64742'>Blastoma pleuropulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64742'>Blastoma pleuro-pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99933'>Blastoma pleuro-pulmonar tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99934'>Blastoma pleuro-pulmonar tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99935'>Blastoma pleuro-pulmonar tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64741'>Blastoma pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50945'>BLC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1229'>BLC-PMG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519390'>Blefarocalasia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1253'>Blefarocalasia-labio doble</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1253'>Blefarocalasia - labio doble</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261579'>Blefarofimosis-epicanto inverso-ptosis, por una expansión de polyA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261579'>Blefarofimosis tipos 1 y 2, por una expansión de polyA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60041'>Bloqueo atrioventricular congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60041'>Bloqueo auriculoventricular completo congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60041'>Bloqueo cardíaco congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=871'>Bloqueo cardíaco progresivo familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=871'>Bloqueo de rama del haz de His</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319205'>BMAH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1243'>BMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293642'>BMRS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293707'>BMRS tipo Maat-Kievit-Brunner</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293707'>BMRS tipo MKB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2728'>BMRS tipo Ohdo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293725'>BMRS tipo V</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293725'>BMRS tipo Verloes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353253'>BMS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276399'>Bocio multinodular familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91358'>Bolsa esofágica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1302'>BONO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1303'>BOOP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91546'>Borreliosis de Lyme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=128'>Botriocefalosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1267'>Botulismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228371'>Botulismo alimentario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178481'>Botulismo con toxemia intestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178487'>Botulismo con toxemia intestinal de adultos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178478'>Botulismo con toxemia intestinal infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178475'>Botulismo cutáneo mediado por toxina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254509'>Botulismo iatrogénico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178478'>Botulismo infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=230800'>Botulismo infeccioso por toxinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178481'>Botulismo intestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178487'>Botulismo intestinal del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178487'>Botulismo intestinal del adulto por toxinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178478'>Botulismo intestinal infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178478'>Botulismo intestinal infantil por toxinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178481'>Botulismo intestinal por toxinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178481'>Botulismo por colonización intestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178487'>Botulismo por colonización intestinal en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178475'>Botulismo por herida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178475'>Botulismo por infección cutánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178475'>Botulismo por infecciones de piel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254504'>Botulismo por inhalación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178475'>Botulismo por inoculación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228371'>Botulismo por intoxicación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178475'>Botulismo por toxiinfección de la piel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178487'>Botulismo tipo infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329284'>BPAN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86870'>BPDCN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86852'>B-PLL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252131'>BPNST</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75374'>Bradiopsia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35099'>Braquicefalia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93382'>Braquidactilia A6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93394'>Braquidactilia-clinodactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1276'>Braquidactilia de Bilginturan</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498602'>Braquidactilia de Sugarman</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1275'>Braquidactilia-displasia articular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93409'>Braquidactilia-sindactilia, tipo Zhao</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93388'>Braquidactilia tipo A1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93396'>Braquidactilia tipo A2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93394'>Braquidactilia tipo A4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93389'>Braquidactilia tipo A5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93397'>Braquidactilia tipo A7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93383'>Braquidactilia tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140908'>Braquidactilia tipo B2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93395'>Braquidactilia tipo B y C combinadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93384'>Braquidactilia tipo C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93387'>Braquidactilia tipo E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1276'>Braquidactilia tipo E con talla baja e hipertensión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93396'>Braquidactilia tipo Mohr-Wriedt</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93397'>Braquidactilia tipo Smorgasbord</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1293'>Braquiolmia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93304'>Braquiolmia autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448242'>Braquiolmia autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93302'>Braquiolmia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93304'>Braquiolmia tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448242'>Braquiolmia tipo Hobaek/Toledo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93302'>Braquiolmia tipo Maroteaux</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1295'>Braquitelefalangia-dismorfia-síndrome de Kallmann</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1059'>BRBN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1945'>BRE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99960'>BRIC1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99961'>BRIC2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99960'>BRIC tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99961'>BRIC tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60033'>Bronquiectasia idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1303'>Bronquiolitis constrictiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1303'>Bronquiolitis obliterante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1303'>Bronquiolitis obliterante con enfermedad pulmonar obstructiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1302'>Bronquiolitis obliterante con neumonía organizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439881'>Bronquitis crupal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439881'>Bronquitis fibrinosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439881'>Bronquitis plástica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439881'>Bronquitis pseudomembranosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=109'>BRRS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2353'>BRSS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1304'>Brucelosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=528'>BSCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100976'>BSI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1980'>BSPDC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=125'>BSyn</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=65284'>BTBGD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=111'>BTHS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98976'>Buftalmia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98976'>Buftalmos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1243'>BVMD</a></li>

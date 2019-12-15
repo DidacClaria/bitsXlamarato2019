@@ -1,0 +1,364 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95'>FA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1166'>Facies aislada asimétrica de aspecto lloroso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3237'>Facio-audio-sinfalangismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79483'>Facomatosis cesioflammea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79484'>Facomatosis cesiomarmorata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2874'>Facomatosis pigmento-querátótica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2875'>Facomatosis pigmentovascular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79483'>Facomatosis pigmentovascular tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79485'>Facomatosis pigmentovascular tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79484'>Facomatosis pigmentovascular tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79485'>Facomatosis spilorosea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370068'>FACS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169826'>Factores de coagulación vitamina K-dependientes congénitos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220436'>Factor V Quebec</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300359'>FACU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=994'>FADS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329308'>FAHN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295002'>Falanges supernumerarias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295002'>Falange supernumeraria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=441'>Fallo autonómico puro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247768'>Fallo en el conducto mulleriano e hiperandrogenismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90062'>Fallo hepático agudo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90062'>Fallo hepático fulminante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217371'>Fallo hepático infantil agudo por un defecto de síntesis de las proteínas codificadas por el ADNm</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217371'>Fallo hepático infantil agudo por un defecto de síntesis de las proteínas codificadas por el ADN mitocondrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88'>Fallo idiopático de la médula ósea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=485382'>Fallo ovárico prematuro genético no adquirido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95409'>Fallo suprarrenal agudo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91495'>Falta de adhesión de la retina congénita no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86814'>FAME</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=441'>FAP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220460'>FAP atenuada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401911'>FAP atenuada ligada a AXIN2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3165'>Fascitis difusa con eosinofilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3165'>Fascitis eosinofílica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477742'>Fascitis nodular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477742'>Fascitis pseudosarcomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=405'>FBH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=405'>FBHH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=47045'>FCAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247868'>FCAS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440437'>FCCTX</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98970'>FCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268961'>FCD tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268973'>FCD tipo Ia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268980'>FCD tipo Ib</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268987'>FCD tipo Ic</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268994'>FCD tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269001'>FCD tipo IIa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269008'>FCD tipo IIb</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=272'>FCMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86814'>FCMTE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=47045'>FCU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324'>FD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324588'>FDFM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26106'>FDGC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98974'>FECD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79292'>FED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75565'>FEM tropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1986'>Femur bífido-ectrodactilia monodactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1987'>Fémur corto congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60015'>Fenestrae parietales symmetricae</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85110'>FENIB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=716'>Fenilcetonuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79254'>Fenilcetonuria clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79253'>Fenilcetonuria leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2209'>Fenilcetonuria materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401901'>Fenocopia de la enfermedad de Huntington asociada a C9ORF72</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401901'>Fenocopia de la enfermedad de Huntington por expansiones de C9ORF72</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91412'>Fenómeno de Marcus-Gunn</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98951'>Fenómeno de Marcus-Gunn invertido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276624'>Feocromocitoma esporádico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276621'>Feocromocitoma esporádico/paraganglioma secretor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29072'>Feocromocitoma-paraganglioma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29072'>Feocromocitoma-paraganglioma hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=45358'>FEOM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494428'>FEPPI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391384'>FEPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157846'>Ferritinopatía hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1980'>Ferrocalcinosis cerebrovascular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=891'>FEVR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254492'>FFA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398166'>FFDD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79133'>FFDD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398173'>FFDD2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1807'>FFDD3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398189'>FFDD4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79133'>FFDD tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398173'>FFDD tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1807'>FFDD tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=398189'>FFDD tipo IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98820'>FFEVF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1305'>FGLDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391641'>FGLDS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391646'>FGLDS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=235936'>FH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=403'>FH1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404'>FH2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251274'>FH3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=485426'>FHC aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401920'>FHCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=405'>FHH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306516'>FHHNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2196'>FHHNC con afectación ocular grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31043'>FHHNC sin afectación ocular grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93372'>FHH tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101049'>FHH tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101050'>FHH tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=403'>FH-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404'>FH-II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251274'>FH-III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1988'>FHUFS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=334'>Fibrilación auricular familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=130'>Fibrilación ventricular idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228140'>Fibrilación ventricular idiopática tipo no Brugada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228140'>Fibrilación ventricular paroxística familiar tipo no Brugada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=50920'>Fibroadenoma de mama múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180267'>Fibroadenoma gigante de mama</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252164'>Fibroblastoma periférico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2021'>Fibrocondrogenesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141067'>Fibrocondroma cervicofacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=337'>Fibrodisplasia osificante progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2022'>Fibroelastosis endocárdica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2022'>Fibroelastosis endomiocárdica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494428'>Fibroelastosis pleuroparenquimatosa idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494428'>Fibroelastosis pleuropulmonar idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199260'>Fibroma aponeurótico calcificado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404507'>Fibroma condromixoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435329'>Fibroma osificante familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435329'>Fibroma osificante múltiple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314473'>Fibroma ovárico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538756'>Fibromas discoides múltiples familiares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=873'>Fibromatosis agresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199260'>Fibromatosis aponeurótica juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199267'>Fibromatosis con cuerpos de inclusión</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199267'>Fibromatosis digital infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2024'>Fibromatosis gingival autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3473'>Fibromatosis gingival-hepatosplenomegalia-otras anomalías</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2024'>Fibromatosis gingival hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2028'>Fibromatosis hialina juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199251'>Fibromatosis plantar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477742'>Fibromatosis pseudosarcomatosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199257'>Fibromatosis superficial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=873'>Fibromatosis tipo desmoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2030'>Fibrosarcoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=449566'>Fibrosis angiocéntrica eosinofílica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=449566'>Fibrosis angiocéntrica eosinofílica asociada a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=45358'>Fibrosis congénita de músculos extraoculares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75565'>Fibrosis endomiocárdica tropical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=485426'>Fibrosis hepática congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63999'>Fibrosis mediastínica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2032'>Fibrosis pulmonar idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=586'>Fibrosis quística</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49041'>Fibrosis retroperitoneal asociada a IgG4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=49041'>Fibrosis retroperitoneal idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137617'>Fibrosis sistémica nefrogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357154'>Fibrosis submucosa oral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314478'>Fibrotecoma ovárico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99829'>Fiebre amarilla</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83313'>Fiebre botonosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31205'>Fiebre causada por mordeduras de rata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=781'>Fiebre cuadrilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99829'>Fiebre de Barbados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99824'>Fiebre de Lassa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64694'>Fiebre de las trincheras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99827'>Fiebre del Congo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228123'>Fiebre del desierto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319218'>Fiebre del Ébola</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83476'>Fiebre del Nilo occidental</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228123'>Fiebre del Valle</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319251'>Fiebre del valle del Rift</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228123'>Fiebre del valle de San Joaquín</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91546'>Fiebre de Lyme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=781'>Fiebre de Nine Mile</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99825'>Fiebre de Nipah</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64692'>Fiebre de Oroya</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99748'>Fiebre de Pontiac</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83317'>Fiebre de Tsutsugamushi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102022'>Fiebre en manchas tipo riquetsias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443227'>Fiebre entérica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99903'>Fiebre espirilar por mordedura de rata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319223'>Fiebre hemorrágica argentina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319229'>Fiebre hemorrágica boliviana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319239'>Fiebre hemorrágica brasileña</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=340'>Fiebre hemorrágica con síndrome renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319223'>Fiebre hemorrágica de Argentina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99827'>Fiebre hemorrágica de Crimea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99827'>Fiebre hemorrágica de Crimea-Congo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319254'>Fiebre hemorrágica de Kyasanur</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99824'>Fiebre hemorrágica de Lassa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99827'>Fiebre hemorrágica del Congo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319244'>Fiebre hemorrágica del virus Chapare</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319218'>Fiebre hemorrágica del virus Ébola</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319234'>Fiebre hemorrágica del virus Guanarito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319223'>Fiebre hemorrágica del virus Junin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319213'>Fiebre hemorrágica del virus Lujo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319229'>Fiebre hemorrágica del virus Machupo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319239'>Fiebre hemorrágica del virus Sabia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99826'>Fiebre hemorrágica de Marburg</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319266'>Fiebre hemorrágica de Omsk</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319213'>Fiebre hemorrágica de Zambia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319234'>Fiebre hemorrágica venezolana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=341'>Fiebre hemorrágica vírica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=32960'>Fiebre hiberniana familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251332'>Fiebre inexplicada de larga duración/síndrome inflamatorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83311'>Fiebre maculosa de las Montañas Rocosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83313'>Fiebre manchada mediterránea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=342'>Fiebre mediterránea familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443227'>Fiebre paratifoidea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498251'>Fiebre periódica dependiente de la fase luteal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498251'>Fiebre periódica dependiente del ciclo menstrual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251332'>Fiebre persistente/inflamación de origen desconocido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=344'>Fiebre por arbovirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83595'>Fiebre por garrapata de Colorado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=340'>Fiebre por hantavirus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=781'>Fiebre Q</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=781'>Fiebre 'query'</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91547'>Fiebre recurrente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3099'>Fiebre reumática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3099'>Fiebre reumática aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99745'>Fiebre tifoidea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99879'>FIHPT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171445'>Filaminopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63273'>Filaminopatía ABD distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93425'>Filaminopatía del hueso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2034'>Filariasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2035'>Filariasis linfática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352582'>FIME</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314777'>FIPA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163703'>FIRES</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228113'>Fístula anal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2037'>Fístula aorta-arteria pulmonar congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98731'>Fístula arteriovenosa congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97339'>Fístula arteriovenosa dural craneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97339'>Fístula arteriovenosa dural del cráneo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2039'>Fístula arteriovenosa sistémica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2041'>Fístula coronario-arterial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141037'>Fístula de la cuarta hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141013'>Fístula de la primera hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141022'>Fístula de la segunda hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141030'>Fístula de la tercera hendidura branquial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141219'>Fístula dorso nasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141064'>Fístula en labio inferior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141061'>Fístula en la comisura del labio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2040'>Fístula respiratorio-biliar congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454750'>Fístula traqueoesofágica aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=454750'>Fístula traqueoesofágica tipo H</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480531'>Fístula venosa portosistémica congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101023'>Fisura del paladar duro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155867'>Fisura de Tessier 1-1 y fisura facial 2-12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1991'>Fisura labial con o sin fisura palatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141291'>Fisura labioalveolar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199306'>Fisura labio-alveolo-palatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199306'>Fisura labiopalatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2319'>Fisura labiopalatina-anomalía de los pulgares-microcefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2006'>Fisura mediana del labio inferior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141242'>Fisura número 1 de Tessier</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141234'>Fisuras de Tessier 0-14 y fisura facial 30</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2882'>Fitosterolemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79293'>FLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217008'>Flebectasia difusa genuina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137839'>Flebitis séptica de la vena yugular interna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284362'>FLIT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199306'>FLP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435651'>FLPD asociada a CIDEC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=45452'>Flutter auricular neonatal idiopático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69063'>FMAIG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=342'>FMF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276399'>FMNG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3000'>FMPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228390'>FNDAG asociado a ALX4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319487'>FNMTC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2879'>Focomelia tipo Schinzel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=346'>Foliculitis decalvante de Quinquaud</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=346'>Foliculitis depilante de Quinquaud</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=345'>Foliculitis disecante de cuero cabelludo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79100'>Foliculitis uleritematosa reticulada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60015'>Foramina parietal ampliada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251290'>Foramina parietal con displasia cleidocraneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251290'>Foramina parietal con hipoplasia clavicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60015'>Foramina parietalia permagna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60015'>Foramina parietal simétrica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=795'>Forma rara de la salmonelosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=177926'>Forma sintomática de hemofilia A en mujeres portadoras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=177929'>Forma sintomática de hemofilia B en mujeres portadoras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206546'>Forma sintomática de la distrofia muscular de Duchenne y Becker en mujeres portadoras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=465508'>Forma sintomática de la hemocromatosis clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=465508'>Forma sintomática de la hemocromatosis hereditaria asociada a HFE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=465508'>Forma sintomática de la hemocromatosis tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276630'>Forma sintomática del síndrome de Coffin-Lowry en mujeres portadoras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=449291'>Forma sintomática del síndrome de X frágil en mujeres portadoras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519404'>Fosa del disco óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141096'>Fosa nasal supernumeraria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141096'>Fosas nasales accesorias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436'>Fosfoetanolaminuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247667'>Fosfoetanolaminuria de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247676'>Fosfoetanolaminuria del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247651'>Fosfoetanolaminuria infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247623'>Fosfoetanolaminuria perinatal letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247638'>Fosfoetanolaminuria prenatal benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183490'>Fotodermatosis genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79390'>Fotodermatosis rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183490'>Fotogenodermatosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183490'>Fotosensibilidad cutánea genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79390'>Fotosensibilidad cutánea rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=561854'>FOXG1 syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275777'>FPAH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=353220'>FPLCA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98306'>FPLD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79084'>FPLD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2348'>FPLD2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79083'>FPLD3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280356'>FPLD4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435651'>FPLD5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435660'>FPLD6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79085'>FPLD asociada a AKT2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435651'>FPLD asociada a CIDEC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=435660'>FPLD asociada a LIPE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280356'>FPLD asociada a PLIN1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79083'>FPLD asociada a PPARG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313808'>FPSG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=586'>FQ</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=412206'>Fracaso primario de la erupción dentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2771'>Fragilidad ósea-contracturas articulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2050'>Frágilidad ósea-craneosinostosis-proptosis-hidrocéfalo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2050'>Frágilidad ósea - craneosinostosis - proptosis - hidrocéfalo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284247'>FRAM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95'>FRDA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391474'>Frontorrinia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=469'>Fructosemia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2056'>Fructosuria esencial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1305'>FS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391641'>FS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391646'>FS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269'>FSHD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=243'>FSH-RO</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275872'>FTD-ALS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275872'>FTD-MND</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=349'>Fucosidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=227796'>Fundus albipunctatus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=827'>Fundus flavimaculatus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99004'>Fundus pulverulentus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563687'>Furuncular myiasis due to Cordylobia anthropophaga</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563690'>Furuncular myiasis due to Cordylobia rodhaini</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=563684'>Furuncular myiasis due to Dermatobia hominis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228119'>Fusariosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295215'>Fusión bilateral húmero-cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295219'>Fusión bilateral radiocubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2345'>Fusión congénita de los segmentos cervicales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2287'>Fusión de incisivos mandibulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2498'>Fusión de los metacarpianos 4 y 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295028'>Fusión de tibia-peroné</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457083'>Fusión esplenogonadal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94056'>Fusión húmero-cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3265'>Fusión húmero-radial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3266'>Fusión húmero-radio-cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141214'>Fusión maxilomandibular congénita aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3269'>Fusión radiocubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295213'>Fusión unilateral de húmero-cúbito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295217'>Fusión unilateral de radio-cúbito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2062'>Fusión vertebral anterior progresiva no infecciosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2345'>Fusión vertebral cervical congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=908'>FXS</a></li>

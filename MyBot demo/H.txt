@@ -1,0 +1,928 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139441'>H-ABC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=966'>HAFF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=386'>Hamartoma biliar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440727'>Hamartoma combinado de retina y epitelio pigmentario retiniano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440727'>Hamartoma combinado de retina y EPR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263435'>Hamartoma congénito de músculo liso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=386'>Hamartoma mesenquimal hepático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=386'>Hamartoma quístico hepático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86906'>Hamartomas hipotalámicos con crisis gelásticas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2111'>Hamartomatosis quística de pulmón y riñón</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289326'>HAM/TSP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=340'>Hantaviriasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182090'>HAP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275828'>HAP asociada a anemia hemolítica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275803'>HAP asociada a enfermedad cardíaca congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275798'>HAP asociada a enfermedad del tejido conectivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275823'>HAP asociada a esquistosomiasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275813'>HAP asociada a hipertensión portal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275808'>HAP asociada a infección por VIH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275791'>HAP asociada a otra enfermedad</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275844'>HAP con mecanismos multifactoriales no aclarados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275777'>HAPH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275766'>HAPI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275786'>HAP inducida por drogas o toxinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436159'>Haploinsuficiencia CTLA-4 con enfermedad de infiltración autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529980'>Haploinsuficiencia NFAT5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275791'>HAP secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84085'>HAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3325'>HAT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2118'>Hawkinsinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231242'>HbC-beta-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231249'>HbE-beta-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=352657'>HBID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330032'>Hb Lepore-beta-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251359'>HbS-beta-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363412'>HBSL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88673'>HCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529852'>HCC-CC combinado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33402'>HCC de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33402'>HCC pediátrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86864'>HCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85458'>HCHWA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100006'>HCHWA-D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324723'>HCHWA tipo ártico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324718'>HCHWA tipo flamenco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100006'>HCHWA tipo holandés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324708'>HCHWA tipo Iowa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100008'>HCHWA tipo islandés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324713'>HCHWA tipo italiano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324703'>HCHWA tipo piamontés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300878'>HCL-v</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=440727'>HCR-EPR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163690'>HCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238523'>HCS atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275938'>HDFN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=26106'>HDGC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157941'>HDL1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98934'>HDL2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157946'>HDL3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98759'>HDL4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313808'>HDLS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=288'>HE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238468'>HED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98813'>HED-ID</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=252054'>Hemangioblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458758'>Hemangioendotelioma compuesto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210584'>Hemangioendotelioma de célula fusiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157791'>Hemangioendotelioma epitelioide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2122'>Hemangioendotelioma kaposiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458763'>Hemangioendotelioma retiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=211277'>Hemangiolinfangioma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=459537'>Hemangiolinfangioma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221061'>Hemangioma cavernoso cerebral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221061'>Hemangioma cavernoso cerebral hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458775'>Hemangioma congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=458785'>Hemangioma congénito de involución parcial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141179'>Hemangioma congénito no involutivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141184'>Hemangioma congénito rápidamente involutivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329324'>Hemangioma cutáneo con atrofia muscular u ósea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210584'>Hemangioma de célula fusiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=210589'>Hemangioma infantil de localización rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140436'>Hemangioma intraóseo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199241'>Hemangiomatosis capilar pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2123'>Hemangiomatosis neonatal difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=464318'>Hemangioma verrugoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=562509'>Heme oxygenase-1 deficiency</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95719'>Hemiagenesia tiroidea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443070'>Hemicránea continua</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157835'>Hemicrania paroxística</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139'>Hemidisplasia congénita con nevus ictiosiforme y defectos en las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221083'>Hemiespasmo facial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2128'>Hemihiperplasia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2128'>Hemihipertrofia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2130'>Hemimelia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=498491'>Hemimelia completa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93320'>Hemimelia cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93323'>Hemimelia fibular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93321'>Hemimelia radial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93322'>Hemimelia tibial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209978'>Hemiplejia alternante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2131'>Hemiplejía alternante de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209973'>Hemiplejía alternante nocturna benigna de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99050'>Hemitruncus arterioso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139491'>Hemocromatosis hereditaria autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220489'>Hemocromatosis hereditaria rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79230'>Hemocromatosis juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=225123'>Hemocromatosis ligada a TFR2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=446'>Hemocromatosis neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79230'>Hemocromatosis tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=225123'>Hemocromatosis tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139491'>Hemocromatosis tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447792'>Hemocromatosis tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448'>Hemofilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98878'>Hemofilia A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73274'>Hemofilia adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169802'>Hemofilia A grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169808'>Hemofilia A leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169805'>Hemofilia A moderamente grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98879'>Hemofilia B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169793'>Hemofilia B grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169799'>Hemofilia B leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169796'>Hemofilia B moderadamente grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329'>Hemofilia C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=68364'>Hemoglobinopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466066'>Hemoglobinopatía genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330041'>Hemoglobinopatía M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280615'>Hemoglobinopatía Toms River</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2132'>Hemoglobinosis C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2133'>Hemoglobinosis E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=447'>Hemoglobinuria paroxística nocturna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90035'>Hemoglobinuria paroxística por frío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=244242'>Hemólisis, enzimas hepáticas elevadas, disminución de las plaquetas en el embarazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171898'>Hemopatía linfoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171895'>Hemopatía mieloide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90060'>Hemorragia alveolar difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85458'>Hemorragia cerebral hereditaria con amiloidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324723'>Hemorragia cerebral hereditaria con amiloidosis tipo ártico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324718'>Hemorragia cerebral hereditaria con amiloidosis tipo flamenco</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100006'>Hemorragia cerebral hereditaria con amiloidosis tipo holandés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324708'>Hemorragia cerebral hereditaria con amiloidosis tipo Iowa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100008'>Hemorragia cerebral hereditaria con amiloidosis tipo islandés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324713'>Hemorragia cerebral hereditaria con amiloidosis tipo italiano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324703'>Hemorragia cerebral hereditaria con amiloidosis tipo piamontés</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75326'>Hemorragia retinal con tortuosidad vascular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75326'>Hemorragia retiniana con tortuosidad vascular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90065'>Hemorragia subaracnoidea aneurismática adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319205'>Hemorragia suprarrenal bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=319205'>Hemorragia suprarrenal masiva bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247245'>Hemosiderosis del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99931'>Hemosiderosis pulmonar idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99930'>Hemosiderosis pulmonar secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247245'>Hemosiderosis superficial del sistema nervioso central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247245'>Hemosiderosis superficial del SNC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98873'>HEMPAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141242'>Hendidura aislada del ala nasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141242'>Hendidura alar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141288'>Hendidura cervical de la línea media</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141229'>Hendidura craneofacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=414726'>Hendidura craneofacial genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141234'>Hendidura de la línea media facial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141234'>Hendidura de la parte media de la cara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141239'>Hendidura de la parte media de la cara en estado medio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141242'>Hendidura de la rima alar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141242'>Hendidura del borde alar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99772'>Hendidura del paladar blando</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99772'>Hendidura del velo del paladar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99772'>Hendidura del velo palatino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2017'>Hendidura esternal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141229'>Hendidura facial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141276'>Hendidura facial en la comisura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=414726'>Hendidura facial genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141269'>Hendidura facial lateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141258'>Hendidura facial número 4 de Tessier</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141261'>Hendidura facial número 5 de Tessier</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141265'>Hendidura facial número 6 de Tessier</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141276'>Hendidura facial número 7 de Tessier</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141253'>Hendidura facial oblicua</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155867'>Hendidura facial paramediana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141276'>Hendidura facial transversal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1991'>Hendidura labial con o sin hendidura palatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2004'>Hendidura laringotraqueoesofágica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2004'>Hendidura laringo-traqueo-esofágica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280205'>Hendidura laringotraqueoesofágica tipo 0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280205'>Hendidura laringo-traqueo-esofágica tipo 0</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93938'>Hendidura laringotraqueoesofágica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93938'>Hendidura laringo-traqueo-esofágica tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93939'>Hendidura laringotraqueoesofágica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93939'>Hendidura laringo-traqueo-esofágica tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93940'>Hendidura laringotraqueoesofágica tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93940'>Hendidura laringo-traqueo-esofágica tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93941'>Hendidura laringotraqueoesofágica tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93941'>Hendidura laringo-traqueo-esofágica tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401942'>Hendidura media del labio superior e inferior familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1993'>Hendidura media del labio superior-lipoma del cuerpo calloso-pólipos cutáneos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141239'>Hendidura mediana en labio superior y maxila</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141234'>Hendidura medio-facial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141239'>Hendidura mediofacial en línea media</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141242'>Hendidura nasal paramediana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141242'>Hendidura número 1 de Tessier</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141253'>Hendidura orbitofacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141234'>Hendiduras faciales de Tessier números 0-14 y 30</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155867'>Hendiduras faciales de Tessier números 1-1 y 2-12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=155878'>Hendidura submucosa del paladar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99771'>Hendidura uvular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95159'>HEP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2137'>Hepatitis autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2137'>Hepatitis crónica autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=402823'>Hepatitis delta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480524'>Hepatitis peliótica idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35063'>Hepatitis viral fulminante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=449'>Hepatoblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529852'>Hepatocarcinoma-colangiocarcinoma combinado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33402'>Hepatocarcinoma de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401920'>Hepatocarcinoma fibromelar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33402'>Hepatocarcinoma pediátrico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529852'>Hepatocolangiocarcinoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137681'>Hepatoencefalopatía por COXPD1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137681'>Hepatoencefalopatía por deficiencia combinada de la fosforilación oxidativa tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95159'>Hepatoerythropoietic porphyria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=480506'>Hepatolitiasis primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289601'>Hereditary arterial and articular multiple calcification syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=773'>Heredopatía atáctica polineuritiforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2140'>Hernia diafragmática congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35061'>Herpes cutáneo recidivante e incapacitante idiopático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314970'>HES-L</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314970'>HES linfoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314950'>HES-M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314950'>HESN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314950'>HES primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314962'>HESR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314962'>HES secundario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2762'>Heteroplasia ósea progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=450'>Heterotaxia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101063'>Heterotaxia viscero-atrial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141112'>Heterotopia glial nasal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2149'>Heterotopia nodular hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98892'>Heterotopia nodular periventricular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101029'>Heterotopia nodular sub-cortical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101030'>Heterotopia nodular subependimal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99796'>Heterotopia subcortical en banda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99796'>Heterotopia subcortical laminar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1041'>HF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2438'>HFGS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364013'>HF inmunitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363999'>HF no inmunitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2744'>HGPPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163'>HHCS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276280'>HHML</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157215'>HHRH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=774'>HHT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=457'>HI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2176'>Hialinosis sistémica infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=602'>HIBM2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79091'>HIBM3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324381'>HIBM4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>HIBM-ERF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=400'>Hidatidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=840'>Hidradenoma verrugoso fístulo-vegetativo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2177'>Hidranencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330021'>Hidrargiria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329967'>Hidrartrosis intermitente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330061'>Hidroa estival</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330058'>Hidroa vacciniforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=899'>Hidrocefalia-agiria-displasia retiniana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269505'>Hidrocefalia comunicante congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2182'>Hidrocefalia con estenosis del acueducto de Silvio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2185'>Hidrocefalia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314928'>Hidrocefalia crónica del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314928'>Hidrocefalia de presión normal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2119'>Hidrocefalia-fibroelastosis-cataratas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=916'>Hidrocefalia-fisura palatina-contracturas articulares</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=916'>Hidrocefalia-hendidura palatina-rigidez articular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=221126'>Hidrocefalia/hidrancefalia por vasculopatía cerebral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2182'>Hidrocefalia ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2182'>Hidrocefalia ligada al cromosoma X con estenosis del acueducto de Silvio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269510'>Hidrocefalia no comunicante congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269505'>Hidrocefalia no obstructiva congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269510'>Hidrocefalia obstructiva congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3280'>Hidromelia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1041'>Hidropesía fetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163596'>Hidropesía fetal alfa-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163596'>Hidropesía fetal con Hb de Bart</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163596'>Hidropesía fetal con hemoglobina de Bart</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163596'>Hidropesía fetal de Bart</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364013'>Hidropesía fetal inmunitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363999'>Hidropesía fetal no inmunitaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79155'>Hidroxiquinureninuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=343'>HIDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2314'>HIES autosómico dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=243367'>Hígado graso agudo del embarazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101088'>HIGM1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101089'>HIGM2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101090'>HIGM3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101091'>HIGM4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101092'>HIGM5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183663'>HIGM con susceptibilidad a infecciones oportunistas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183666'>HIGM sin susceptibilidad a infecciones oportunistas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238624'>HII</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165991'>HIIE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401'>Himenolepiasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3222'>Hiperactividad de la fosforribosilpirofosfato-sintetasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3222'>Hiperactividad de la PRPP sintetasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3222'>Hiperactividad de la PRPS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411543'>Hiperactividad grave de la fosforribosilpirofosfato-sintetasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411543'>Hiperactividad grave de la PRPP sintetasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411543'>Hiperactividad grave de la PRPS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411536'>Hiperactividad leve de la fosforibosilpirofosfato sintetasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411536'>Hiperactividad leve de la PRPP sintetasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411536'>Hiperactividad leve de la PRPS1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=553'>Hiperadrenocorticismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309147'>Hiperalaninemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=235936'>Hiperaldosteronismo familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=403'>Hiperaldosteronismo familiar tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404'>Hiperaldosteronismo familiar tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251274'>Hiperaldosteronismo familiar tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=403'>Hiperaldosteronismo familiar tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404'>Hiperaldosteronismo familiar tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251274'>Hiperaldosteronismo familiar tipo III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=371861'>Hiperaldosteronismo genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181415'>Hiperaldosteronismo primario raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231637'>Hiperaldosteronismo primario raro corregible por cirugía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231641'>Hiperaldosteronismo primario raro no corregible por cirugía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181428'>Hiperalfalipoproteinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79506'>Hiperalfalipoproteinemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=927'>Hiperamonemia por deficiencia de N-acetilglutamato sintasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289877'>Hiperamonemia transitoria del recién nacido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168588'>Hiperandrogenismo por deficiencia de cortisona reductasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90'>Hiperargininemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=309147'>Hiper-beta-alaninemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2312'>Hiperbilirrubinemia neonatal transitoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=205'>Hiperbilirrubinemia no conjugada hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79234'>Hiperbilirrubinemia no conjugada hereditaria tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79235'>Hiperbilirrubinemia no conjugada hereditaria tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276405'>Hiperbiliverdinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300547'>Hipercalcemia del lactante autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300547'>Hipercalcemia del lactante familiar con supresión de la hormona paratiroidea intacta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=405'>Hipercalcemia familiar benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=405'>Hipercalcemia hipocalciúrica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=405'>Hipercalcemia hipocalciúrica familiar benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93372'>Hipercalcemia hipocalciúrica familiar tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101049'>Hipercalcemia hipocalciúrica familiar tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101050'>Hipercalcemia hipocalciúrica familiar tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2196'>Hipercalciuria-coloboma macular bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2197'>Hipercalciuria idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199285'>Hipercarotinemia hereditaria y deficiencia de vitamina A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206599'>HiperCKemia asintomática aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206599'>HiperCKemia asintomática idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=542657'>Hiperclorhidrosis aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238475'>Hipercolanemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238475'>Hipercolanemia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391665'>Hipercolesterolemia familiar homocigota</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=209902'>Hipercolesterolemia por deficiencia de colesterol 7-alfa-hidroxilasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477811'>Hipercolesterolemia rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=553'>Hipercortisolismo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280628'>Hiper- e hipopigmentación familiar progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306773'>Hiperekplexia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306776'>Hiperekplexia esporádica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3197'>Hiperekplexia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178345'>Hiperestrogenismo familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84142'>Hiperexcitabilidad del nervio periférico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3197'>Hiperexplexia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295002'>Hiperfalangia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1388'>Hiperfalangia-clinodactilia del dedo índice con síndrome de Pierre Robin</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1578'>Hiperfenilalaninemia con primapterinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293284'>Hiperfenilalaninemia/fenilcetonuria sensible a BH4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293284'>Hiperfenilalaninemia/fenilcetonuria sensible a la tetrahidrobiopterina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79651'>Hiperfenilalaninemia leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2209'>Hiperfenilalaninemia materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238583'>Hiperfenilalaninemia no fenilcetonúrica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=508523'>Hiperfenilalaninemia no fenilcetonúrica sin deficiencia de BH4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238583'>Hiperfenilalaninemia por deficiencia de BH4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1578'>Hiperfenilalaninemia por deficiencia de deshidratasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=508523'>Hiperfenilalaninemia por deficiencia de DNAJC12</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1578'>Hiperfenilalaninemia por deficiencia de pterin-4 alfa-carbinolamina deshidratasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238583'>Hiperfenilalaninemia por deficiencia de tetrahidrobiopterina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254704'>Hiperferritinemia benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254704'>Hiperferritinemia genética sin sobrecarga de hierro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=163'>Hiperferritinemia hereditaria con cataratas congénitas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3416'>Hiperfosfatasemia tardía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2801'>Hiperfosfatasia hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289863'>Hiperglicemia no cetósica atípica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289860'>Hiperglicemia no cetósica infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289857'>Hiperglicemia no cetósica neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=408'>Hiperglicerolemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=35'>Hiperglicinemia cetósica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=407'>Hiperglicinemia no cetósica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=438274'>Hiperglucagonemia asociada a GCGR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2157'>Hiperhistidinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2194'>Hiperinmunización anti-HLA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=343'>Hiperinmunoglobulinemia D con fiebre periódica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=343'>Hiperinmunoglobulinemia D con fiebre recurrente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1928'>Hiperinsuflación lobar congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1928'>Hiperinsuflación lobar infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276580'>Hiperinsulinismo autosómico dominante por deficiencia de Kir6.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276575'>Hiperinsulinismo autosómico dominante por deficiencia de SUR1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79644'>Hiperinsulinismo autosómico recesivo por deficiencia de Kir6.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79643'>Hiperinsulinismo autosómico recesivo por deficiencia de SUR1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=657'>Hiperinsulinismo congénito aislado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165988'>Hiperinsulinismo difuso resistente al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165985'>Hiperinsulinismo difuso sensible al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276525'>Hiperinsulinismo familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79298'>Hiperinsulinismo focal resistente al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276603'>Hiperinsulinismo focal resistente al diazóxido por deficiencia de Kir6.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276598'>Hiperinsulinismo focal resistente al diazóxido por deficiencia de SUR1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165991'>Hiperinsulinismo inducido por ejercicio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71212'>Hiperinsulinismo por deficiencia de 3-hidroxilacil-CoA dehidrogenasa de cadena corta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79299'>Hiperinsulinismo por deficiencia de glucoquinasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71212'>Hiperinsulinismo por deficiencia de glutamodeshidrogenasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71212'>Hiperinsulinismo por deficiencia de HADH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324575'>Hiperinsulinismo por deficiencia de HNF1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263455'>Hiperinsulinismo por deficiencia de HNF4A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263458'>Hiperinsulinismo por deficiencia de INSR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165991'>Hiperinsulinismo por deficiencia del transportador de monocarboxilato 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71212'>Hiperinsulinismo por deficiencia de SCHAD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165991'>Hiperinsulinismo por deficiencia de SLC16A1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276556'>Hiperinsulinismo por deficiencia de UCP2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276585'>Hiperinsulinismo resistente al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>HiperKPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91135'>Hiperlaxitud de la piel del cuerpo por deficiencia de factor de coagulación dependiente de vitamina K</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140905'>Hiperlipidemia por deficiencia de LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140905'>Hiperlipidemia por deficiencia de lipasa hepática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140905'>Hiperlipidemia por deficiencia de TLH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140905'>Hiperlipidemia por deficiencia de triacilglicerol lipasa hepática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140905'>Hiperlipidemia por deficiencia de triglicérido lipasa hepática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181422'>Hiperlipidemia rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=412'>Hiperlipidemia tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=412'>Hiperlipoproteinemia remanente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=412'>Hiperlipoproteinemia tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2203'>Hiperlisinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2203'>Hiperlisinemia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3124'>Hiperlisinemia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79150'>Hipermelanosis nevoide lineal y en espiral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289290'>Hipermetioninemia ADK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289891'>Hipermetioninemia por deficiencia de glicina N-metiltransferasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289891'>Hipermetioninemia por deficiencia de GNMT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88618'>Hipermetioninemia por deficiencia de S-adenosil homocisteína hidrolasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98622'>Hipermetropía sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98621'>Hipermetropía y astigmatismo raros</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98622'>Hiperopía sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=414'>Hiperornitinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=414'>Hiperornitinemia-atrofia girada de la coroides y la retina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391327'>Hiperostosis calvaria ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2801'>Hiperostosis cortical deformante juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2204'>Hiperostosis cortical displásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3416'>Hiperostosis cortical generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1310'>Hiperostosis cortical infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3152'>Hiperostosis cortical sindactilia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443098'>Hiperostosis craneal interna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2790'>Hiperostosis endostal tipo Worth</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178311'>Hiperostosis esternocostoclavicular aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2206'>Hiperostosis vertebral anquilosante con tilosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=416'>Hiperoxaluria primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93598'>Hiperoxaluria primaria tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93599'>Hiperoxaluria primaria tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93600'>Hiperoxaluria primaria tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99879'>Hiperparatiroidismo aislado familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2207'>Hiperparatiroidismo familiar primario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208596'>Hiperparatiroidismo genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=417'>Hiperparatiroidismo primario neonatal grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181408'>Hiperparatiroidismo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99880'>Hiperparatiroidismo-síndrome de tumor de mandíbula</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79375'>Hiperpigmentación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79146'>Hiperpigmentación familiar progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183466'>Hiperpigmentación genética de la piel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423'>Hiperpirexia maligna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477781'>Hiperplasia condilar primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477781'>Hiperplasia condilar tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217560'>Hiperplasia de células neuroendocrinas de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2024'>Hiperplasia gingival autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2024'>Hiperplasia gingival hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141145'>Hiperplasia hemifacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1241'>Hiperplasia hemifacial-estratoísmo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300373'>Hiperplasia hipofisaria hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=60026'>Hiperplasia linfoide nodular y pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=48372'>Hiperplasia nodular regenerativa del hígado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99878'>Hiperplasia paratiroidea familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99878'>Hiperplasia paratiroidea hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99878'>Hiperplasia paratiroidea primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=160148'>Hiperplasia polipoide erosionada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418'>Hiperplasia suprarrenal congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90794'>Hiperplasia suprarrenal congénita clásica por deficiencia de 21-hidroxilasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=315306'>Hiperplasia suprarrenal congénita clásica por deficiencia de 21-hidroxilasa, forma perdedora de sal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=315311'>Hiperplasia suprarrenal congénita clásica por deficiencia de 21-hidroxilasa, forma virilizante simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325524'>Hiperplasia suprarrenal congénita lipoide clásica por deficiencia de STAR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325529'>Hiperplasia suprarrenal congénita lipoide no clásica por deficiencia de STAR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90790'>Hiperplasia suprarrenal congénita lipoide por deficiencia de STAR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90795'>Hiperplasia suprarrenal congénita por deficiencia de 11-beta-hidroxilasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90793'>Hiperplasia suprarrenal congénita por deficiencia de 17-alfa-hidroxilasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90791'>Hiperplasia suprarrenal congénita por deficiencia de 3-beta-hidroxiesteroide deshidrogenasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95699'>Hiperplasia suprarrenal congénita por deficiencia de citocromo P450 oxidoreductasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95699'>Hiperplasia suprarrenal congénita por deficiencia de citocromo POR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=189427'>Hiperplasia suprarrenal macronodular bilateral primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=189427'>Hiperplasia suprarrenal macronodular debida al síndrome de Cushing</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231580'>Hiperplasia suprarrenal primaria unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=757'>Hiperpotasemia-hipertensión tipo Gordon</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=757'>Hiperpotasemia hipertensiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=757'>Hiperpotasemia resistente a mineralocorticoides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>HiperPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>HiperPP familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>HiperPP primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=397685'>Hiperprolactinemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=419'>Hiperprolinemia tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79101'>Hiperprolinemia tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308013'>Hiperqueratosis acral focal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=312'>Hiperqueratosis epidermolítica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=409'>Hiperqueratosis lenticularis persistans</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1010'>Hiperqueratosis palmoplantar autosómica dominante y alopecia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1366'>Hiperqueratosis palmoplantar autosómica recesiva y alopecia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85112'>Hiperqueratosis palmoplantar-cambio de sexo XX-predisposición a carcinoma de células escamosas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34217'>Hiperqueratosis palmoplantar con miocardiopatía arritmogénica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307141'>Hiperqueratosis palmoplantar difusa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307148'>Hiperqueratosis palmoplantar difusa aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98349'>Hiperqueratosis palmoplantar difusa aislada autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98356'>Hiperqueratosis palmoplantar difusa aislada autosómica recesiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307837'>Hiperqueratosis palmoplantar focal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307846'>Hiperqueratosis palmoplantar focal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2200'>Hiperqueratosis palmoplantar focal y gingival</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79357'>Hiperqueratosis palmoplantar hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=86923'>Hiperqueratosis palmoplantar hereditaria tipo Gamborg-Nielsen</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=659'>Hiperqueratosis palmoplantar mutilante con placas queratósicas periorificiales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307773'>Hiperqueratosis palmoplantar mutilante difusa autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79141'>Hiperqueratosis palmoplantar numular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307995'>Hiperqueratosis palmoplantar papulosa marginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2342'>Hiperqueratosis palmoplantar-periodontopatía-onicogriposis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=307967'>Hiperqueratosis palmoplantar punctata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2338'>Hiperqueratosis palmoplantar punctata aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79502'>Hiperqueratosis palmoplantar punctata tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=38'>Hiperqueratosis palmoplantar punctata tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=308013'>Hiperqueratosis palmoplantar punctata tipo 3 sin elastoidosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140966'>Hiperqueratosis palmoplantar tipo Nagashima</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99932'>Hipersensibilidad a la leche de vaca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33208'>Hipersomnia idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33208'>Hipersomnia primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1519'>Hipertelorismo tipo Teebi</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182090'>Hipertensión arterial pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275828'>Hipertensión arterial pulmonar asociada a anemia hemolítica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275803'>Hipertensión arterial pulmonar asociada a enfermedad cardíaca congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275798'>Hipertensión arterial pulmonar asociada a enfermedad del tejido conectivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275823'>Hipertensión arterial pulmonar asociada a esquistosomiasis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275813'>Hipertensión arterial pulmonar asociada a hipertensión portal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275791'>Hipertensión arterial pulmonar asociada a otra enfermedad</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275808'>Hipertensión arterial pulmonar asociada con infección por VIH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275844'>Hipertensión arterial pulmonar con mecanismos multifactoriales no aclarados</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275777'>Hipertensión arterial pulmonar familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275777'>Hipertensión arterial pulmonar hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275766'>Hipertensión arterial pulmonar idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=422'>Hipertensión arterial pulmonar idiopática y/o familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275786'>Hipertensión arterial pulmonar inducida por fármacos o toxinas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275766'>Hipertensión arterial pulmonar primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88660'>Hipertensión de inicio temprano con exacerbación durante el embarazo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156629'>Hipertensión genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=757'>Hipertensión hiperpotasémica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238624'>Hipertensión intracraneal benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238624'>Hipertensión intracraneal idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88660'>Hipertension por mutaciones con ganancia de función del receptor mineralocorticoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=494348'>Hipertensión portal no cirrótica familiar de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275813'>Hipertensión portopulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93618'>Hipertensión por una causa rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275837'>Hipertensión pulmonar debida a una enfermedad pulmonar y/o hipoxia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71198'>Hipertensión pulmonar rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=70591'>Hipertensión pulmonar tromboembólica crónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=403'>Hipertensión sensible a glucocorticoides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=403'>Hipertensión sensible a la dexametasona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423'>Hipertermia de la anestesia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=423'>Hipertermia maligna de la anestesia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=466650'>Hipertermia maligna inducida por el ejercicio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99819'>Hipertiroidismo familiar gestacional</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424'>Hipertiroidismo familiar por mutaciones de receptor de TSH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181399'>Hipertiroidismo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54260'>Hipertrabeculación del ventrículo izquierdo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3387'>Hipertricosis cervical anterior aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79495'>Hipertricosis congénita generalizada ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2026'>Hipertricosis congénita generalizada terminal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1023'>Hipertricosis congénita generalizada tipo Ambras</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79495'>Hipertricosis congénita generalizada tipo Macias-Flores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2026'>Hipertricosis con o sin hiperplasia gingival</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2220'>Hipertricosis cubital</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2221'>Hipertricosis lanuginosa adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2222'>Hipertricosis lanuginosa congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300293'>Hipertrigliceridemia e hígado graso regresivos infantil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300293'>Hipertrigliceridemia y esteatosis hepática infantil transitoria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2224'>Hipertriptofanemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295051'>Hipertrofia de las extremidades inferiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=295049'>Hipertrofia de las extremidades superiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2709'>Hipertrofia gingival-distrofia corneal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2128'>Hipertrofia hemicorporal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141145'>Hipertrofia hemifacial</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180176'>Hipertrofia juvenil familiar de la mama</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275534'>Hipertrofia muscular asociada a la miostatina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79233'>Hiperuricemia asociada a HPRT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251523'>Hiperzincemia e hipercalprotectinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=383'>Hipoacusia mixta neurosensorial y conductiva ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90625'>Hipoacusia neurosensorial aislada ligada al cromosoma X tipo DFN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217622'>Hipoacusia neurosensorial con miocardiopatía dilatada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168609'>Hipoacusia neurosensorial mitocondrial aislada susceptible a una exposición a aminoglucósidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=168609'>Hipoacusia neurosensorial mitocondrial no sindrómica susceptible a una exposición a aminoglucósidos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141152'>Hipoaglosia/aglosia aislada congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=427'>Hipoaldosteronismo familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=556037'>Hipoaldosteronismo familiar de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=556030'>Hipoaldosteronismo familiar de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=556037'>Hipoaldosteronismo hiperreninémico familiar de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=556030'>Hipoaldosteronismo hiperreninémico familiar de inicio temprano</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181419'>Hipoaldosteronismo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31153'>Hipoalfalipoproteinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=425'>Hipoalfalipoproteinemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31154'>Hipobetalipoproteinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71'>Hipobetalipoproteinemia con deleción selectiva de Apo B-48</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=14'>Hipobetalipoproteinemia familiar homocigota</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=428'>Hipocalcemia AD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=428'>Hipocalcemia autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93297'>Hipocondrogénesis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=429'>Hipocondroplasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217059'>Hipocratismo digital aislado congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=396'>Hipo crónico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1551'>Hipocupremia benigna familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294988'>Hipodactilia del pulgar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=973'>Hipodactilia unilateral de los dedos 2-5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=248408'>Hipodisfibrinogenemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101041'>Hipofibrinogenemia familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95506'>Hipofisitis autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95512'>Hipofisitis pituitaria anterior</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95506'>Hipofisitis primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436'>Hipofosfatasia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247667'>Hipofosfatasia de inicio en la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247676'>Hipofosfatasia del adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247651'>Hipofosfatasia del lactante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247623'>Hipofosfatasia perinatal letal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247638'>Hipofosfatasia prenatal benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89937'>Hipofosfatemia autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=244305'>Hipofosfatemia dominante con nefrolitiasis u osteoporosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89936'>Hipofosfatemia ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=229717'>Hipogammaglobulinemia aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1572'>Hipogammaglobulinemia primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=169139'>Hipogammaglobulinemia transitoria de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=156212'>Hipoglosia/aglosia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443095'>Hipoglucemia hiperinsulinémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276580'>Hipoglucemia hiperinsulinémica autosómica dominante por deficiencia de Kir6.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276575'>Hipoglucemia hiperinsulinémica autosómica dominante por deficiencia de SUR1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79644'>Hipoglucemia hiperinsulinémica autosómica recesiva por deficiencia de Kir6.2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79643'>Hipoglucemia hiperinsulinémica autosómica recesiva por deficiencia de SUR1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276525'>Hipoglucemia hiperinsulinémica familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165988'>Hipoglucemia hiperinsulinémica, forma difusa resistente al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165985'>Hipoglucemia hiperinsulinémica, forma difusa sensible al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79298'>Hipoglucemia hiperinsulinémica, forma focal resistente al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=165991'>Hipoglucemia hiperinsulinémica inducida por el ejercicio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=657'>Hipoglucemia hiperinsulinémica persistente de la infancia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276608'>Hipoglucemia hiperinsulinémica persistente sin insulinoma de inicio en el adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71212'>Hipoglucemia hiperinsulinémica por deficiencia de 3-hidroxilacil-CoA dehidrogenasa de cadena corta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79299'>Hipoglucemia hiperinsulinémica por deficiencia de glucoquinasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324575'>Hipoglucemia hiperinsulinémica por deficiencia de HNF1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263455'>Hipoglucemia hiperinsulinémica por deficiencia de HNF4A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263458'>Hipoglucemia hiperinsulinémica por deficiencia de INSR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276603'>Hipoglucemia hiperinsulinémica por deficiencia de Kir6.2 resistente al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263458'>Hipoglucemia hiperinsulinémica por deficiencia de receptor de insulina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276598'>Hipoglucemia hiperinsulinémica por deficiencia de SUR1 resistente al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276556'>Hipoglucemia hiperinsulinémica por deficiencia de UCP2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=276585'>Hipoglucemia hiperinsulinémica resistente al diazóxido</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293964'>Hipoglucemia hipoinsulinémica y hemihipertrofia corporal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181390'>Hipogonadismo hipogonadotrópico asociado con otras endocrinopatías</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=174590'>Hipogonadismo hipogonadotrópico congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238666'>Hipogonadismo hipogonadotrópico congénito aislado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=478'>Hipogonadismo hipogonadotrópico congénito con anosmia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=432'>Hipogonadismo hipogonadotropo normosómico congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=432'>Hipogonadismo hipogonadotropo normosómico idiopático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=358'>Hipokalemia-hipomagnesemia tubular renal primaria con hipocalciuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181431'>Hipolipidemia rara</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34528'>Hipomagnesemia aislada autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199326'>Hipomagnesemia aislada autosómica dominante, tipo Glaudemans</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=30924'>Hipomagnesemia causada por malabsorción selectiva de magnesio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31043'>Hipomagnesemia familiar primaria con hipercalciuria y nefrocalcinosis sin afectación ocular grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=30924'>Hipomagnesemia intestinal con hipocalcemia secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=30924'>Hipomagnesemia intestinal tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34528'>Hipomagnesemia primaria autosómica dominante con hipocalciuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=30924'>Hipomagnesemia primaria con hipocalcemia secundaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34526'>Hipomagnesemia primaria familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306516'>Hipomagnesemia primaria familiar con hipercalciuria y nefrocalcinosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2196'>Hipomagnesemia primaria familiar con hipercalciuria y nefrocalcinosis con afectación ocular grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306519'>Hipomagnesemia primaria familiar con hipocalciuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306522'>Hipomagnesemia primaria familiar con normocalciuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34527'>Hipomagnesemia primaria familiar con normocalciuria y normocalcemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34528'>Hipomagnesemia renal tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31043'>Hipomagnesemia renal tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363412'>Hipomielinización con afectación del tronco cerebral y de la médula espinal y espasticidad de los miembros inferiores</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139441'>Hipomielinización con atrofia de los ganglios basales y del cerebelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2238'>Hipoparatiroidismo aislado familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2239'>Hipoparatiroidismo aislado familiar por agenesia de la glándula paratiroidea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=189466'>Hipoparatiroidismo aislado familiar por deficiencia de secreción de PTH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36913'>Hipoparatiroidismo autoinmune</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=208593'>Hipoparatiroidismo genético</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181405'>Hipoparatiroidismo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=140286'>Hipoparatiroidismo secundario por una secreción deficiente de paratohormona</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79376'>Hipopigmentación</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183469'>Hipopigmentación genética de la piel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324561'>Hipopigmentación guttata y queratodermia palmoplantar punctata</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324561'>Hipopigmentación y queratosis punctata de palmas y plantas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=162516'>Hipoplasia aislada de apertura nasal piriforme</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=199630'>Hipoplasia aislada del vermis cerebeloso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269218'>Hipoplasia aislada unilateral de los hemisferios cerebelosos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137902'>Hipoplasia/aplasia aislada del nervio óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180193'>Hipoplasia/aplasia mamaria sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99083'>Hipoplasia arterial pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=294973'>Hipoplasia congénita de húmero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1122'>Hipoplasia cubital-deformidad de los pies en garra de langosta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=175'>Hipoplasia de cartílago-cabello</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=175'>Hipoplasia de cartílago-pelo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=755'>Hipoplasia de células de Leydig</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325448'>Hipoplasia de células de Leydig por deficiencia de la subunidad beta de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325448'>Hipoplasia de células de Leydig por deficiencia de LHB</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>Hipoplasia de células de Leydig por inactivación completa del receptor de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>Hipoplasia de células de Leydig por inactivación completa del receptor de LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>Hipoplasia de células de Leydig por inactivación parcial del receptor de la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>Hipoplasia de células de Leydig por inactivación parcial del receptor de LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>Hipoplasia de células de Leydig por resistencia completa a la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96265'>Hipoplasia de células de Leydig por resistencia completa a LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>Hipoplasia de células de Leydig por resistencia parcial a la hormona luteinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96266'>Hipoplasia de células de Leydig por resistencia parcial a LH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99058'>Hipoplasia del anillo de la válvula mitral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1454'>Hipoplasia del vermis cerebeloso-oligofrenia-ataxia congénita-coloboma-fibrosis hepática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2092'>Hipoplasia dérmica focal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=519398'>Hipoplasia foveal aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=33355'>Hipoplasia hematopoyética generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=269221'>Hipoplasia hemisférica cerebelosa bilateral aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93457'>Hipoplasia no sindrómica de las extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166063'>Hipoplasia olivopontocerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166068'>Hipoplasia olivopontocerebelosa de inicio fetal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98523'>Hipoplasia pontocerebelosa no sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324569'>Hipoplasia pontocerebelosa por mutación CHMP1A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411493'>Hipoplasia pontocerebelosa por mutación en CLP1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2254'>Hipoplasia pontocerebelosa tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=411493'>Hipoplasia pontocerebelosa tipo 10</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2524'>Hipoplasia pontocerebelosa tipo 2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97249'>Hipoplasia pontocerebelosa tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166063'>Hipoplasia pontocerebelosa tipo 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166068'>Hipoplasia pontocerebelosa tipo 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=166073'>Hipoplasia pontocerebelosa tipo 6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284339'>Hipoplasia pontocerebelosa tipo 7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=324569'>Hipoplasia pontocerebelosa tipo 8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369920'>Hipoplasia pontocerebelosa tipo 9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284339'>Hipoplasia pontocerebelosa-trastorno del desarrollo sexual 46,XY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98523'>Hipoplasia pontoneocerebelosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2257'>Hipoplasia pulmonar primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2258'>Hipoplasia pulmonar unilateral congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93101'>Hipoplasia renal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97362'>Hipoplasia renal bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97361'>Hipoplasia renal unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97598'>Hipoplasia renovascular congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98606'>Hipoplasia sindrómica del borde orbitario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137905'>Hipoplasia sindrómica del nervio óptico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95702'>Hipoplasia suprarrenal congénita citomegálica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95702'>Hipoplasia suprarrenal congénita ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95700'>Hipoplasia suprarrenal familiar con ausencia de la hormona luteinizante hipofisaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95700'>Hipoplasia suprarrenal familiar por ausencia de la LH hipofisaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95700'>Hipoplasia suprarrenal familiar tipo miniatura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95720'>Hipoplasia tiroidea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1166'>Hipoplasia unilateral congénita del músculo depresor del ángulo de la boca</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=180139'>Hipoplasia uterina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97598'>Hipoplasia vascular-renal congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=439'>Hipoplasia ventricular derecha aislada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=722'>Hipoplasminogenemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69744'>Hipoqueratosis circunscrita palmo-plantar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=753'>Hipospadias perineoescrotal pseudovaginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2353'>Hipotelorismo-paladar hendido-hipospadias</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443180'>Hipotensión intracraneal espontánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=441'>Hipotensión ortostática idiopática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=182058'>Hipotensión ortostática primaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=448426'>Hipotensión ortostática primaria genética</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29822'>Hipotermia episódica espontánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=29822'>Hipotermia periódica espontánea</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238696'>Hipotiroidimo congénito transitorio por causa materna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99832'>Hipotiroidismo central por deficiencia del receptor TRH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=442'>Hipotiroidismo congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=226298'>Hipotiroidismo congénito central</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329235'>Hipotiroidismo congénito central ligado al cromosoma X con agrandamiento testicular de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329235'>Hipotiroidismo congénito central ligado al cromosoma X con macroorquidismo de inicio tardío</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=226316'>Hipotiroidismo congénito genético transitorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95717'>Hipotiroidismo congénito idiopático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=226292'>Hipotiroidismo congénito permanente</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95711'>Hipotiroidismo congénito por anomalía del desarrollo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95715'>Hipotiroidismo congénito por el paso transplacentario de anticuerpos maternos inhibidores de la unión a TSH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=226313'>Hipotiroidismo congénito por la ingesta materna de medicamentos antitiroideos</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95711'>Hipotiroidismo congénito primario por anomalía del desarrollo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=95714'>Hipotiroidismo congénito primario sin anomalía del desarrollo del tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178045'>Hipotiroidismo congénito transitorio</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=238699'>Hipotiroidismo congénito transitorio por un factor neonatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3047'>Hipotiroidismo-dismorfia-polidactilia postaxial-discapacidad intelectual</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1226'>Hipotiroidismo-hendidura del paladar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=226310'>Hipotiroidismo periférico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=226307'>Hipotiroidismo por factores de transcripción deficientes implicados en el desarrollo o función de la hipófisis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90673'>Hipotiroidismo por mutaciones en el receptor de la TSH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=226295'>Hipotiroidismo primario congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181396'>Hipotiroidismo raro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=177101'>Hipotiroidismo raro adulto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=177107'>Hipotiroidismo sindrómico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137908'>Hipotonia con acidemia láctica e hiperamonemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=91131'>Hipotonía e ictiosis por deficiencia de dolicol fosfato</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1195'>Hipotransferrinemia congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444'>Hipotricosis congénita de Marie Unna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2266'>Hipotricosis-discapacidad intelectual tipo Lopes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217407'>Hipotricosis hereditaria con vesículas cutáneas recurrentes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444'>Hipotricosis hereditaria de Marie Unna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=55654'>Hipotricosis hereditaria simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=55654'>Hipotricosis simple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90368'>Hipotricosis simple del cuero cabelludo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90368'>Hipotricosis simple del cuero cabelludo hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=444'>Hipotricosis tipo Marie Unna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=94088'>Hipouricemia renal hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99803'>Hipoventilación alveolar central congénita-enfermedad de Hirschsprung</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=137577'>Hipoxia perinatal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63440'>Hipsicefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=63440'>Hipsocefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2157'>Histidinemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2157'>Histidinuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157991'>Histiocitoma eruptivo generalizado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2023'>Histiocitoma fibroso maligno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79105'>Histiocitoma fibroso maligno tipo mixoide</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300865'>Histiocitosis atípica regresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158029'>Histiocitosis azul marino</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157997'>Histiocitosis cefálica benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=389'>Histiocitosis de células de Langerhans</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158019'>Histiocitosis de células indeterminadas</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157987'>Histiocitosis de células no Langerhans</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157991'>Histiocitosis eruptiva generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158022'>Histiocitosis nodular progresiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158025'>Histiocitosis progresiva mucinosa hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158014'>Histiocitosis sinusal con linfadenopatía masiva</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=390'>Histoplasmosis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3325'>HIT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443291'>HIV associated cancers</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1573'>HJMD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158032'>HLH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=412'>HLP tipo 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=523'>HLRCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178464'>HMERF</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=386'>HMH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139536'>HMN V distal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157794'>HMPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=401964'>HMSN2 con axones gigantes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64748'>HMSN 3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=773'>HMSN 4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64751'>HMSN 5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=476109'>HMSN axonal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90119'>HMSN con acrodistrofia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=476116'>HMSN desmielinizante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64748'>HMSN III</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=773'>HMSN IV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99950'>HMSN-Lom</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90117'>HMSNP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99950'>HMSN tipo Lom</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64751'>HMSN V</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=69084'>HNED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93111'>HNF1B-MODY</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171915'>HNL de células B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443909'>HNPCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=640'>HNPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391665'>HoFH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=414'>HOGA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2162'>Holoprosencefalia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93925'>Holoprosencefalia alobar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280200'>Holoprosencefalia, forma menor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93924'>Holoprosencefalia lobar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280200'>Holoprosencefalia microforma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=220386'>Holoprosencefalia semilobar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280195'>Holoprosencefalia septopreóptica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2166'>Holoprosencephaly-postaxial polydactyly syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=30924'>HOMG1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=34528'>HOMG2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=31043'>HOMG3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=394'>Homocistinuria clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=394'>Homocistinuria por deficiencia de cistationina beta-sintasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=395'>Homocistinuria por deficiencia de metilentetrahidrofolato reductasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=622'>Homocistinuria sin aciduria metilmalónica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2762'>HOP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79651'>HPA leve</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79651'>HPA no PKU</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293284'>HPA/PKU sensible a BH4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293284'>HPA/PKU sensible a la tetrahidrobiopterina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=255'>HPD con fluctuación diurna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98808'>HPD con marcada fluctuación diurna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=275837'>HP debida a una enfermedad pulmonar y/o hipoxia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2162'>HPE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280200'>HPE, forma menor</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280200'>HPE-L</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280200'>HPE microforma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280195'>HPE septopreóptica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=46532'>HPFH-beta-talasemia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=436'>HPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293958'>HPPD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=47044'>HPRCC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79430'>HPS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=183678'>HPS2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231531'>HPS7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231537'>HPS8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=280663'>HPS9</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231500'>HPS con fibrosis pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231512'>HPS sin fibrosis pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=84085'>HS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36386'>HSAN1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=456318'>HSAN1E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=970'>HSAN2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1764'>HSAN3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=642'>HSAN4</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=64752'>HSAN5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=314381'>HSAN6</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391397'>HSAN7</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=478664'>HSAN8</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=391397'>HSAN con hiperhidrosis y disfunción gastrointestinal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=320385'>HSAN por mutación en TECPR2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2182'>HSAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2182'>HSAS ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=418'>HSC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90794'>HSC 21-OHD clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=315306'>HSC 21-OHD clásica, forma perdedora de sal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=315311'>HSC clásica virilizante por 21-OHD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325524'>HSCL clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=325529'>HSCL no clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=388'>HSCR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=30924'>HSH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=456318'>HSN1E</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=685'>HSP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>HSP no complicada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102012'>HSP pura</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=404448'>HVDAS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93160'>HVDRR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364039'>HVLL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217330'>Hyperuricemia-anemia-renal failure syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=682'>HYPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251523'>Hz/Hc</a></li>

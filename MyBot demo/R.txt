@@ -1,0 +1,156 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3097'>Rabdomioma-cardiopatía-anomalías genitales</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=780'>Rabdomiosarcoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99756'>Rabdomiosarcoma alveolar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213802'>Rabdomiosarcoma cervical</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213802'>Rabdomiosarcoma de cuello de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=213615'>Rabdomiosarcoma de cuerpo de útero</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99757'>Rabdomiosarcoma embrionario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293199'>Rabdomiosarcoma pleomórfico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206492'>Rabdomiosarcoma vulvovaginal</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=770'>Rabia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=541454'>R-ACAOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100057'>RAE</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100019'>RAEB-1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=100020'>RAEB-2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178307'>RAK</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268114'>RALD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293987'>Rapid-onset childhood obesity-hypothalamic dysfunction-hypoventilation-autonomic dysregulation syndrome</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289157'>Raquitismo dependiente de vitamina D tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93160'>Raquitismo dependiente de vitamina D tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93160'>Raquitismo hereditario resistente a la vitamina D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289103'>Raquitismo hipocalcémico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289157'>Raquitismo hipocalcémico dependiente de vitamina D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93160'>Raquitismo hipocalcémico resistente a la vitamina D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=437'>Raquitismo hipofosfatémico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89937'>Raquitismo hipofosfatémico autosómico dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289176'>Raquitismo hipofosfatémico autosómico recesivo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=157215'>Raquitismo hipofosfatémico hereditario con hipercalciuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89936'>Raquitismo hipofosfatémico ligado al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1652'>Raquitismo hipofosfatémico recesivo ligado al cromosoma X con hipercalciuria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289157'>Raquitismo por deficiencia de pseudovitamina D</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93160'>Raquitismo resistente a la vitamina D tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98364'>Rare constitutional hemolytic anemia due to a red cell membrane anomaly</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=556508'>Rare disorder due to poisoning</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=565779'>Rare disorder potentially indicated for transplant or complication after transplantation</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=557866'>Rare disorder with Hirschsprung disease as a major feature</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75564'>RARS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=536391'>RASopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98961'>RBCD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79127'>RB-ILD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=96175'>RC11</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=177'>RCDP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89841'>RDEB-Ce</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89841'>RDEB centrípeta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79408'>RDEB generalizada grave</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89842'>RDEB generalizada intermedia</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89842'>RDEB generalizada mitigada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89842'>RDEB generalizada (otras no graves)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79408'>RDEB grave generalizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79409'>RDEB-I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79409'>RDEB invertida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89842'>RDEB-O</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79408'>RDEB-sev gen</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79408'>RDEB, tipo Hallopeau-Siemens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89842'>RDEB tipo no Hallopeau-Siemens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=171220'>Rectal duplication</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=838'>RED-M</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289365'>Reflujo vesicoureteral familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90073'>Reinfección por hepatitis B después de trasplante hepático</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=263708'>Reordenamiento cromosómico complejo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566231'>Resistance to thyroid hormone due to a mutation in thyroid hormone receptor alpha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=566243'>Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=413684'>Resistencia a antagonistas de la vitamina K</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=364195'>Resistencia a bleomicina en el tratamiento del cáncer testicular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=529825'>Resistencia a la colchicina</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=424'>Resistencia a la hormona estimulante de tiroides</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240935'>Resistencia al clopidogrel</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=240947'>Resistencia al tamoxifeno</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=633'>Resistencia primaria a la GH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=633'>Resistencia primaria a la hormona del crecimiento</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=562522'>Response to monoclonal antibody treatment</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284102'>Respuesta al tratamiento antiviral en la hepatitis C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284102'>Respuesta a PEG/IFN-ribavirina en VHC</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=412206'>Retención primaria de los dientes</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=58017'>Reticuloendoteliosis leucémica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139436'>Reticulohistiocitosis multicéntrica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=330064'>Reticuloide actínico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178517'>Reticulosis pagetoide localizada</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178517'>Reticulosis pagetoide tipo Woringer-Kolopp</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99179'>Retina moteada de Kandori</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363989'>Retina moteada familiar benigna</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=52427'>Retinitis punctata albescens</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=790'>Retinoblastoma</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357027'>Retinoblastoma bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357027'>Retinoblastoma familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357027'>Retinoblastoma hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357034'>Retinoblastoma no familiar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357034'>Retinoblastoma no hereditario</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=357034'>Retinoblastoma unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179'>Retinocoroiditis "birdshot"</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=179'>Retinocoroidopatía "birdshot"</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3086'>Retinocoroidopatía vítrea autosómica dominante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284454'>Retinopatía aguda zonal oculta externa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71505'>Retinopatía asociada a cancer</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=41751'>Retinopatía cristalina de Bietti</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90050'>Retinopatía del prematuro</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=838'>Retinopatía, encefalopatía, sordera asociada a microangiopatía</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=284460'>Retinopatía externa anular aguda</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=71505'>Retinopatía paraneoplásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139455'>Retinopatía tipo Burgess-Black</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=791'>Retinosis pigmentaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=98661'>Retinosis pigmentaria sindrómica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=886'>Retinosis pigmentaria-sordera</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85332'>Retinosis pigmentaria y discapacidad intelectual por del(X)(p11.3)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85332'>Retinosis pigmentaria y discapacidad intelectual por microdeleción Xp11.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85332'>Retinosis pigmentaria y discapacidad intelectual por monosomía Xp11.3</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53540'>Retinosquisis con nictalopía temprana</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=792'>Retinosquisis juvenil ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=792'>Retinosquisis ligada al cromosoma X</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3090'>Retorno venoso pulmonar anómalo congénito</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=99176'>Retracción palpebral congénita</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3034'>Retraso de la osificación craneal membranosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329195'>Retraso del desarrollo con TEA e inestabilidad en la marcha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=329195'>Retraso del desarrollo con trastorno del espectro autista e inestabilidad en la marcha</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2101'>Retraso del desarrollo-hipotonía-hipotrofia de extremidades</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=79157'>Retraso del desarrollo por deficiencia de 2-metilbutiril-CoA-deshidrogenasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289307'>Retraso del desarrollo por deficiencia de ALDH6A1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289307'>Retraso del desarrollo por deficiencia de metilmalonato semialdehído deshidrogenasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=289307'>Retraso del desarrollo por deficiencia de MMSDH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=313892'>Retraso del desarrollo y del lenguaje por deficiencia de SOX5</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73272'>Retraso en el crecimiento por deficiencia del factor de crecimiento similar a la insulina tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=73273'>Retraso en el crecimiento por resistencia al factor de crecimiento similar a la insulina tipo 1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=88618'>Retraso psicomotor por deficiencia de S-adenosil homocisteina hidrolasa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=228123'>Reumatismo del desierto</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=36397'>Reumatismo del tejido adiposo</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=477650'>Reumatismo fibroblástico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139466'>Reversión sexual-disgenesia adrenal, renal y pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=139466'>Reversión sexual-disgenesia renal, suprarrenal y pulmonar</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=244310'>RFT1-CDG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251975'>RGNT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=141184'>RICH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102023'>Rickettsiosis del grupo tifus</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=83312'>Rickettsiosis exantemática</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=102021'>Rickttesiae</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=268337'>RI-CMT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=217055'>RI-CMT tipo A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=254334'>RI-CMT tipo B</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=369867'>RI-CMT tipo C</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1851'>Riñón displásico multiquístico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97364'>Riñón displásico multiquístico bilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=97363'>Riñón displásico multiquístico unilateral</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1309'>Riñón esponjoso medular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=499103'>RINR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206575'>'Rippling muscle disease' adquirida</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=206575'>'Rippling muscle disease' inmunomediado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93307'>rMED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=59315'>Romboencefalosinapsis</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=1507'>RRS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2785'>RTA mixta</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293848'>RTLA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3095'>RTT atípico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247691'>RVCL</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=247691'>RVCL-S</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293848'>rvFTD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=461'>RXLI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=261529'>r(Y)</a></li>

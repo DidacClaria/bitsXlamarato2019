@@ -1,0 +1,48 @@
+
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=43'>X-ALD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3467'>Xantinuria clásica</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3467'>Xantinuria hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93601'>Xantinuria tipo I</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=93602'>Xantinuria tipo II</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=251607'>Xantoastrocitoma pleomórfico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158000'>Xantogranuloma juvenil</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158011'>Xantogranuloma necrobiótico</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158003'>Xantoma diseminado</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=158008'>Xantoma papular</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=909'>Xantomatosis cerebrotendinosa</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=9'>X cuádruple</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=67044'>XDAT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=53351'>XDP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=293621'>XECD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=3202'>Xerocitosis hereditaria</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=910'>Xeroderma pigmentoso</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90342'>Xeroderma pigmentoso tipo variante</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=181'>XHED</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=101088'>XHIGM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=300373'>X-LAG (acrogigantismo ligado al cromosoma X)</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=596'>XLCNM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443197'>XLDPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=264580'>XLG</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=89936'>XLH</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=461'>XLI</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=596'>XLMTM</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=54'>XLOA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=306597'>XLOS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2442'>XLP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443197'>XLP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538931'>XLP1</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=538934'>XLP2</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=85453'>XLPDR</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=443197'>XLPP</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=792'>XLRS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=75563'>XLSA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=2802'>XLSA-A</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=231393'>XLTT</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=25980'>XMEA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=317476'>XMEN</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=178461'>XMPMA</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=363654'>XPDS</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=90342'>XPV</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=243'>XX-GD</a></li>
+  <li><a href='OC_Exp.php?lng=ES&amp;Expert=370930'>XYLT1-CDG</a></li>
+
